@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/jar/ts.jar",
+    "spider": "https://saulxxx.github.io/future/jar/ts.jar",
     "lives": [
         {
             "group": "redirect",
@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3NhdWx4eHgvZnV0dXJlQG1haW4vdHYvbGl2ZS50eHQ="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ="
                     ]
                 }
             ]
@@ -167,10 +167,10 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/Bili.json"
+            "ext": "https://saulxxx.github.io/future/XBP/Bili.json"
         },
-        //{ "key": "csp_xpath_czspp", "name": "🏓厂长资源(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/czspp.json" },
-        //{ "key": "csp_xpath_cokemv", "name": "🏓Cokemv(XP)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/cokemv.json" },
+        //{ "key": "csp_xpath_czspp", "name": "🏓厂长资源(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/czspp.json" },
+        //{ "key": "csp_xpath_cokemv", "name": "🏓Cokemv(XP)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/cokemv.json" },
         {
             "key": "csp_xpath_qiumi",
             "name": "⚽️球迷(XP)",
@@ -179,7 +179,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/qiumi.json"
+            "ext": "https://saulxxx.github.io/future/XBP/qiumi.json"
         },
         {
             "key": "csp_xpath_88kanqiu",
@@ -189,7 +189,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/88kanqiu.json"
+            "ext": "https://saulxxx.github.io/future/XBP/88kanqiu.json"
         },
         {
             "key": "csp_xpath_huya",
@@ -199,7 +199,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/huya.json"
+            "ext": "https://saulxxx.github.io/future/XBP/huya.json"
         },
         {
             "key": "csp_biubiu_斗鱼",
@@ -209,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/douyu.json"
+            "ext": "https://saulxxx.github.io/future/XBP/douyu.json"
         },
         {
             "key": "csp_xpath_kuqimv",
@@ -219,7 +219,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/kuqimv.json"
+            "ext": "https://saulxxx.github.io/future/XBP/kuqimv.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -229,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/555dy.json"
+            "ext": "https://saulxxx.github.io/future/XBP/555dy.json"
         },
         {
             "key": "csp_xpath_lezhutv",
@@ -239,7 +239,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/lezhutv.json"
+            "ext": "https://saulxxx.github.io/future/XBP/lezhutv.json"
         },
         {
             "key": "csp_xpath_libv",
@@ -249,7 +249,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/libv.json"
+            "ext": "https://saulxxx.github.io/future/XBP/libv.json"
         },
         {
             "key": "csp_xpath_pianku",
@@ -259,7 +259,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/pianku.json"
+            "ext": "https://saulxxx.github.io/future/XBP/pianku.json"
         },
         {
             "key": "csp_xpath_Gimy2",
@@ -269,7 +269,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/Gimy.json"
+            "ext": "https://saulxxx.github.io/future/XBP/Gimy.json"
         },
         {
             "key": "csp_大米星球",
@@ -279,7 +279,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/dmxq.json"
+            "ext": "https://saulxxx.github.io/future/XBP/dmxq.json"
         },
         {
             "key": "csp_xpath_jbb",
@@ -289,7 +289,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/jubaibai.json"
+            "ext": "https://saulxxx.github.io/future/XBP/jubaibai.json"
         },
         {
             "key": "csp_biubiu_影视工厂",
@@ -299,7 +299,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/saulxxx/future@main/XBP/ysgc.json"
+            "ext": "https://saulxxx.github.io/future/XBP/ysgc.json"
         },
         {
             "key": "csp_appys_美剧虫",
