@@ -53,6 +53,15 @@
             "filterable": 1
         },
         {
+            "key": "Lib",
+            "name": "🍭Libvio(SP)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_DiDuan",
             "name": "🌀低端影视(SP)",
             "api": "csp_DiDuan",
@@ -134,15 +143,22 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        { "key": "Lib", "name": "🍭Libvio(SP)", "type": 3, "api": "csp_Lib", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "Nfyun", "name": "🍱Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "If101", "name": "✈️If101(SP)", "type": 3, "api": "csp_If101", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "csp_DY1990", "name": "🍐1990电影(SP)", "type": 3, "api": "csp_DY1990", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "Olevod", "name": "🥮Olevod(SP)", "type": 3, "api": "csp_Olevod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "小宝影院", "name": "🧂小宝影院(SP)", "type": 3, "api": "csp_Xiaoh", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "csp_Tkys", "name": "🧿天空影视(SP)", "type": 3, "api": "csp_Tkys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "csp_N0ys", "name": "🎬1090影视(SP)", "type": 3, "api": "csp_N0ys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "csp_Buka", "name": "🧼真不卡(SP)", "type": 3, "api": "csp_Buka", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "Nfyun", "name": "🍱Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "If101", "name": "✈️If101(SP)", "type": 3, "api": "csp_If101", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_DY1990", "name": "🍐1990电影(SP)", "type": 3, "api": "csp_DY1990", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "Olevod", "name": "🥮Olevod(SP)", "type": 3, "api": "csp_Olevod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Tkys", "name": "🧿天空影视(SP)", "type": 3, "api": "csp_Tkys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_N0ys", "name": "🎬1090影视(SP)", "type": 3, "api": "csp_N0ys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        //{ "key": "csp_Buka", "name": "🧼真不卡(SP)", "type": 3, "api": "csp_Buka", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        {
+            "key": "小宝影院",
+            "name": "✈️小宝影院(SP)",
+            "type": 3,
+            "api": "csp_Xiaoh",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Nbys",
             "name": "✈️泥巴(SP需翻墙)",
@@ -458,7 +474,7 @@
         },
         {
             "key": "一帆资源(VPN)",
-            "name": "🏐一帆资源(VPN)(优)",
+            "name": "✈️一帆资源(VPN)(优)",
             "type": 1,
             "api": "http://api.if101.tv/v1/vod?ac=list",
             "searchable": 1,
