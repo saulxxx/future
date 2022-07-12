@@ -199,6 +199,15 @@
         },
         //{ "key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "27b06d5221a24199b15f2e573d847430" },
         {
+            "key": "csp_BBB",
+            "name": "🅱️哔哩(SP)",
+            "type": 3,
+            "api": "csp_BBB",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
             "key": "csp_Blixs",
             "name": "🧑‍🤝‍🧑相声小品(SP)",
             "type": 3,
@@ -248,15 +257,6 @@
             "name": "🧑‍🤝‍🧑戏曲(SP)",
             "type": 3,
             "api": "csp_Blixq",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩(SP)",
-            "type": 3,
-            "api": "csp_BBB",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -498,26 +498,6 @@
             "url": "Sequence"
         },
         {
-            "name": "龙虾",
-            "type": 1,
-            "url": "http://106.55.234.91:4433/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "qiyi",
-                    "mgtv",
-                    "youku",
-                    "letv",
-                    "sohu",
-                    "xigua",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "Dalvik/2.1.0"
-                }
-            }
-        },
-        {
             "name": "19",
             "type": 1,
             "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
@@ -530,6 +510,31 @@
                 "flag": [
                     "rx"
                 ]
+            }
+        },
+        {
+            "name": "虾米",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "293",
+            "type": 1,
+            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
             }
         },
         {
