@@ -127,7 +127,7 @@
         },
         {
             "key": "csp_Zxzj",
-            "name": "🍉在线之家(SP)",
+            "name": "🏠在线之家(SP)",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
@@ -143,16 +143,44 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "csp_appys_美剧虫",
+            "name": "🐞美剧虫(V1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+            "key": "旋风",
+            "name": "🌪️旋风[EXO]",
+            "type": 1,
+            "api": "http://appimg.ssxmall.cn/api.php/provide/vod/",
+            "playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         //{ "key": "Nfyun", "name": "🍱Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "If101", "name": "✈️If101(SP)", "type": 3, "api": "csp_If101", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_DY1990", "name": "🍐1990电影(SP)", "type": 3, "api": "csp_DY1990", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "Olevod", "name": "🥮Olevod(SP)", "type": 3, "api": "csp_Olevod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Tkys", "name": "🧿天空影视(SP)", "type": 3, "api": "csp_Tkys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_N0ys", "name": "🎬1090影视(SP)", "type": 3, "api": "csp_N0ys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Buka", "name": "🧼真不卡(SP)", "type": 3, "api": "csp_Buka", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         {
+            "key": "If101",
+            "name": "🚁If101(SP)",
+            "type": 3,
+            "api": "csp_If101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "小宝影院",
-            "name": "✈️小宝影院(SP)",
+            "name": "⛄️小宝影院(SP)",
             "type": 3,
             "api": "csp_Xiaoh",
             "searchable": 1,
@@ -262,8 +290,9 @@
             "filterable": 1
         },
         //{ "key": "Bili", "name": "🅱️B站", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/Bili.json" },
-        //{ "key": "csp_xpath_czspp", "name": "🏓厂长资源(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/czspp.json" },
-        //{ "key": "csp_xpath_cokemv", "name": "🏓Cokemv(XP)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/cokemv.json" },
+        //{ "key": "csp_xpath_czspp", "name": "🚬厂长资源(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/czspp.json" },
+        //{ "key": "csp_xpath_cokemv", "name": "🍳Cokemv(XP)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/cokemv.json" },
+        //{"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://saulxxx.github.io/future/XBP/ikan6.json"},
         {
             "key": "csp_xpath_qiumi",
             "name": "⚽️球迷(XP)",
@@ -276,7 +305,7 @@
         },
         {
             "key": "csp_xpath_88kanqiu",
-            "name": "⚽️88看球(XP)",
+            "name": "🏀88看球(XP)",
             "type": 3,
             "api": "csp_XPathMac",
             "searchable": 1,
@@ -316,7 +345,7 @@
         },
         {
             "key": "csp_XBiubiu_爱港剧",
-            "name": "🏀爱港剧(XB)",
+            "name": "⛴️爱港剧(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -326,7 +355,7 @@
         },
         {
             "key": "csp_biubiu_555电影",
-            "name": "🏀555电影(XB)",
+            "name": "5️⃣555电影(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -336,7 +365,7 @@
         },
         {
             "key": "csp_xpath_lezhutv",
-            "name": "🏓乐猪TV(XP)",
+            "name": "🐷乐猪TV(XP)",
             "type": 3,
             "api": "csp_XPathMac",
             "searchable": 1,
@@ -346,7 +375,7 @@
         },
         {
             "key": "csp_xpath_libv",
-            "name": "🏓Libvio(XP)",
+            "name": "🍭Libvio(XP)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -356,7 +385,7 @@
         },
         {
             "key": "csp_biubiu_影视工厂",
-            "name": "🏀影视工厂(XB)",
+            "name": "🎯影视工厂(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -366,7 +395,7 @@
         },
         {
             "key": "csp_xpath_jbb",
-            "name": "🏓剧白白(XPF)",
+            "name": "🎁剧白白(XPF)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -376,7 +405,7 @@
         },
         {
             "key": "csp_xpath_pianku",
-            "name": "🏓片库(XP)",
+            "name": "🧶片库(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -386,7 +415,7 @@
         },
         {
             "key": "csp_xpath_Gimy2",
-            "name": "🏓GimyTV(XP)",
+            "name": "👻GimyTV(XP)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -396,7 +425,7 @@
         },
         {
             "key": "csp_XBiubiu_大米星球",
-            "name": "🏀大米星球(XB)",
+            "name": "⭐️大米星球(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -406,7 +435,7 @@
         },
         {
             "key": "csp_XBiubiu_口袋影院",
-            "name": "🏀口袋影院(XB)",
+            "name": "💰口袋影院(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -415,18 +444,18 @@
             "ext": "https://saulxxx.github.io/future/XBP/kdys.json"
         },
         {
-            "key": "csp_biubiu_真不卡cerrd",
-            "name": "🏀真不卡(XB)",
+            "key": "csp_biubiu_真不卡zhenbuka3",
+            "name": "🧼真不卡(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/zbk.json"
+            "ext": "https://saulxxx.github.io/future/XBP/zhenbuka3.json"
         },
         {
             "key": "csp_xpath_dm84",
-            "name": "🏓动漫巴士(XPF)",
+            "name": "🚌动漫巴士(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -435,18 +464,58 @@
             "ext": "https://saulxxx.github.io/future/XBP/dm84.json"
         },
         {
-            "key": "csp_appys_美剧虫",
-            "name": "⚾️美剧虫(V1)",
+            "key": "csp_biubiu_瓜皮TV",
+            "name": "🍉瓜皮TV(XB)",
             "type": 3,
-            "api": "csp_AppYs",
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/guapiTV.json"
+        },
+        {
+            "key": "csp_xpath_dandanzan10",
+            "name": "🍙蛋蛋赞(电影)(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/dandanzan10.json"
+        },
+        {
+            "key": "csp_biubiu_哔嘀影视",
+            "name": "📮哔嘀影视(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/bdys.json"
+        },
+        {
+            "key": "csp_xpath_naifeiorg",
+            "name": "🀄️奈飞中文(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
+            "ext": "https://saulxxx.github.io/future/XBP/naifeiorg.json"
+        },
+        {
+            "key": "csp_xpath_saohuotv",
+            "name": "🔥骚火电影(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/saohuotv2.json"
         },
         {
             "key": "300看世界",
-            "name": "🥎300看世界(V2)",
+            "name": "🔷300看世界(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -456,7 +525,7 @@
         },
         {
             "key": "9E03",
-            "name": "🥎9E国语(V2)",
+            "name": "9️⃣9E国语(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -465,8 +534,16 @@
             "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
+            "key": "海外电影",
+            "name": "🌈海外电影(聚)",
+            "type": 1,
+            "api": "https://www.200121.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        }
+        {
             "key": "8090资源",
-            "name": "🏐8090资源(官)",
+            "name": "🎃8090资源(官)",
             "type": 1,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
             "searchable": 1,
@@ -474,7 +551,7 @@
         },
         {
             "key": "一帆资源(VPN)",
-            "name": "✈️一帆资源(VPN)(优)",
+            "name": "🚁一帆资源(VPN)(优)",
             "type": 1,
             "api": "http://api.if101.tv/v1/vod?ac=list",
             "searchable": 1,
@@ -501,6 +578,16 @@
             "name": "19",
             "type": 1,
             "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
+        },
+        {
+            "name": "旋风",
+            "type": 1,
+            "url": "https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=",
+            "ext": {
+                "flag": [
+                    "xfyun"
+                ]
+            }
         },
         {
             "name": "LTRX",
@@ -538,6 +625,30 @@
             }
         },
         {
+            "name": "2",
+            "type": 1,
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "9",
+            "type": 1,
+            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="
+        },
+        {
             "name": "搬运工",
             "type": 0,
             "url": "https://43.142.151.188/?url=",
@@ -572,9 +683,22 @@
             }
         },
         {
-            "name": "9",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="
+            "name": "喵派4",
+            "type": 0,
+            "url": "https://www.iqiyi.one/dmplay/?url=",
+            "ext": {
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "rx",
+                    "rongxing",
+                    "xueren",
+                    "xfy"
+                ]
+            }
         }
     ],
     "flags": [
