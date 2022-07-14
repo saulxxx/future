@@ -292,7 +292,7 @@
             "api": "csp_XPathMac",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
             "ext": "https://saulxxx.github.io/future/XBP/lezhutv.json"
         },
         {
@@ -309,11 +309,11 @@
             "key": "csp_biubiu_zxjz",
             "name": "🏠在线之家(XB)",
             "type": 3,
-            "api": "csp_zxjz",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/ysgc.json"
+            "ext": "https://saulxxx.github.io/future/XBP/zxzj.json"
         },
         {
             "key": "csp_biubiu_555电影",
