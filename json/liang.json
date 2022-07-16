@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/future/jar/custom_spider_220713.jar",
+    "spider": "https://saulxxx.github.io/future/jar/0712.jar",
     "lives": [
         {
             "group": "redirect",
@@ -125,16 +125,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "红牛",
-            "name": "🐃红牛(切)",
-            "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "playUrl": "json:https://www.tutukiki.com/m3u8/?url=",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": []
-        },
+       
         //{ "key": "csp_IKan", "name": "❤️爱看(SP)", "type": 3, "api": "csp_IKan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Kmys", "name": "🐯酷猫影视(SP)", "type": 3, "api": "csp_Kmys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Zxzj", "name": "🏠在线之家(SP)", "type": 3, "api": "csp_Zxzj", "searchable": 1, "quickSearch": 1, "filterable": 1 },
