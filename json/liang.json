@@ -16,6 +16,66 @@
     ],
     "sites": [
         {
+            "key": "csp_BBB",
+            "name": "🅱️哔哩(SP)",
+            "type": 3,
+            "api": "csp_BBB",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        //{ "key": "Bili", "name": "🅱️B站", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/Bili.json" },
+        {
+            "key": "csp_xpath_qiumi",
+            "name": "⚽️球迷(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/qiumi.json"
+        },
+        {
+            "key": "csp_xpath_88kanqiu",
+            "name": "🏀88看球(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/88kanqiu.json"
+        },
+        {
+            "key": "csp_xpath_huya",
+            "name": "🐯虎牙(XP)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/huya.json"
+        },
+        {
+            "key": "csp_biubiu_斗鱼",
+            "name": "🐠斗鱼(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/douyu.json"
+        },
+        {
+            "key": "csp_xpath_kuqimv",
+            "name": "🎤酷奇MV(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/kuqimv.json"
+        },
+        {
             "key": "csp_CZSPP",
             "name": "🚬厂长(SP)",
             "type": 3,
@@ -195,7 +255,7 @@
         //{ "key": "csp_Buka", "name": "🧼真不卡(SP)", "type": 3, "api": "csp_Buka", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         {
             "key": "Olevod",
-            "name": "🥮Olevod(SP)",
+            "name": "🥮Olevod(SP需翻墙)",
             "type": 3,
             "api": "csp_Olevod",
             "searchable": 1,
@@ -204,7 +264,7 @@
         },
         {
             "key": "If101",
-            "name": "🚁If101(SP)",
+            "name": "🚁If101(SP需翻墙)",
             "type": 3,
             "api": "csp_If101",
             "searchable": 1,
@@ -213,7 +273,7 @@
         },
         {
             "key": "小宝影院",
-            "name": "⛄️小宝影院(SP)",
+            "name": "⛄️小宝影院(SP需翻墙)",
             "type": 3,
             "api": "csp_Xiaoh",
             "searchable": 1,
@@ -241,7 +301,7 @@
         },
         {
             "key": "csp_AliPanSou",
-            "name": "🐱喵狸盘搜(只支持搜索)",
+            "name": "🐱喵狸盘搜(仅搜索)",
             "type": 3,
             "api": "csp_AliPanSou",
             "searchable": 1,
@@ -268,66 +328,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "1f373a68733e4dafa5fa28dca9826b35"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️哔哩(SP)",
-            "type": 3,
-            "api": "csp_BBB",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        //{ "key": "Bili", "name": "🅱️B站", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/Bili.json" },
-        {
-            "key": "csp_xpath_qiumi",
-            "name": "⚽️球迷(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/qiumi.json"
-        },
-        {
-            "key": "csp_xpath_88kanqiu",
-            "name": "🏀88看球(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/88kanqiu.json"
-        },
-        {
-            "key": "csp_xpath_huya",
-            "name": "🐯虎牙(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/huya.json"
-        },
-        {
-            "key": "csp_biubiu_斗鱼",
-            "name": "🐠斗鱼(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/douyu.json"
-        },
-        {
-            "key": "csp_xpath_kuqimv",
-            "name": "🎤酷奇MV(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/kuqimv.json"
         },
         {
             "key": "csp_XBiubiu_爱港剧",
