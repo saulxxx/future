@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0712.jar",
+    "spider": "https://wp.wangshi520.com/down.php/17c5aeded74e0096ea6082a45b6d63be.jar",
     "lives": [
         {
             "group": "redirect",
@@ -29,6 +29,15 @@
             "name": "👀快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_IKan",
+            "name": "❤️爱看(SP)",
+            "type": 3,
+            "api": "csp_IKan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -97,6 +106,25 @@
             "filterable": 1
         },
         {
+            "key": "csp_Wmkk",
+            "name": "🎆完美看看(SP)",
+            "api": "csp_Wmkk",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "csp_hbys",
+            "name": "🎭简影(SP)",
+            "api": "csp_JianYing",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+        },
+        {
             "key": "csp_Mjxq",
             "name": "🌎美剧星球(SP)",
             "type": 3,
@@ -125,17 +153,64 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        //{ "key": "csp_IKan", "name": "❤️爱看(SP)", "type": 3, "api": "csp_IKan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "csp_Kmys", "name": "🐯酷猫影视(SP)", "type": 3, "api": "csp_Kmys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "csp_Zxzj", "name": "🏠在线之家(SP)", "type": 3, "api": "csp_Zxzj", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "Lib", "name": "🍭Libvio(SP)", "type": 3, "api": "csp_Lib", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "Nfyun", "name": "🍱Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        {
+            "key": "csp_Kmys",
+            "name": "🐯酷猫影视(SP)",
+            "type": 3,
+            "api": "csp_Kmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "🏠在线之家(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "🍭Libvio(SP)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Nfyun",
+            "name": "🍱Nf云(SP)",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         //{ "key": "csp_DY1990", "name": "🍐1990电影(SP)", "type": 3, "api": "csp_DY1990", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "Olevod", "name": "🥮Olevod(SP)", "type": 3, "api": "csp_Olevod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "csp_Tkys", "name": "🧿天空影视(SP)", "type": 3, "api": "csp_Tkys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        {
+            "key": "csp_Tkys",
+            "name": "🧿天空影视(SP)",
+            "type": 3,
+            "api": "csp_Tkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         //{ "key": "csp_N0ys", "name": "🎬1090影视(SP)", "type": 3, "api": "csp_N0ys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Buka", "name": "🧼真不卡(SP)", "type": 3, "api": "csp_Buka", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        //{ "key": "If101", "name": "🚁If101(SP)", "type": 3, "api": "csp_If101", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        {
+            "key": "If101",
+            "name": "🚁If101(SP)",
+            "type": 3,
+            "api": "csp_If101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "小宝影院",
             "name": "⛄️小宝影院(SP)",
@@ -161,9 +236,9 @@
             "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
-        //{ "key": "Gitcafe", "name": "📃小纸条(SP)", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "27b06d5221a24199b15f2e573d847430" },
         {
             "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(只支持搜索)",
@@ -171,9 +246,19 @@
             "api": "csp_AliPanSou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
-        //{ "key": "AliPS", "name": "🐱盘搜", "type": 3, "api": "csp_AliPS", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "27b06d5221a24199b15f2e573d847430" },
+        {
+            "key": "FindZY",
+            "name": "🐱找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
+        },
         {
             "key": "push_agent",
             "name": "推送",
@@ -181,9 +266,9 @@
             "api": "csp_PushAgent",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 0,
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
-        //{ "key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "27b06d5221a24199b15f2e573d847430" },
         {
             "key": "csp_BBB",
             "name": "🅱️哔哩(SP)",
