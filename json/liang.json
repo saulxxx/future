@@ -36,26 +36,6 @@
             "ext": "https://saulxxx.github.io/future/XBP/qiumi.json"
         },
         {
-            "key": "csp_xpath_88kanqiu",
-            "name": "🏀88看球(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/88kanqiu.json"
-        },
-        {
-            "key": "csp_xpath_huya",
-            "name": "🐯虎牙(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/huya.json"
-        },
-        {
             "key": "csp_biubiu_斗鱼",
             "name": "🐠斗鱼(XB)",
             "type": 3,
@@ -66,14 +46,14 @@
             "ext": "https://saulxxx.github.io/future/XBP/douyu.json"
         },
         {
-            "key": "csp_xpath_kuqimv",
-            "name": "🎤酷奇MV(XP)",
+            "key": "csp_GitCafe",
+            "name": "📃小纸条(SP)",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/kuqimv.json"
+            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
         {
             "key": "csp_CZSPP",
@@ -272,16 +252,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_GitCafe",
-            "name": "📃小纸条(SP)",
-            "type": 3,
-            "api": "csp_GitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "1f373a68733e4dafa5fa28dca9826b35"
         },
         {
             "key": "csp_AliPanSou",
