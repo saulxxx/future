@@ -303,14 +303,14 @@
             "ext": "https://saulxxx.github.io/future/XBP/jubaibai.json"
         },
         {
-            "key": "csp_xpath_libv",
-            "name": "🍭Libvio(XP)",
+            "key": "csp_XBiubiu_口袋影院",
+            "name": "💰口袋影院(XB)",
             "type": 3,
-            "api": "csp_XPathMacFilter",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/libv.json"
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/kdys.json"
         },
         {
             "key": "csp_xpath_czspp",
@@ -323,16 +323,6 @@
             "ext": "https://saulxxx.github.io/future/XBP/czspp.json"
         },
         {
-            "key": "csp_xpath_cokemv",
-            "name": "🍳Cokemv(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/cokemv.json"
-        },
-        {
             "key": "csp_biubiu_zxjz",
             "name": "🏠在线之家(XB)",
             "type": 3,
@@ -343,6 +333,26 @@
             "ext": "https://saulxxx.github.io/future/XBP/zxzj.json"
         },
         {
+            "key": "csp_xpath_libv",
+            "name": "🍭Libvio(XP)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/libv.json"
+        },
+        {
+            "key": "csp_xpath_cokemv",
+            "name": "🍳Cokemv(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/cokemv.json"
+        },
+        {
             "key": "csp_xpath_ikan6",
             "name": "❤️爱看影视(XP)",
             "type": 3,
@@ -351,36 +361,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/XBP/ikan6.json"
-        },
-        {
-            "key": "csp_xpath_wmkk",
-            "name": "🎆完美看看(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/wanmeikk.json"
-        },
-        {
-            "key": "csp_XBiubiu_口袋影院",
-            "name": "💰口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/kdys.json"
-        },
-        {
-            "key": "csp_biubiu_真不卡zhenbuka3",
-            "name": "🧼真不卡(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/zhenbuka3.json"
         },
         {
             "key": "csp_xpath_dm84",
