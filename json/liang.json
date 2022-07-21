@@ -175,15 +175,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "小熊",
-            "name": "🐻小熊TV",
-            "type": 3,
-            "api": "csp_Xxys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{ "key": "小熊", "name": "🐻小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Wmkk", "name": "🎆完美看看(SP)", "api": "csp_Wmkk", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1 },
         //{ "key": "spider_Bttoo", "name": "📚2BT(SP)", "type": 3, "api": "csp_Bttoo", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Kmys", "name": "🐯酷猫影视(SP)", "type": 3, "api": "csp_Kmys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
