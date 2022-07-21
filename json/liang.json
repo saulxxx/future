@@ -37,16 +37,6 @@
             "ext": "https://saulxxx.github.io/future/XBP/qiumi.json"
         },
         {
-            "key": "csp_biubiu_斗鱼",
-            "name": "🐠斗鱼(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/douyu.json"
-        },
-        {
             "key": "csp_GitCafe",
             "name": "📃小纸条(SP)",
             "type": 3,
