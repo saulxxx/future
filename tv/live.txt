@@ -25,6 +25,14 @@
 凤凰资讯,http://www.fdkj.net:9901/tsfile/live/1017_1.m3u8
 凤凰资讯,http://liuy.usa7.20212021.ga/ns.php?id=99
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+TVB翡翠,http://113.64.147.23:808/hls/67/index.m3u8?$1080P超高清
+TVB翡翠,http://113.64.147.22:808/hls/67/index.m3u8?$1080P超高清
+TVB翡翠,https://cdn.hklive.tv/hls/81/index.m3u8?$1080P超高清
+TVB翡翠,https://cdn.hklive.tv/xxxx/81/index.m3u8?$1080P超高清
+TVB翡翠,http://27.47.71.85:808/hls/36/index.m3u8?$普清
+TVB翡翠,http://120.84.96.151:808/hls/25/index.m3u8?$普清
+中天新聞,http://103.144.247.90:9500/live.m3u8?c=6
+中天新聞,http://152.69.224.242:9500/jmsytb.m3u8?c=1
 CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8

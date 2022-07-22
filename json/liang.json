@@ -38,7 +38,7 @@
         },
         {
             "key": "csp_GitCafe",
-            "name": "📃小纸条(SP)",
+            "name": "🦊小纸条(SP)",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -293,6 +293,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/XBP/jubaibai.json"
+        },
+        {
+            "key": "csp_biubiu_F7好看剧",
+            "name": "🎰F7好看剧(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/XBP/f7hk.json"
         },
         {
             "key": "csp_XBiubiu_口袋影院",
