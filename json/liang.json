@@ -166,6 +166,14 @@
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
+            "key": "考拉直链",
+            "name": "🎍考拉直链",
+            "type": 1,
+            "api": "https://ikaola.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "旋风",
             "name": "🌪️旋风(切)",
             "type": 1,
@@ -305,6 +313,16 @@
             "ext": "https://saulxxx.github.io/future/XBP/f7hk.json"
         },
         {
+            "key": "csp_xpath_达达龟",
+            "name": "🐢达达龟(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/dadagui.json"
+        },
+        {
             "key": "csp_xpath_saohuotv",
             "name": "🔥骚火电影(XPF)",
             "type": 3,
@@ -373,6 +391,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/XBP/ikan6.json"
+        },
+        {
+            "key": "csp_xpath_nicotv",
+            "name": "🐲妮可动漫(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/nicotv.json"
         },
         {
             "key": "csp_xpath_dm84",
