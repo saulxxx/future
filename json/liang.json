@@ -152,7 +152,7 @@
         },
         {
             "key": "KanSJ_spider",
-            "name": "🕶看视界",
+            "name": "🕶看视界(SP)",
             "api": "csp_KanSJ",
             "type": 3,
             "filterable": 1,
@@ -162,7 +162,7 @@
         },
         {
             "key": "追剧喵",
-            "name": "🐈追剧喵",
+            "name": "🐈追剧喵(SP)",
             "type": 3,
             "api": "csp_ZJMiao",
             "searchable": 1,
@@ -171,7 +171,7 @@
         },
         {
             "key": "3EDY",
-            "name": "☘️3EDY(EXO)",
+            "name": "☘️3E电影(SP)",
             "type": 3,
             "api": "csp_EEEDY",
             "searchable": 1,
@@ -180,7 +180,7 @@
         },
         {
             "key": "Ekan_spider",
-            "name": "🦜Ekan",
+            "name": "🦜Ekan(SP)",
             "api": "csp_Ekan",
             "type": 3,
             "filterable": 1,
@@ -217,7 +217,7 @@
         },
         {
             "key": "293视频",
-            "name": "✌️293视频",
+            "name": "✌️293视频(SP)",
             "type": 3,
             "api": "csp_SP293",
             "searchable": 1,
@@ -261,8 +261,7 @@
             "api": "csp_If101",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "小宝影院",
@@ -271,8 +270,7 @@
             "api": "csp_Xiaoh",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/ts.jar"
+            "filterable": 1
         },
         {
             "key": "csp_Nbys",
