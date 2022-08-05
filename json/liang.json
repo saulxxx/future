@@ -376,26 +376,6 @@
             "ext": "https://saulxxx.github.io/future/XBP/jubaibai.json"
         },
         {
-            "key": "csp_xpath_yanetflix",
-            "name": "🦆鸭奈飞(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/yanet.json"
-        },
-        {
-            "key": "csp_xpath_bttwoo",
-            "name": "📚两个BT(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/bttwoo.json"
-        },
-        {
             "key": "csp_biubiu_F7好看剧",
             "name": "🎰F7好看剧(XB)",
             "type": 3,
@@ -454,16 +434,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/XBP/libv.json"
-        },
-        {
-            "key": "csp_xpath_cokemv",
-            "name": "🍳Cokemv(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/cokemv.json"
         },
         {
             "key": "csp_xpath_nicotv",
