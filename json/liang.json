@@ -2,7 +2,7 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "http://static01.imgkr.com/temp/ed88b6625c0d44ff9db65cdd5e141f3e.jpg;md5;326a781ee09bac3d33e40e10540b25c5",
+    "spider": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcFZiMTJMMHZJbGhrQ1U1SlpCTmJJOUtpcHVLP2U9cXUyQ1VV.jpg",
     "lives": [
         {
             "group": "redirect",
