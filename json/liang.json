@@ -222,7 +222,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
         {
             "key": "293视频",
             "name": "✌️293视频(SP)",
@@ -330,7 +329,7 @@
             "key": "csp_appys_美剧虫",
             "name": "🐞美剧虫(XPF)",
             "type": 3,
-            "api": "csp_XPathMacFilter",
+            "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
