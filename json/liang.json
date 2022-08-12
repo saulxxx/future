@@ -222,16 +222,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_appys_美剧虫",
-            "name": "🐞美剧虫(V1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
+        
         {
             "key": "293视频",
             "name": "✌️293视频(SP)",
@@ -334,6 +325,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://saulxxx.github.io/future/XBP/agj.json"
+        },
+        {
+            "key": "csp_appys_美剧虫",
+            "name": "🐞美剧虫(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/meijuchong.json"
         },
         {
             "key": "csp_xpath_lezhutv",
@@ -527,11 +528,6 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
-        {
-            "name": "aiku",
-            "type": 1,
-            "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
         },
         {
             "name": "盘古",
