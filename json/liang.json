@@ -327,9 +327,9 @@
         },
         {
             "key": "csp_appys_美剧虫",
-            "name": "🐞美剧虫(XPF)",
+            "name": "🐞美剧虫(XP)",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
