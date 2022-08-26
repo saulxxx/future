@@ -2,7 +2,7 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0827.jar",
+    "spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar",
     "lives": [
         {
             "group": "redirect",
@@ -51,7 +51,7 @@
             "key": "csp_GitCafe",
             "name": "🦊小纸条(SP)",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -73,7 +73,8 @@
             "api": "csp_IKan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "Lib",
@@ -136,7 +137,8 @@
             "api": "csp_Bttoo",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "Lezhu_spider",
@@ -155,7 +157,8 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1
+            "searchable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "神马影院",
@@ -247,7 +250,8 @@
             "api": "csp_Juhuang",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "293视频",
@@ -293,7 +297,8 @@
             "api": "csp_If101",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "小宝影院",
@@ -311,7 +316,8 @@
             "api": "csp_Nbys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "csp_AliPanSou",
@@ -341,7 +347,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
+            "ext": "43850beaf98f4e8a8e28e3f4462699fd",
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
             "key": "push_agent",
