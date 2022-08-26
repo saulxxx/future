@@ -2,7 +2,7 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar",
+    "spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar",
     "lives": [
         {
             "group": "redirect",
@@ -51,11 +51,11 @@
             "key": "csp_GitCafe",
             "name": "🦊小纸条(SP)",
             "type": 3,
-            "api": "csp_Gitcafe",
+            "api": "csp_GitCafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b5ad6cef70f7469d94384846dc8c4fb5"
+            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
         },
         {
             "key": "csp_Kuaikan",
@@ -348,7 +348,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b5ad6cef70f7469d94384846dc8c4fb5"
+            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
         },
         {
             "key": "zhaozy",
@@ -358,7 +358,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "b5ad6cef70f7469d94384846dc8c4fb5"
+            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
         },
         {
             "key": "csp_Yiso",
@@ -368,7 +368,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b5ad6cef70f7469d94384846dc8c4fb5"
+            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
         },
         {
             "key": "push_agent",
@@ -378,7 +378,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "b5ad6cef70f7469d94384846dc8c4fb5"
+            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
         },
         {
             "key": "csp_XBiubiu_爱港剧",
