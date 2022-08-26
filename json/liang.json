@@ -371,9 +371,9 @@
         },
         {
             "key": "csp_biubiu_voflix",
-            "name": "🚀voflix",
+            "name": "🚀voflix(XB)",
             "type": 3,
-            "api": "csp_XBiubiu(XB)",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
