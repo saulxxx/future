@@ -67,6 +67,46 @@
             "filterable": 1
         },
         {
+            "key": "Lib",
+            "name": "🍭Libvio(SP)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "🍳Cokemv(SP)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "🌀低端影视(SP)",
+            "api": "csp_Ddrk",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+        },
+        {
+            "key": "csp_hbys",
+            "name": "🎭简影(SP)",
+            "api": "csp_JianYing",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+        },
+        {
             "key": "csp_IKan",
             "name": "❤️爱看(SP)",
             "type": 3,
@@ -76,31 +116,23 @@
             "filterable": 1
         },
         {
-            "key": "Lib",
-            "name": "🍭Libvio(SP)",
+            "key": "Lezhu_spider",
+            "name": "🐷乐猪影视(SP)",
+            "api": "csp_Lezhu",
             "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
+            "filterable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1,
+            "ext": ""
         },
         {
-            "key": "csp_Cokemv",
-            "name": "🍳Cokemv(SP)",
+            "key": "csp_dd5555",
+            "name": "5️⃣555电影(SP)",
+            "api": "csp_Dy555",
             "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
+            "filterable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_LiteApple",
-            "name": "🍎小苹果(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "searchable": 1
         },
         {
             "key": "csp_Kunyu77",
@@ -139,42 +171,23 @@
             "filterable": 1
         },
         {
-            "key": "Lezhu_spider",
-            "name": "🐷乐猪影视(SP)",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_dd5555",
-            "name": "5️⃣555电影(SP)",
-            "api": "csp_Dy555",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "神马影院",
             "name": "🐎神马影院(SP)",
             "type": 3,
             "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
         },
         {
-            "key": "csp_hbys",
-            "name": "🎭简影(SP)",
-            "api": "csp_JianYing",
+            "key": "csp_LiteApple",
+            "name": "🍎小苹果(SP)",
             "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
+            "api": "csp_LiteApple",
             "searchable": 1,
-            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "KanSJ_spider",
@@ -212,15 +225,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "🌀低端影视(SP)",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Kmys",
