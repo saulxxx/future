@@ -73,8 +73,7 @@
             "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+            "filterable": 1
         },
         {
             "key": "csp_Cokemv",
@@ -83,8 +82,7 @@
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+            "filterable": 1
         },
         {
             "key": "csp_DiDuan",
@@ -93,8 +91,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+            "filterable": 1
         },
         {
             "key": "csp_hbys",
@@ -177,8 +174,7 @@
             "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/qiaoji0804.jar"
+            "filterable": 1
         },
         {
             "key": "csp_LiteApple",
