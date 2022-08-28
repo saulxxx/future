@@ -141,6 +141,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_Yiso",
+            "name": "🌜易搜(仅搜索)",
+            "type": 3,
+            "api": "csp_Yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+        },
+        {
             "key": "csp_Zxzj",
             "name": "🏠在线之家(SP)",
             "type": 3,
@@ -318,16 +328,6 @@
             "name": "🐱喵狸盘搜(仅搜索)",
             "type": 3,
             "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
-        },
-        {
-            "key": "csp_Yiso",
-            "name": "🌜易搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Yiso",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
