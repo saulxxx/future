@@ -82,8 +82,7 @@
             "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
+            "filterable": 1
         },
         {
             "key": "csp_Cokemv",
@@ -315,6 +314,16 @@
             "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
+            "key": "csp_xpath_libv",
+            "name": "🍭Libvio(XP)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/XBP/libv.json"
+        },
+        {
             "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(仅搜索)",
             "type": 3,
@@ -375,7 +384,6 @@
         //{ "key": "csp_XBiubiu_口袋影院", "name": "💰口袋影院(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/kdys.json" },
         //{ "key": "csp_xpath_czspp", "name": "🚬厂长资源(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/czspp.json" },
         //{ "key": "csp_biubiu_zxjz", "name": "🏠在线之家(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/zxzj.json" },
-        //{ "key": "csp_xpath_libv", "name": "🍭Libvio(XP)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/libv.json" },
         //{ "key": "csp_xpath_nicotv", "name": "🐲妮可动漫(XPF)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/nicotv.json" },
         //{ "key": "csp_xpath_dm84", "name": "🚌动漫巴士(XPF)", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/dm84.json" },
         //{ "key": "csp_biubiu_瓜皮TV", "name": "🍉瓜皮TV(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/guapiTV.json" },
