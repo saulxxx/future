@@ -314,16 +314,6 @@
             "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
-            "key": "csp_xpath_libv",
-            "name": "🍭Libvio(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/XBP/libv.json"
-        },
-        {
             "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(仅搜索)",
             "type": 3,
@@ -372,6 +362,7 @@
             "quickSearch": 1,
             "filterable": 0
         }
+        //{ "key": "csp_xpath_libv", "name": "🍭Libvio(XP)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/libv.json" },
         //{ "key": "csp_XBiubiu_爱港剧", "name": "⛴️爱港剧(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/agj.json" },
         //{ "key": "csp_appys_美剧虫", "name": "🐞美剧虫(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/meijuchong.json" },
         //{ "key": "csp_xpath_lezhutv", "name": "🐷乐猪TV(XP)", "type": 3, "api": "csp_XPathMac", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/lezhutv.json" },
