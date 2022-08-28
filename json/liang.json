@@ -51,11 +51,11 @@
             "key": "csp_GitCafe",
             "name": "🦊小纸条(SP)",
             "type": 3,
-            "api": "csp_GitCafe",
+            "api": "csp_Gitcafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "csp_Kuaikan",
@@ -250,15 +250,6 @@
             "filterable": 1
         },
         {
-            "key": "小熊",
-            "name": "🐻小熊TV",
-            "type": 3,
-            "api": "csp_Xxys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Mjxq",
             "name": "🌎美剧星球(SP)",
             "type": 3,
@@ -286,6 +277,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        //{ "key": "小熊", "name": "🐻小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Wmkk", "name": "🎆完美看看(SP)", "api": "csp_Wmkk", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1 },
         //{ "key": "csp_DY1990", "name": "🍐1990电影(SP)", "type": 3, "api": "csp_DY1990", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Tkys", "name": "🧿天空影视(SP)", "type": 3, "api": "csp_Tkys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -329,7 +321,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "zhaozy",
@@ -339,7 +331,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "csp_Yiso",
@@ -349,7 +341,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "push_agent",
@@ -359,7 +351,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "43850beaf98f4e8a8e28e3f4462699fd"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "T4",
@@ -371,154 +363,13 @@
             "filterable": 0
         },
         {
-            "key": "csp_ysgc",
-            "name": "💢影视工厂(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
+            "key": "t4public",
+            "name": "T4公共",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "jar": "https://gitea.com/zhaocai100/OA/raw/branch/master/XYQBiu.jar",
-            "ext": "{\r\n    \"title\": \"影视工场\",\r\n    \"author\": \"11\",\r\n    \"UserAgent\":\"\",\r\n    \"firstpage\": \"1\",\r\n    \"class_url\": \"https://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html[firstPage=https://www.ysgc.cc/vodshow/{cateId}-----------.html]\",\r\n    \"class_name\": \"电影&电视剧&综艺&动漫\",\r\n    \"class_value\": \"1&2&3&4\",\r\n    \"filterdata\":\"\",\r\n    \"cat_YN_twice\": \"1\",\r\n    \"cat_twice_pre\": \"class=\\\"myui-vodlist clearfix\",\r\n    \"cat_twice_suf\": \"class=\\\"myui-page\",\r\n    \"cat_arr_pre\": \"class=\\\"myui-vodlistbox\",\r\n    \"cat_arr_suf\": \"class=\\\"myui-vodlistdetail\",\r\n    \"cat_pic\": \"original=\\\"&&\\\"\",\r\n    \"cat_title\": \"title=\\\"&&\\\"\",\r\n    \"cat_subtitle\": \"text-right\\\">&&<\",\r\n    \"cat_url\": \"href=\\\"&&\\\"\",\r\n    \"cat_prefix\": \"https://www.ysgc.cc\",\r\n    \"cat_suffix\": \"\",\r\n    \"search_url\": \"https://www.ysgc.cc/vodsearch/{wd}-------------.html\",\r\n    \"search_mode\": \"1\",\r\n    \"jsonpic\": \"pic\",\r\n    \"jsonname\": \"name\",\r\n    \"jsonid\": \"id\",\r\n    \"jsonstitle\":\"\",\r\n    \"sea_YN_twice\": \"1\",\r\n    \"sea_twice_pre\": \"class=\\\"myui-vodlist__media\",\r\n    \"sea_twice_suf\": \"</ul\",\r\n    \"sea_arr_pre\": \"class=\\\"thumb\",\r\n    \"sea_arr_suf\": \"class=\\\"detail\",\r\n    \"sea_pic\": \"data-original=\\\"&&\\\"\",\r\n    \"sea_title\": \"title=\\\"&&\\\"\",\r\n    \"sea_url\": \"href=\\\"&&\\\"\",\r\n    \"search_prefix\": \"https://www.ysgc.cc\",\r\n    \"search_suffix\": \"\",\r\n    \"sea_subtitle\": \"text-right\\\">&&<\",\r\n    \"force_play\": \"0\",\r\n    \"play_prefix\": \"空\",\r\n    \"play_suffix\": \"空\",\r\n    \"play_header\": \"空\",\r\n    \"proj_actor\": \"空\",\r\n    \"proj_plot\": \"<span class=\\\"data\\\"&&</span>\",\r\n    \"tab_YN_twice\": \"1\",\r\n    \"tab_twice_pre\": \"<ul class=\\\"nav nav-tabs\",\r\n    \"tab_twice_suf\": \"</ul>\",\r\n    \"tab_arr_pre\": \"<a\",\r\n    \"tab_arr_suf\": \"/a>\",\r\n    \"tab_title\": \">&&<\",\r\n    \"list_YN_twice\": \"0\",\r\n    \"list_twice_pre\": \"空\",\r\n    \"list_twice_suf\": \"空\",\r\n    \"list_arr_pre\": \"id=\\\"playlist\",\r\n    \"list_arr_suf\": \"</ul>\",\r\n    \"epi_YN_twice\": \"0\",\r\n    \"epi_twice_pre\": \"空\",\r\n    \"epi_twice_suf\": \"空\",\r\n    \"epi_arr_pre\": \"<a\",\r\n    \"epi_arr_suf\": \"/a>\",\r\n    \"epi_title\": \">&&<\",\r\n    \"epi_url\": \"href=\\\"&&\\\"\",\r\n    \"epiurl_prefix\": \"https://www.ysgc.cc\",\r\n    \"epiurl_suffix\": \"\"\r\n    \r\n}"
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "📽️网红直播(SP)",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_XYQBiu_短视频",
-            "name": "🎼分享短视频(XYQ)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/XBP/fxdsp.json"
-        },
-        {
-            "key": "csp_Alist1",
-            "name": "☁️一只鱼",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://alist.youte.ml"
-        },
-        {
-            "key": "csp_Alist2",
-            "name": "☁️七米蓝",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://al.chirmyram.com"
-        },
-        {
-            "key": "csp_Alist3",
-            "name": "☁️讯维云盘",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://pan.xwbeta.com"
-        },
-        {
-            "key": "csp_Alist4",
-            "name": "☁️神族九帝",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://alist.shenzjd.com"
-        },
-        {
-            "key": "csp_Alist5",
-            "name": "☁️姬路白雪",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://pan.jlbx.xyz"
-        },
-        {
-            "key": "csp_Alist6",
-            "name": "☁️Eren's Files",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://alist.sharefiles.repl.co"
-        },
-        {
-            "key": "csp_Alist7",
-            "name": "☁️悦享云盘",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://pity.eu.org"
-        },
-        {
-            "key": "csp_Alist8",
-            "name": "☁️菊花盘",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://pan.142856.xyz/OneDrive"
-        },
-        {
-            "key": "csp_Alist9",
-            "name": "☁️梓澪の妙妙屋",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://xn--i0v44m.xyz/"
-        },
-        {
-            "key": "csp_Alist10",
-            "name": "☁️嗨翻",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://pan.hikerfans.com/"
-        },
-        {
-            "key": "csp_Alist11",
-            "name": "☁️Joe自用",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://8.219.150.174:5244/"
-        },
-        {
-            "key": "csp_Alist22",
-            "name": "☁️Adult.Drive",
-            "type": 3,
-            "api": "csp_Alist",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://drive.9t.ee"
+            "filterable": 0
         }
         //{ "key": "csp_XBiubiu_爱港剧", "name": "⛴️爱港剧(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/agj.json" },
         //{ "key": "csp_appys_美剧虫", "name": "🐞美剧虫(XP)", "type": 3, "api": "csp_XPath", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/meijuchong.json" },
