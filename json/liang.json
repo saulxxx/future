@@ -95,6 +95,24 @@
             "filterable": 1
         },
         {
+            "key": "神马影院",
+            "name": "🐎神马影院(SP)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "spider_Bttoo",
+            "name": "📚2BT(SP)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_hbys",
             "name": "🎭简影(SP)",
             "api": "csp_JianYing",
@@ -192,24 +210,6 @@
             "name": "🦋Auete(SP)",
             "type": 3,
             "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "spider_Bttoo",
-            "name": "📚2BT(SP)",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "神马影院",
-            "name": "🐎神马影院(SP)",
-            "type": 3,
-            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
