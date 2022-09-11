@@ -1,8 +1,9 @@
 {
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
+    //"spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0828.jar",  "https://saulxxx.github.io/future/jar/0906.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0828.jar",
+    "spider": "https://saulxxx.github.io/future/jar/0906.jar",
     "lives": [
         {
             "group": "redirect",
@@ -327,7 +328,7 @@
             "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(仅搜索)",
             "type": 3,
-            "api": "csp_AliPanSou",
+            "api": "csp_AliPS",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
