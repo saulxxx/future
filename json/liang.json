@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "csp_Kuaikan",
@@ -194,7 +194,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "csp_Zxzj",
@@ -359,7 +359,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "zhaozy",
@@ -369,7 +369,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "push_agent",
@@ -379,7 +379,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
+            "ext": "7bb5b24ca3274ad781a6071082e9eebd"
         },
         {
             "key": "csp_Alist11",
@@ -395,7 +395,7 @@
             "key": "t4public",
             "name": "👽T4公共",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -404,7 +404,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
