@@ -101,8 +101,7 @@
             "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/0911.jar"
+            "filterable": 1
         },
         {
             "key": "spider_Bttoo",
