@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //"spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0828.jar",  "https://saulxxx.github.io/future/jar/0906.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://saulxxx.github.io/future/jar/0920.jar;md5;a4d0f912afaaf7b877125ca73a89f3b9",
+    "spider": "https://saulxxx.github.io/future/jar/0922.jar;md5;58a7100e7ab9904bf81bda27b0911f84",
     "lives": [
         {
             "group": "redirect",
@@ -351,6 +351,16 @@
             "jar": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0826.jar"
         },
         {
+            "key": "Upyunso",
+            "name": "🌤UP云搜",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+        },
+        {
             "key": "csp_AliPanSou",
             "name": "🐱喵狸盘搜(仅搜索)",
             "type": 3,
@@ -445,11 +455,6 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
-        {
-            "name": "爱酷",
-            "type": 1,
-            "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
         },
         {
             "name": "GGTV",
