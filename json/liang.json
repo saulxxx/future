@@ -216,7 +216,7 @@
         },
         {
             "key": "csp_NianYing",
-            "name": "🌐念影",
+            "name": "🌐念影(SP)",
             "type": 3,
             "api": "csp_Nianying",
             "searchable": 1,
