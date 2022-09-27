@@ -323,6 +323,106 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "csp_XBPQ胖虎影视",
+            "name": "🌵胖虎影视(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/胖虎影视.json"
+        },
+        {
+            "key": "csp_XBPQ荐片",
+            "name": "🎄荐片(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/荐片.json"
+        },
+        {
+            "key": "csp_XBPQ皮皮泡",
+            "name": "🌲皮皮泡(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/皮皮泡.json"
+        },
+        {
+            "key": "csp_XBPQ酷客",
+            "name": "🌳酷客(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/酷客.json"
+        },
+        {
+            "key": "csp_XBPQ干饭",
+            "name": "🌴干饭(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/干饭.json"
+        },
+        {
+            "key": "csp_XBPQ瓜皮",
+            "name": "🌱瓜皮(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/瓜皮.json"
+        },
+        {
+            "key": "csp_XBPQ巨人",
+            "name": "🌿巨人(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/巨人.json"
+        },
+        {
+            "key": "csp_XBPQ番茄",
+            "name": "🎋番茄(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/番茄.json"
+        },
+        {
+            "key": "csp_XBPQfreeok",
+            "name": "🍃freeok(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/freeok.json"
+        },
+        {
+            "key": "csp_XBPQ黑洞影视",
+            "name": "🌾黑洞影视(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/xBPQ/黑洞影视.json"
+        },
         //{ "key": "小熊", "name": "🐻小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Wmkk", "name": "🎆完美看看(SP)", "api": "csp_Wmkk", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1 },
         //{ "key": "csp_DY1990", "name": "🍐1990电影(SP)", "type": 3, "api": "csp_DY1990", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -426,26 +526,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "csp_XBPQ胖虎影视",
-            "name": "胖虎影视(XBPQ)",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://saulxxx.github.io/future/xBPQ/胖虎影视.json"
-        },
-        {
-            "key": "csp_XBPQ荐片",
-            "name": "荐片(XBPQ)",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://saulxxx.github.io/future/xBPQ/荐片.json"
         }
         //{ "key": "csp_xpath_libv", "name": "🍭Libvio(XP)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://saulxxx.github.io/future/XBP/libv.json" },
         //{ "key": "csp_XBiubiu_爱港剧", "name": "⛴️爱港剧(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/XBP/agj.json" },
