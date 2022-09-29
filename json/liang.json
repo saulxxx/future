@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //"spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0828.jar",  "https://saulxxx.github.io/future/jar/0906.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://saulxxx.github.io/future/jar/0926.jar;md5;3d08549a74c36c155755fef80be6248b",
+    "spider": "https://saulxxx.github.io/future/jar/0928.jar;md5;ff0ea5727d7f5bafb443a2f87ebf7724",
     "lives": [
         {
             "group": "redirect",
@@ -113,6 +113,24 @@
             "filterable": 1
         },
         {
+            "key": "csp_Zxzj",
+            "name": "🏠在线之家(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🦋Auete(SP)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_hbys",
             "name": "🎭简影(SP)",
             "api": "csp_JianYing",
@@ -187,19 +205,70 @@
             "searchable": 1
         },
         {
-            "key": "日漫",
-            "name": "🦄日漫(SP)",
+            "key": "csp_XYQHiker_氢视频",
+            "name": "🍂氢视频(XYQH)",
             "type": 3,
-            "api": "csp_Anime1",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/X/xyqqsp.json"
         },
         {
-            "key": "csp_Kunyu77",
-            "name": "👒七七(SP)",
+            "key": "csp_XYQBiu_凌云影视",
+            "name": "🍁凌云影视(XYQB)",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/X/xyqlyys.json"
+        },
+        {
+            "key": "csp_XBPQ胖虎影视",
+            "name": "🌵胖虎影视(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/X/胖虎影视.json"
+        },
+        {
+            "key": "csp_xb_ysgc",
+            "name": "🏗影视工厂(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+        },
+        {
+            "key": "csp_xb_lgyy",
+            "name": "💽蓝光影院(R)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "293视频",
+            "name": "✌️293视频(SP)",
+            "type": 3,
+            "api": "csp_SP293",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "csp_SP360",
+            "name": "🎾360(SP)",
+            "type": 3,
+            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -215,28 +284,19 @@
             "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
         },
         {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_NianYing",
             "name": "🌐念影(SP)",
             "type": 3,
             "api": "csp_Nianying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "🏠在线之家(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🦋Auete(SP)",
-            "type": 3,
-            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -305,53 +365,13 @@
             "filterable": 1
         },
         {
-            "key": "293视频",
-            "name": "✌️293视频(SP)",
+            "key": "日漫",
+            "name": "🦄日漫(SP)",
             "type": 3,
-            "api": "csp_SP293",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_SP360",
-            "name": "🎾360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
+            "api": "csp_Anime1",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_XYQHiker_氢视频",
-            "name": "🍂氢视频(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/xyqqsp.json"
-        },
-        {
-            "key": "csp_XYQBiu_凌云影视",
-            "name": "🍁凌云影视(XYQB)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/xyqlyys.json"
-        },
-        {
-            "key": "csp_XBPQ胖虎影视",
-            "name": "🌵胖虎影视(XBPQ)",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/胖虎影视.json"
         },
         //{ "key": "小熊", "name": "🐻小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         //{ "key": "csp_Wmkk", "name": "🎆完美看看(SP)", "api": "csp_Wmkk", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1 },
@@ -496,9 +516,34 @@
             "url": "Sequence"
         },
         {
-            "name": "GGTV",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
+            "name": "M6",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "leshi",
+                    "LS",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": ""
+                }
+            }
         },
         {
             "name": "keyu",
@@ -529,6 +574,11 @@
                     "User-Agent": "okhttp/4.1.0"
                 }
             }
+        },
+        {
+            "name": "GGTV",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
         },
         {
             "name": "GGTV自用",
