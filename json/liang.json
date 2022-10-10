@@ -265,35 +265,35 @@
             "key": "drpy_js_555影视",
             "name": "555影视[DRPY]",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/json/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/555影视.js"
         },
         {
             "key": "drpy_js_cokemv",
             "name": "cokemv[DRPY]",
             "type": 3,
-            "api": "clan://TVbox/drpy/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/cokemv.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "LIBVIO[DRPY]",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/json/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
         },
         {
             "key": "drpy_js_剧白白",
             "name": "剧白白[DRPY]",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/json/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/剧白白.js"
         },
         {
             "key": "drpy_js_鸭奈飞",
             "name": "鸭奈飞[DRPY]",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/json/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/鸭奈飞.js"
         },
         {
