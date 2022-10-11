@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //"spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0828.jar",  "https://saulxxx.github.io/future/jar/0906.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://saulxxx.github.io/future/jar/1008.jar;md5;28b008e098ee5e7dfda159bd7195ca52",
+    "spider": "https://saulxxx.github.io/future/jar/1008.jar;md5;22457da8260b31204a0e322fae0c6d6f",
     "lives": [
         {
             "group": "redirect",
@@ -132,6 +132,15 @@
             "searchable": 1
         },
         {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Yiso",
             "name": "🌜易搜(仅搜索)",
             "type": 3,
@@ -149,7 +158,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/xyqqsp.json"
+            "ext": "https://saulxxx.github.io/future/X/xyqqsp.json",
+            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar"
         },
         {
             "key": "csp_XYQBiu_凌云影视",
@@ -159,7 +169,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/xyqlyys.json"
+            "ext": "https://saulxxx.github.io/future/X/xyqlyys.json",
+            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar"
         },
         {
             "key": "csp_XBPQ胖虎影视",
@@ -179,7 +190,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/农民影视.json"
+            "ext": "https://saulxxx.github.io/future/X/农民影视.json",
+            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar"
         },
         {
             "key": "csp_XYQHiker_在线之家",
@@ -189,7 +201,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/zxzj.json"
+            "ext": "https://saulxxx.github.io/future/X/zxzj.json",
+            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar"
         },
         {
             "key": "csp_xb_ysgc",
@@ -317,15 +330,6 @@
             "name": "🎾360(SP)",
             "type": 3,
             "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "👒七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
