@@ -214,6 +214,13 @@
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
         },
         {
+            "key": "drpy_js_完美看看",
+            "name": "🎆完美看看[DRPY]",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "ext": "https://saulxxx.github.io/future/js/完美看看.js"
+        },
+        {
             "key": "csp_XBiu_cokemv",
             "name": "🍳cokemv(XBiu)",
             "type": 3,
@@ -252,6 +259,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/胖虎影视.json"
+        },
+        {
+            "key": "csp_XBPQ厂长",
+            "name": "🚬厂长(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/X/厂长资源.json"
         },
         {
             "key": "csp_XYQHiker_农民影视",
