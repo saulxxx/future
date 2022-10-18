@@ -1,8 +1,7 @@
 {
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
-    //"spider": "https://gitea.com/saulxxx/future/raw/branch/main/jar/0828.jar",  "https://saulxxx.github.io/future/jar/0906.jar",https://ghproxy.com/https://raw.githubusercontent.com
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    //"spider": "https://saulxxx.github.io/future/jar/0906.jar",https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js
     "spider": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a",
     "lives": [
         {
@@ -14,6 +13,34 @@
                         "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
                     ]
                 }
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "host": "*",
+            "rule": [
+                "default.365yg.com"
+            ]
+        },
+        {
+            "host": "dyxs20.com",
+            "rule": [
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time="
             ]
         }
     ],
@@ -203,14 +230,14 @@
             "key": "drpy_js_555影视",
             "name": "🎏555影视[DRPY]",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "api": "https://saulxxx.github.io/future/json/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/555影视.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "🍭LIBVIO[DRPY]",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "api": "https://saulxxx.github.io/future/json/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
         },
         {
@@ -245,7 +272,7 @@
         },
         {
             "key": "csp_XBPQ胖虎影视",
-            "name": "🌵胖虎影视(XBPQ)",
+            "name": "🌵胖虎影视(xBPQ)",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -255,13 +282,23 @@
         },
         {
             "key": "csp_XBPQ厂长",
-            "name": "🚬厂长(XBPQ)",
+            "name": "🚬厂长(xBPQ)",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/厂长资源.json"
+        },
+        {
+            "key": "csp_xBPQ_爱看影视",
+            "name": "❤️爱看(xBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
         },
         {
             "key": "csp_XYQHiker_农民影视",
