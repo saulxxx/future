@@ -94,7 +94,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0ebc83e6045548faaf15a058a7992110"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "csp_Kuaikan",
@@ -224,7 +224,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0ebc83e6045548faaf15a058a7992110"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "drpy_js_555影视",
@@ -299,16 +299,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/厂长资源.json"
-        },
-        {
-            "key": "csp_xBPQ_爱看影视",
-            "name": "❤️爱看(xBPQ)",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -503,7 +493,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0ebc83e6045548faaf15a058a7992110"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "csp_AliPanSou",
@@ -513,7 +503,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0ebc83e6045548faaf15a058a7992110"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "zhaozy",
@@ -523,7 +513,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "0ebc83e6045548faaf15a058a7992110"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "push_agent",
@@ -533,7 +523,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "0ebc83e6045548faaf15a058a7992110"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "csp_Alist11",
@@ -549,7 +539,7 @@
             "key": "t4public",
             "name": "👽T4公共",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0ebc83e6045548faaf15a058a7992110&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -558,7 +548,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=0ebc83e6045548faaf15a058a7992110&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
