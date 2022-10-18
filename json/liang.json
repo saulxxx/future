@@ -94,7 +94,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+            "ext": "0ebc83e6045548faaf15a058a7992110"
         },
         {
             "key": "csp_Kuaikan",
@@ -224,20 +224,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+            "ext": "0ebc83e6045548faaf15a058a7992110"
         },
         {
             "key": "drpy_js_555影视",
             "name": "🎏555影视[DRPY]",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/json/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/555影视.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "🍭LIBVIO[DRPY]",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/json/drpy.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
         },
         {
@@ -249,6 +249,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key": "csp_xBiu_爱看影视",
+            "name": "❤️爱看(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
         },
         {
             "key": "csp_xb_ysgc",
@@ -493,7 +503,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+            "ext": "0ebc83e6045548faaf15a058a7992110"
         },
         {
             "key": "csp_AliPanSou",
@@ -503,7 +513,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+            "ext": "0ebc83e6045548faaf15a058a7992110"
         },
         {
             "key": "zhaozy",
@@ -513,7 +523,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+            "ext": "0ebc83e6045548faaf15a058a7992110"
         },
         {
             "key": "push_agent",
@@ -523,7 +533,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "b16f91f99b7f47478bd0599cdb2fa4b4"
+            "ext": "0ebc83e6045548faaf15a058a7992110"
         },
         {
             "key": "csp_Alist11",
@@ -539,7 +549,7 @@
             "key": "t4public",
             "name": "👽T4公共",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=b16f91f99b7f47478bd0599cdb2fa4b4&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0ebc83e6045548faaf15a058a7992110&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -548,7 +558,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=b16f91f99b7f47478bd0599cdb2fa4b4&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=0ebc83e6045548faaf15a058a7992110&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
