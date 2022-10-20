@@ -94,7 +94,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "csp_Kuaikan",
@@ -195,7 +195,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "drpy_js_555影视",
@@ -493,7 +493,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "csp_AliPanSou",
@@ -503,7 +503,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "zhaozy",
@@ -513,7 +513,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "push_agent",
@@ -523,7 +523,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "csp_Alist11",
@@ -539,7 +539,7 @@
             "key": "t4public",
             "name": "👽T4公共",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0131ee44cb594c2c953977b04ae87e1e&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -548,7 +548,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=0131ee44cb594c2c953977b04ae87e1e&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
