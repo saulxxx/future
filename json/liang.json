@@ -240,8 +240,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e",
-            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a",
+            "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
         {
             "key": "csp_XBiu_cokemv",
@@ -291,7 +291,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/胖虎影视.json"
+            "ext": "https://saulxxx.github.io/future/X/胖虎影视.json",
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_XBPQ厂长",
@@ -301,7 +302,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/厂长资源.json"
+            "ext": "https://saulxxx.github.io/future/X/厂长资源.json",
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_XBPQ_Libvio",
@@ -311,7 +313,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/LIBVIO.json"
+            "ext": "https://saulxxx.github.io/future/X/LIBVIO.json",
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -493,7 +496,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e",
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
             "key": "csp_AliPanSou",
@@ -509,7 +513,7 @@
             "key": "zhaozy",
             "name": "🌛找资源(仅搜索)",
             "type": 3,
-            "api": "csp_FindZY",
+            "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
