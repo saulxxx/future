@@ -132,16 +132,6 @@
             "filterable": 1
         },
         {
-            "key": "追剧喵",
-            "name": "🐈追剧喵(SP)",
-            "type": 3,
-            "api": "csp_ZJMiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
-        },
-        {
             "key": "csp_Lib",
             "name": "🍭Libvio(SP)",
             "type": 3,
@@ -329,6 +319,16 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
+        },
+        {
+            "key": "追剧喵",
+            "name": "🐈追剧喵(SP)",
+            "type": 3,
+            "api": "csp_ZJMiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
             "key": "spider_Bttoo",
