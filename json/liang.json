@@ -1,7 +1,7 @@
 {
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
-    //"spider": "https://saulxxx.github.io/future/jar/0906.jar",https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
+    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
     "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a",
     "lives": [
         {
@@ -45,7 +45,6 @@
         }
     ],
     "sites": [
-        //{ "key": "csp_BBB", "name": "🅱️哔哩(SP)", "type": 3, "api": "csp_BBB", "searchable": 0, "quickSearch": 0, "filterable": 1 },
         {
             "key": "csp_CZSPP",
             "name": "🚬厂长(SP)",
@@ -123,15 +122,6 @@
             "searchable": 1
         },
         {
-            "key": "Zjdr",
-            "name": "🕴🏼追剧达人(SP)",
-            "type": 3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Lib",
             "name": "🍭Libvio(SP)",
             "type": 3,
@@ -204,6 +194,15 @@
             "filterable": 1
         },
         {
+            "key": "Zjdr",
+            "name": "🕴🏼追剧达人(SP)",
+            "type": 3,
+            "api": "csp_Zjdr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Zxzj",
             "name": "🏠在线之家(SP)",
             "type": 3,
@@ -221,46 +220,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"
-        },
-        {
-            "key": "csp_XBiu_cokemv",
-            "name": "🥤cokemv(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-        },
-        {
-            "key": "csp_xBiu_爱看影视",
-            "name": "❤️爱看(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
-        },
-        {
-            "key": "csp_xb_lgyy",
-            "name": "💽蓝光影院(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "csp_xb_lez",
-            "name": "🐷乐猪(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/X/lezhu.json"
         },
         {
             "key": "csp_XBPQ胖虎影视",
@@ -294,6 +253,87 @@
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/LIBVIO.json",
             "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
+        },
+        {
+            "key": "csp_xBPQ_98影院",
+            "name": "🍷98影院(xBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}",
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
+        },
+        {
+            "key": "csp_XBiu_cokemv",
+            "name": "🥤cokemv(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+        },
+        {
+            "key": "csp_xBiu_爱看影视",
+            "name": "❤️爱看(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
+        },
+        {
+            "key": "csp_xb_lgyy",
+            "name": "💽蓝光影院(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "csp_XBiu_REPEN",
+            "name": "🍸RENPE┃R(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+        },
+        {
+            "key": "csp_xb_lez",
+            "name": "🐷乐猪(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/X/lezhu.json"
+        },
+        {
+            "key": "csp_xb_zxzj",
+            "name": "🏠在线之家(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/X/zxzj.json"
+        },
+        {
+            "key": "csp_xb_jpys",
+            "name": "🧅极品影视(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -491,12 +531,12 @@
             "key": "csp_Yiso",
             "name": "🌜易搜(仅搜索)",
             "type": 3,
-            "api": "csp_Yiso",
+            "api": "csp_Yisou",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e",
-            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "Upyunso",
@@ -507,7 +547,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e",
-            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_AliPanSou",
