@@ -266,6 +266,26 @@
             "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
+            "key": "csp_XBiu_REPEN",
+            "name": "🍸RENPE┃R(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+        },
+        {
+            "key": "csp_xb_lgyy",
+            "name": "💽蓝光影院(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
             "key": "csp_XBiu_cokemv",
             "name": "🥤cokemv(XBiu)",
             "type": 3,
@@ -284,26 +304,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
-        },
-        {
-            "key": "csp_xb_lgyy",
-            "name": "💽蓝光影院(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "csp_XBiu_REPEN",
-            "name": "🍸RENPE┃R(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
         },
         {
             "key": "csp_xb_lez",
@@ -524,6 +524,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 1,
+            "playerType": 1,
             "filterable": 1,
             "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
@@ -534,6 +535,7 @@
             "api": "csp_Yisou",
             "searchable": 1,
             "quickSearch": 1,
+            "playerType": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e",
             "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
@@ -545,6 +547,7 @@
             "api": "csp_Upyunso",
             "searchable": 1,
             "quickSearch": 1,
+            "playerType": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e",
             "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
@@ -556,6 +559,7 @@
             "api": "csp_AliPS",
             "searchable": 1,
             "quickSearch": 1,
+            "playerType": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
@@ -566,6 +570,7 @@
             "api": "csp_PushAgent",
             "searchable": 0,
             "quickSearch": 0,
+            "playerType": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e"
         },
