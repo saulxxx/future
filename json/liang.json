@@ -1,7 +1,7 @@
 {
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
-    //"spider": "https://saulxxx.github.io/future/jar/0906.jar",https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js
+    //"spider": "https://saulxxx.github.io/future/jar/0906.jar",https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
     "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a",
     "lives": [
         {
@@ -139,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
             "key": "csp_Lib",
@@ -240,8 +240,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a;asc"
+            "ext": "0131ee44cb594c2c953977b04ae87e1e;asc",
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
             "key": "csp_XBiu_cokemv",
@@ -292,7 +292,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/胖虎影视.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_XBPQ厂长",
@@ -303,7 +303,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/厂长资源.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_XBPQ_Libvio",
@@ -314,7 +314,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/LIBVIO.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
+            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -325,7 +325,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/农民影视.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/XYQ.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "drpy_js_555影视",
@@ -486,7 +486,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
             "key": "Upyunso",
@@ -497,7 +497,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "0131ee44cb594c2c953977b04ae87e1e",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
+            "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
             "key": "csp_AliPanSou",
