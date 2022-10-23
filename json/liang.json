@@ -119,7 +119,8 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1
+            "searchable": 1,
+            "jar": "https://saulxxx.github.io/future/jar/神器.jar;md5;0de800421c4ae17db9760784b1b566a9"
         },
         {
             "key": "csp_Lib",
@@ -350,14 +351,14 @@
             "key": "drpy_js_555影视",
             "name": "🎏555影视[DRPY]",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "api": "https://saulxxx.github.io/future/js/dayjs.min.js",
             "ext": "https://saulxxx.github.io/future/js/555影视.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "🍭LIBVIO[DRPY]",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "api": "https://saulxxx.github.io/future/js/dayjs.min.js",
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
         },
         {
