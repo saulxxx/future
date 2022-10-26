@@ -2,7 +2,7 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
-    "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a",
+    "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;bfc453f731f22ba0841d8feec7f5198d",
     "lives": [
         {
             "group": "redirect",
@@ -163,8 +163,16 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "Zjdr",
+            "name": "🕴🏼追剧达人(SP)",
+            "type": 3,
+            "api": "csp_Zjdr",
             "searchable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/神器.jar;md5;0de800421c4ae17db9760784b1b566a9"
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Lib",
@@ -180,42 +188,6 @@
             "name": "🥤Cokemv(SP)",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "🌀低端影视(SP)",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "神马影院",
-            "name": "🐎神马影院(SP)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "👒七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_SP360",
-            "name": "🎾360(SP)",
-            "type": 3,
-            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -239,10 +211,37 @@
             "filterable": 1
         },
         {
-            "key": "Zjdr",
-            "name": "🕴🏼追剧达人(SP)",
+            "key": "神马影院",
+            "name": "🐎神马影院(SP)",
             "type": 3,
-            "api": "csp_Zjdr",
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "🌀低端影视(SP)",
+            "api": "csp_Ddrk",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SP360",
+            "name": "🎾360(SP)",
+            "type": 3,
+            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -755,11 +754,6 @@
             "name": "GGTV自用",
             "type": 1,
             "url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="
-        },
-        {
-            "name": "GGTV搜集",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
         },
         {
             "name": "okjx",
