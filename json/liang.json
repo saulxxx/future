@@ -2,7 +2,7 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
-    "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;bfc453f731f22ba0841d8feec7f5198d",
+    "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a",
     "lives": [
         {
             "group": "redirect",
@@ -13,78 +13,6 @@
                         "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
                     ]
                 }
-            ]
-        }
-    ],
-    "rules": [
-        {
-            "host": "*",
-            "rule": [
-                "douyinvod.com",
-                "/video/tos/cn/"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "default.365yg.com",
-                "/video/tos/cn/"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "aliyundrive.net",
-                "response-content-disposition=",
-                ".m3u8"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "aliyundrive.net",
-                "response-content-disposition=",
-                ".mp4"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "aliyundrive.net",
-                "response-content-disposition=",
-                ".mkv"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "/m3u8.php?path=",
-                ".m3u8"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "/API.php?time=",
-                "key=",
-                "path=",
-                ".m3u8"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "oss-cn-m3u8",
-                "myqcloud.com.zh188.net",
-                "?url=",
-                ".m3u8"
-            ]
-        },
-        {
-            "host": "www.007ts.me",
-            "rule": [
-                "hls.pchj.net",
-                ".m3u8"
             ]
         }
     ],
@@ -126,7 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "csp_Kuaikan",
@@ -170,6 +98,15 @@
             "name": "🕴🏼追剧达人(SP)",
             "type": 3,
             "api": "csp_Zjdr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Lgyy",
+            "name": "💽蓝光影院(SP)",
+            "type": 3,
+            "api": "csp_Lgyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -311,7 +248,7 @@
         },
         {
             "key": "csp_XBiu_REPEN",
-            "name": "🍸RENPE┃R(XBiu)",
+            "name": "🍸RENPE(XBiu)",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
@@ -378,6 +315,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "csp_xb_188k",
+            "name": "🍵188看(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://188kan.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -569,7 +516,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "csp_Yiso",
@@ -579,7 +526,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e",
+            "ext": "http://刚刚.live/json/alitoken.json",
             "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
@@ -590,7 +537,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e",
+            "ext": "http://刚刚.live/json/alitoken.json",
             "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
@@ -601,7 +548,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "push_agent",
@@ -611,7 +558,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "0131ee44cb594c2c953977b04ae87e1e"
+            "ext": "http://刚刚.live/json/alitoken.json"
         },
         {
             "key": "csp_Alist11",
@@ -627,7 +574,7 @@
             "key": "t4public",
             "name": "👽T4公共",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0131ee44cb594c2c953977b04ae87e1e&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=http://刚刚.live/json/alitoken.json&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -636,7 +583,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=0131ee44cb594c2c953977b04ae87e1e&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=http://刚刚.live/json/alitoken.json&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
