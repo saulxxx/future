@@ -54,7 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "csp_Kuaikan",
@@ -317,16 +317,6 @@
             "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
         },
         {
-            "key": "csp_xb_188k",
-            "name": "🍵188看(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://188kan.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
-        },
-        {
             "key": "csp_XYQHiker_农民影视",
             "name": "🌾农民影视(XYQH)",
             "type": 3,
@@ -516,7 +506,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "csp_Yiso",
@@ -526,7 +516,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json",
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
             "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
@@ -537,7 +527,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json",
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
             "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a"
         },
         {
@@ -548,7 +538,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "push_agent",
@@ -558,7 +548,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "csp_Alist11",
@@ -572,9 +562,9 @@
         },
         {
             "key": "t4public",
-            "name": "👽T4公共",
+            "name": "👽豆瓣荐片",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=http://刚刚.live/json/alitoken.json&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7b454e7e9f234b0e9589e4b34fdf2fd1&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -583,7 +573,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=http://刚刚.live/json/alitoken.json&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7b454e7e9f234b0e9589e4b34fdf2fd1&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
