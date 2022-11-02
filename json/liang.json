@@ -565,7 +565,7 @@
             "key": "t4public",
             "name": "👽豆瓣荐片",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7b454e7e9f234b0e9589e4b34fdf2fd1&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -574,7 +574,7 @@
             "key": "T4",
             "name": "👽T4爬虫",
             "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f6fcd2d1c0e54601805413721d89e0ca&timeout=10",
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7b454e7e9f234b0e9589e4b34fdf2fd1&timeout=10",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
