@@ -2,7 +2,7 @@
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
-    "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://saulxxx.github.io/future/jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a",
     "lives": [
         {
@@ -234,17 +234,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://saulxxx.github.io/future/X/LIBVIO.json",
-            "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
-        },
-        {
-            "key": "csp_xBPQ_98影院",
-            "name": "🍷98影院(xBPQ)",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}",
             "jar": "https://saulxxx.github.io/future/jar/top97.jar;md5;1c52c0249c401f50349aaa4f78342954"
         },
         {
