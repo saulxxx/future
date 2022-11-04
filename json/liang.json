@@ -28,6 +28,15 @@
             "filterable": 1
         },
         {
+            "key": "T4_douban",
+            "name": "🍒豆瓣荐片",
+            "type": 4,
+            "api": "http://top.fuqizhishi.com/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Bili",
             "name": "🅱️B站",
             "type": 3,
