@@ -19,19 +19,19 @@
     ],
     "sites": [
         {
-            "key": "csp_CZSPP",
-            "name": "🚬厂长(SP)",
-            "type": 3,
-            "api": "csp_Czsapp",
+            "key": "T4_douban",
+            "name": "🍒豆瓣荐片",
+            "type": 4,
+            "api": "http://top.fuqizhishi.com/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "T4_douban",
-            "name": "🍒豆瓣荐片",
-            "type": 4,
-            "api": "http://top.fuqizhishi.com/vod",
+            "key": "csp_CZSPP",
+            "name": "🚬厂长(SP)",
+            "type": 3,
+            "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
