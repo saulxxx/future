@@ -28,6 +28,16 @@
             "filterable": 1
         },
         {
+            "key": "dr_豆瓣",
+            "name": "🔍豆瓣荐片(drpy)",
+            "type": 3,
+            "api": "https://saulxxx.github.io/future/js/drpy.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/js/豆瓣.js"
+        },
+        {
             "key": "csp_CZSPP",
             "name": "🚬厂长(SP)",
             "type": 3,
