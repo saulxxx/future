@@ -100,16 +100,6 @@
             "ext": "f41992bd740145ed58cb212dc0876582"
         },
         {
-            "key": "TT",
-            "name": "🐰兔兔(SP)",
-            "api": "csp_Dora",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
-        {
             "key": "Zjdr",
             "name": "🕴🏼追剧达人(SP)",
             "type": 3,
@@ -158,6 +148,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "b88de1329655cca1beba45aa9776de70"
+        },
+        {
+            "key": "TT",
+            "name": "🐰兔兔(SP)",
+            "api": "csp_Dora",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "Tian",
@@ -271,7 +271,7 @@
         },
         {
             "key": "Dm84",
-            "name": "🐹动漫(SP)",
+            "name": "🐹动漫巴士(SP)",
             "type": "3",
             "api": "csp_Dora",
             "searchable": "1",
@@ -281,7 +281,7 @@
         },
         {
             "key": "异界",
-            "name": "⛩异界(SP)",
+            "name": "🎡异界(SP)",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
@@ -382,14 +382,14 @@
             "key": "drpy_js_555影视",
             "name": "🎏555[DRPY]",
             "type": 3,
-            "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.js",
+            "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
             "ext": "https://saulxxx.github.io/future/js/555影视.js"
         },
         {
             "key": "drpy_js_LIBVIO",
             "name": "🍭LIBVIO[DRPY]",
             "type": 3,
-            "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.js",
+            "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
             "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
         },
         {
@@ -542,9 +542,9 @@
         },
         {
             "key": "csp_Alist11",
-            "name": "🧢Alist【聚合】",
+            "name": "🧢Alist",
             "type": 3,
-            "api": "csp_Alist",
+            "api": "csp_AList",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
