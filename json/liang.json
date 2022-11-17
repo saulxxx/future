@@ -35,8 +35,17 @@
             "filterable": 1
         },
         {
+            "key": "T4",
+            "name": "🍓豆瓣荐片",
+            "type": 4,
+            "api": "http://t4.ganggang.live:3812/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "dr_豆瓣",
-            "name": "🍒豆瓣荐片(drpy)",
+            "name": "🍑豆瓣荐片(drpy)",
             "type": 3,
             "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js",
             "searchable": 0,
