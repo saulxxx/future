@@ -26,10 +26,10 @@
     ],
     "sites": [
         {
-            "key": "t4public",
-            "name": "🥭豆瓣荐片",
+            "key": "T4",
+            "name": "🍓豆瓣荐片",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxx&timeout=10",
+            "api": "http://t4.ganggang.live:3812/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -39,15 +39,6 @@
             "name": "🍒豆瓣荐片",
             "type": 4,
             "api": "http://top.fuqizhishi.com/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "T4",
-            "name": "🍓豆瓣荐片",
-            "type": 4,
-            "api": "http://t4.ganggang.live:3812/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -512,6 +503,15 @@
             "filterable": 0,
             "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
             "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+        },
+        {
+            "key": "t4public",
+            "name": "🥭豆瓣荐片",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxx&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Alist11",
