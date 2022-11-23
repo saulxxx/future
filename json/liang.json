@@ -35,7 +35,7 @@
             "filterable": 1
         },
         {
-            "key": "T4",
+            "key": "T4_1",
             "name": "🍊豆瓣荐片",
             "type": 4,
             "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod",
