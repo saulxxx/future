@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://saulxxx.github.io/future/jar/cs.jar;md5;e0924826e82aa56b850549b520bfd67f",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e",
     "lives": [
         {
             "name": "直播",
@@ -30,8 +30,26 @@
             "name": "🍓豆瓣荐片",
             "type": 4,
             "api": "http://t4.ganggang.live:3812/vod",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "T4",
+            "name": "🍊豆瓣荐片",
+            "type": 4,
+            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "t4public",
+            "name": "🥭豆瓣荐片",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7b454e7e9f234b0e9589e4b34fdf2fd1&timeout=10",
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1
         },
         {
@@ -39,13 +57,13 @@
             "name": "🍒豆瓣荐片",
             "type": 4,
             "api": "http://top.fuqizhishi.com/vod",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1
         },
         {
             "key": "dr_豆瓣",
-            "name": "🍑豆瓣荐片(drpy)",
+            "name": "🍑豆瓣荐片",
             "type": 3,
             "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js",
             "searchable": 0,
@@ -87,12 +105,11 @@
             "key": "csp_GitCafe",
             "name": "🦊小纸条(SP)",
             "type": 3,
-            "api": "csp_Paper",
+            "api": "csp_Gitcafe",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "csp_Kuaikan",
@@ -301,7 +318,7 @@
             "api": "csp_Ysj",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
         },
         {
             "key": "樱花",
@@ -310,7 +327,28 @@
             "api": "csp_Ying",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
+        },
+        {
+            "key": "csp_XYQHiker_农民影视",
+            "name": "🌾农民(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://saulxxx.github.io/future/X/农民影视.json",
+            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+        },
+        {
+            "key": "csp_xb_lez",
+            "name": "🐷乐猪(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://saulxxx.github.io/future/X/lezhu.json"
         },
         {
             "key": "csp_XBiu_REPEN",
@@ -321,6 +359,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+        },
+        {
+            "key": "csp_xb_jpys",
+            "name": "🧅极品(XBiu)",
+            "type": 3,
+            "api": "csp_XBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
         },
         {
             "key": "csp_xb_lgyy",
@@ -353,16 +401,6 @@
             "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
         },
         {
-            "key": "csp_xb_lez",
-            "name": "🐷乐猪(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/X/lezhu.json"
-        },
-        {
             "key": "csp_xb_zxzj",
             "name": "🏠在线之家(XBiu)",
             "type": 3,
@@ -373,72 +411,24 @@
             "ext": "https://saulxxx.github.io/future/X/zxzj.json"
         },
         {
-            "key": "csp_xb_jpys",
-            "name": "🧅极品(XBiu)",
+            "key": "csp_xb_auete",
+            "name": "🦋奥特(XBiu)",
             "type": 3,
             "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "http://home.jundie.top:666/json/XBiu/auete.json"
         },
         {
-            "key": "csp_XYQHiker_农民影视",
-            "name": "🌾农民(XYQH)",
+            "key": "csp_xb_lib",
+            "name": "🍭Libvio(XBiu)",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_XBiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/农民影视.json",
-            "jar": "https://saulxxx.github.io/future/jar/XYQ.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
-        },
-        {
-            "key": "drpy_js_555影视",
-            "name": "🎏555[DRPY]",
-            "type": 3,
-            "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
-            "ext": "https://saulxxx.github.io/future/js/555影视.js"
-        },
-        {
-            "key": "drpy_js_LIBVIO",
-            "name": "🍭LIBVIO[DRPY]",
-            "type": 3,
-            "api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
-            "ext": "https://saulxxx.github.io/future/js/LIBVIO.js"
-        },
-        {
-            "key": "csp_XBPQ胖虎影视",
-            "name": "🌵胖虎(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/胖虎影视.json",
-            "jar": "https://saulxxx.github.io/future/jar/top.jar;md5;2e15048fb992bc0c423c8e34a2bd213a"
-        },
-        {
-            "key": "csp_XBPQ厂长",
-            "name": "🚬厂长(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/厂长资源.json",
-            "jar": "https://saulxxx.github.io/future/jar/top.jar;md5;2e15048fb992bc0c423c8e34a2bd213a"
-        },
-        {
-            "key": "csp_XBPQ_Libvio",
-            "name": "🍭Libvio(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://saulxxx.github.io/future/X/LIBVIO.json",
-            "jar": "https://saulxxx.github.io/future/jar/top.jar;md5;2e15048fb992bc0c423c8e34a2bd213a"
+            "filterable": 0,
+            "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
         },
         {
             "key": "If101",
@@ -467,9 +457,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
         },
-        //{ "key": "zhaozy", "name": "🌛找资源(仅搜索)", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1" },
         //{ "key": "Upyunso", "name": "🌤UP云搜(仅搜索)", "type": 3, "api": "csp_Upyunso", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1", "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a" },
         {
             "key": "csp_Yiso",
@@ -479,39 +468,37 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "csp_AliPanSou",
             "name": "🐱盘搜(仅搜索)",
             "type": 3,
-            "api": "csp_PanSou",
+            "api": "csp_AliPS",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+        },
+        {
+            "key": "zhaozy",
+            "name": "🌛找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
-            "api": "csp_Push",
+            "api": "csp_PushAgent",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1",
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1"
-        },
-        {
-            "key": "t4public",
-            "name": "🥭豆瓣荐片",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxx&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
             "key": "csp_Alist11",

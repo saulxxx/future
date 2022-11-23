@@ -1,16 +1,15 @@
 {
-    "spider": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;e1ce4a638a2dbef8dd09c6ce07ba7da1",
+    "spider": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949",
     "lives": [
         {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-                    ]
-                }
-            ]
+            "name": "Adult",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+        },
+        {
+            "name": "10086",
+            "type": 0,
+            "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
         }
     ],
     "sites": [
