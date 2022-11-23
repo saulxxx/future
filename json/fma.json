@@ -4,12 +4,12 @@
         {
             "name": "Adult",
             "type": 0,
-            "url": "https://saulxxx.github.io/future/tv/Adult.m3u"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/tv/Adult.m3u"
         },
         {
             "name": "10086",
             "type": 0,
-            "url": "https://saulxxx.github.io/future/tv/drzb.txt"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/tv/drzb.txt"
         }
     ],
     "sites": [
