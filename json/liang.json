@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "img+https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.bmp;md5;88bc7ceb80939319ba6646c8369caba7",
+    "spider": "img+https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.bmp;md5;1fde96a9d26e17edb0b83982e3e44f3e",
     "lives": [
         {
             "name": "直播",
