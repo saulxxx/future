@@ -1,9 +1,9 @@
 {
     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
-    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/
+    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.bmp;md5;88bc7ceb80939319ba6646c8369caba7",
     "lives": [
         {
             "name": "直播",
@@ -30,15 +30,6 @@
             "name": "🍓豆瓣荐片",
             "type": 4,
             "api": "http://t4.ganggang.live:3812/vod",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "T4_1",
-            "name": "🍊豆瓣荐片",
-            "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -351,16 +342,6 @@
             "ext": "https://saulxxx.github.io/future/X/lezhu.json"
         },
         {
-            "key": "csp_XBiu_REPEN",
-            "name": "🍸RENPE(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
-        },
-        {
             "key": "csp_xb_jpys",
             "name": "🧅极品(XBiu)",
             "type": 3,
@@ -370,66 +351,7 @@
             "filterable": 0,
             "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"
         },
-        {
-            "key": "csp_xb_lgyy",
-            "name": "💽蓝光(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key": "csp_XBiu_cokemv",
-            "name": "🥤可乐(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-        },
-        {
-            "key": "csp_xBiu_爱看影视",
-            "name": "❤️爱看(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"
-        },
-        {
-            "key": "csp_xb_zxzj",
-            "name": "🏠在线之家(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://saulxxx.github.io/future/X/zxzj.json"
-        },
-        {
-            "key": "csp_xb_auete",
-            "name": "🦋奥特(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://home.jundie.top:666/json/XBiu/auete.json"
-        },
-        {
-            "key": "csp_xb_lib",
-            "name": "🍭Libvio(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
-        },
+        //{ "key": "csp_XBiu_REPEN", "name": "🍸RENPE(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/" }, { "key": "csp_xb_lgyy", "name": "💽蓝光(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html" }, { "key": "csp_XBiu_cokemv", "name": "🥤可乐(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html" }, { "key": "csp_xBiu_爱看影视", "name": "❤️爱看(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/" }, { "key": "csp_xb_zxzj", "name": "🏠在线之家(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/X/zxzj.json" }, { "key": "csp_xb_auete", "name": "🦋奥特(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "http://home.jundie.top:666/json/XBiu/auete.json" }, { "key": "csp_xb_lib", "name": "🍭Libvio(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html" },
         {
             "key": "If101",
             "name": "🚁If101(SP需翻墙)",
@@ -459,7 +381,6 @@
             "filterable": 1,
             "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
         },
-        //{ "key": "Upyunso", "name": "🌤UP云搜(仅搜索)", "type": 3, "api": "csp_Upyunso", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1", "jar": "https://saulxxx.github.io/future/jar/1008.jar;md5;0e222cd871843570adbcb8a1b543301a" },
         {
             "key": "csp_Yiso",
             "name": "🌜易搜(仅搜索)",
@@ -491,6 +412,16 @@
             "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
+            "key": "Upyunso",
+            "name": "🌤云搜(仅搜索)",
+            "type": 3,
+            "api": "csp_Upso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+        },
+        {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
@@ -508,26 +439,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": {
-                "🦀9T(Adult)": "https://drive.9t.ee",
-                "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
-                "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
-                "💂小兵组网盘影视": "https://6vv.app",
-                "🐋一只鱼": "https://alist.youte.ml",
-                "🌊七米蓝": "https://al.chirmyram.com",
-                "🥼帅盘": "https://hi.shuaipeng.wang",
-                "🐉神族九帝": "https://alist.shenzjd.com",
-                "☃️姬路白雪": "https://pan.jlbx.xyz",
-                "🎧听闻网盘": "https://wangpan.sangxuesheng.com",
-                "💾DISK": "http://124.222.140.243:8080",
-                "🌨云播放": "https://quanzi.laoxianghuijia.cn",
-                "✨星梦": "https://pan.bashroot.top",
-                "💫触光": "https://pan.ichuguang.com",
-                "🕵️好汉吧": "https://8023.haohanba.cn",
-                "💢repl": "https://ali.liucn.repl.co",
-                "🌨秋雨分享": "https://share.laowang.me",
-                "💦讯维云盘": "https://pan.xwbeta.com"
-            }
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
         }
     ],
     "parses": [
