@@ -388,7 +388,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
@@ -398,11 +398,11 @@
             "api": "csp_AliPS",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
-            "key": "zhaozy",
+            "key": "Zhaozy",
             "name": "🌛找资源(仅搜索)",
             "type": 3,
             "api": "csp_Zhaozy",
@@ -412,13 +412,13 @@
             "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
-            "key": "Upyunso",
+            "key": "Upso",
             "name": "🌤云搜(仅搜索)",
             "type": 3,
             "api": "csp_Upso",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1,
             "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
         },
         {
