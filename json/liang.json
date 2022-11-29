@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;7d0487d3ea16a3a147c91197997a057a",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;c9ddec5d203a6235c0bae3d3527b940a",
     "lives": [
         {
             "name": "直播",
@@ -83,8 +83,18 @@
             "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://saulxxx.github.io/future/XBP/Bili.json"
         },
         {
+            "key": "世界杯",
+            "name": "⚽️一起看",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8e3aefcba838d8dc5102ac786719d837"
+        },
+        {
             "key": "csp_xpath_qiumi",
-            "name": "⚽️球迷(XP)",
+            "name": "🏐球迷(XP)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
