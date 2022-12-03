@@ -38,7 +38,7 @@
             "key": "t4public",
             "name": "🥭豆瓣荐片",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7b454e7e9f234b0e9589e4b34fdf2fd1&timeout=10",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=49bfd19859f1433a9484fdae5c412b50&timeout=10",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -110,7 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+            "ext": "49bfd19859f1433a9484fdae5c412b50"
         },
         {
             "key": "csp_Kuaikan",
@@ -360,7 +360,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+            "ext": "49bfd19859f1433a9484fdae5c412b50"
         },
         {
             "key": "csp_AliPanSou",
@@ -370,7 +370,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+            "ext": "49bfd19859f1433a9484fdae5c412b50"
         },
         {
             "key": "Upso",
@@ -380,7 +380,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+            "ext": "49bfd19859f1433a9484fdae5c412b50"
         },
         {
             "key": "Zhaozy",
@@ -390,7 +390,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+            "ext": "49bfd19859f1433a9484fdae5c412b50"
         },
         {
             "key": "csp_Alist11",
@@ -410,7 +410,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "7b454e7e9f234b0e9589e4b34fdf2fd1"
+            "ext": "49bfd19859f1433a9484fdae5c412b50"
         }
     ],
     "parses": [
