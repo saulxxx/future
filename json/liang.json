@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;c9ddec5d203a6235c0bae3d3527b940a",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;d9a481854e58a26f605c97c32acb7d10",
     "lives": [
         {
             "name": "直播",
@@ -25,33 +25,6 @@
         }
     ],
     "sites": [
-        {
-            "key": "T4",
-            "name": "🍓豆瓣荐片",
-            "type": 4,
-            "api": "http://t4.ganggang.live:3812/vod",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "t4public",
-            "name": "🥭豆瓣荐片",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=49bfd19859f1433a9484fdae5c412b50&timeout=10",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "T4_douban",
-            "name": "🍒豆瓣荐片",
-            "type": 4,
-            "api": "http://top.fuqizhishi.com/vod",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
         {
             "key": "dr_豆瓣",
             "name": "🍑豆瓣荐片",
