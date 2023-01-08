@@ -3,25 +3,14 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;d9a481854e58a26f605c97c32acb7d10",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;9c102c1c5f41c3d7753256665831c25f",
     "lives": [
         {
             "name": "直播",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-                    ]
-                }
-            ],
-            "epg": "http://epg.51zmt.top:8000/api/diyp/"
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "sites": [
@@ -83,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "49bfd19859f1433a9484fdae5c412b50"
+            "ext": "cfbedd04fdaa43edb33094df87747ea9"
         },
         {
             "key": "csp_Kuaikan",
@@ -292,7 +281,7 @@
             "api": "csp_Ysj",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
+            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"
         },
         {
             "key": "樱花",
@@ -301,7 +290,7 @@
             "api": "csp_Ying",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
+            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"
         },
         //{ "key": "csp_xb_lez", "name": "🐷乐猪(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/X/lezhu.json" }, { "key": "csp_xb_jpys", "name": "🧅极品(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html" },{ "key": "csp_XBiu_REPEN", "name": "🍸RENPE(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/" }, { "key": "csp_xb_lgyy", "name": "💽蓝光(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html" }, { "key": "csp_XBiu_cokemv", "name": "🥤可乐(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html" }, { "key": "csp_xBiu_爱看影视", "name": "❤️爱看(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---/" }, { "key": "csp_xb_zxzj", "name": "🏠在线之家(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://saulxxx.github.io/future/X/zxzj.json" }, { "key": "csp_xb_auete", "name": "🦋奥特(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "http://home.jundie.top:666/json/XBiu/auete.json" }, { "key": "csp_xb_lib", "name": "🍭Libvio(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html" },
         //{ "key": "If101", "name": "🚁If101(SP需翻墙)", "type": 3, "api": "csp_If101", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -319,11 +308,11 @@
             "key": "csp_Nbys",
             "name": "✈️泥巴(SP需翻墙)",
             "type": 3,
-            "api": "csp_Nbys",
+            "api": "csp_NiNi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;3d3e7fb44db5b51e1ba102d6253c3949"
+            "jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"
         },
         {
             "key": "csp_Yiso",
@@ -333,7 +322,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "49bfd19859f1433a9484fdae5c412b50"
+            "ext": "cfbedd04fdaa43edb33094df87747ea9"
         },
         {
             "key": "csp_AliPanSou",
@@ -343,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "49bfd19859f1433a9484fdae5c412b50"
+            "ext": "cfbedd04fdaa43edb33094df87747ea9"
         },
         {
             "key": "Upso",
@@ -353,7 +342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "49bfd19859f1433a9484fdae5c412b50"
+            "ext": "cfbedd04fdaa43edb33094df87747ea9"
         },
         {
             "key": "Zhaozy",
@@ -363,7 +352,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "49bfd19859f1433a9484fdae5c412b50"
+            "ext": "cfbedd04fdaa43edb33094df87747ea9"
         },
         {
             "key": "csp_Alist11",
@@ -383,7 +372,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "49bfd19859f1433a9484fdae5c412b50"
+            "ext": "cfbedd04fdaa43edb33094df87747ea9"
         }
     ],
     "parses": [
