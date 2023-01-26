@@ -25,7 +25,7 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
         },
         {
-            "key": "dr_豆瓣",
+            "key": "豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
             "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
