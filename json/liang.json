@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;3835a60781cf559924009150c490166e",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159",
     "lives": [
         {
             "name": "直播",
@@ -23,6 +23,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
+        },
+        {
+            "key": "dr_豆瓣",
+            "name": "🍒豆瓣荐片",
+            "type": 3,
+            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://raw.githubusercontent.com/pluto-player/updates/main/android/plugins/js/douban.js"
         },
         {
             "key": "csp_CZSPP",
@@ -46,7 +56,7 @@
         },
         {
             "key": "世界杯",
-            "name": "⚽️一起看",
+            "name": "⚽️一起看(SP)",
             "type": "3",
             "api": "csp_Dora",
             "searchable": "1",
@@ -95,6 +105,56 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
+            "key": "Lgyy",
+            "name": "💽蓝光(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "b2e573ff040fcd54b50475660ee1a7d1"
+        },
+        {
+            "key": "Yanet",
+            "name": "🦆鸭奈飞(SP)",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "a369b1f623fe86605f1b029f0cf66349"
+        },
+        {
+            "key": "Tian",
+            "name": "🪐天天(SP)",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
+        {
+            "key": "Pang",
+            "name": "🌵胖虎(SP)",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "c41fdb671b20925c76fa9b6ff8bad027"
+        },
+        {
+            "key": "Hei",
+            "name": "🍈石榴(SP)",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
+        },
+        {
             "key": "csp_dd5555",
             "name": "🎏555(SP)",
             "api": "csp_Dora",
@@ -113,26 +173,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
-        },
-        {
-            "key": "Lgyy",
-            "name": "💽蓝光(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "b2e573ff040fcd54b50475660ee1a7d1"
-        },
-        {
-            "key": "神马影院",
-            "name": "🐎神马(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "16705ee9f4764be8499806f52d4bf1e7"
         },
         {
             "key": "csp_Lib",
@@ -155,16 +195,6 @@
             "ext": "b88de1329655cca1beba45aa9776de70"
         },
         {
-            "key": "Yanet",
-            "name": "🦆鸭奈飞(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "a369b1f623fe86605f1b029f0cf66349"
-        },
-        {
             "key": "csp_Zxzj",
             "name": "🏠在线之家(SP)",
             "type": 3,
@@ -173,6 +203,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "23a412dda32885ae2bcb97b956cd7ad4"
+        },
+        {
+            "key": "神马影院",
+            "name": "🐎神马(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "16705ee9f4764be8499806f52d4bf1e7"
         },
         {
             "key": "csp_Auete",
@@ -233,36 +273,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "6deed4548c44b18d268a5d828f04d86e"
-        },
-        {
-            "key": "Tian",
-            "name": "🪐天天(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
-            "key": "Pang",
-            "name": "🌵胖虎(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "c41fdb671b20925c76fa9b6ff8bad027"
-        },
-        {
-            "key": "Hei",
-            "name": "🍈石榴(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
         },
         {
             "key": "Dm84",
@@ -450,6 +460,11 @@
                     "User-Agent": "okhttp/4.1.0"
                 }
             }
+        },
+        {
+            "name": "万年魂环解析",
+            "type": 1,
+            "url": "https://jiexi.parses.repl.co/api.php?url="
         },
         {
             "name": "365",
