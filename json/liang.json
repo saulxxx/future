@@ -25,7 +25,7 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
         },
         {
-            "key": "豆瓣",
+            "key": "js豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
             "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "262aae44af4340e38c5b73b47f39d5e3"
         },
         {
             "key": "csp_Kuaikan",
@@ -332,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "262aae44af4340e38c5b73b47f39d5e3"
         },
         {
             "key": "csp_AliPanSou",
@@ -342,7 +342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "262aae44af4340e38c5b73b47f39d5e3"
         },
         {
             "key": "Upso",
@@ -352,7 +352,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "262aae44af4340e38c5b73b47f39d5e3"
         },
         {
             "key": "Zhaozy",
@@ -362,7 +362,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"
+            "ext": "262aae44af4340e38c5b73b47f39d5e3"
         },
         {
             "key": "csp_Alist11",
@@ -382,7 +382,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "262aae44af4340e38c5b73b47f39d5e3"
         }
     ],
     "parses": [
