@@ -28,11 +28,11 @@
             "key": "豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
+            "ext": "http://ftyyy.tk/JS/js/drpy.js"
         },
         {
             "key": "csp_CZSPP",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "cfbedd04fdaa43edb33094df87747ea9"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "csp_Kuaikan",
@@ -332,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "cfbedd04fdaa43edb33094df87747ea9"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "csp_AliPanSou",
@@ -342,7 +342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "cfbedd04fdaa43edb33094df87747ea9"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "Upso",
@@ -352,7 +352,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "cfbedd04fdaa43edb33094df87747ea9"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "Zhaozy",
@@ -362,7 +362,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "cfbedd04fdaa43edb33094df87747ea9"
+            "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"
         },
         {
             "key": "csp_Alist11",
@@ -382,7 +382,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "cfbedd04fdaa43edb33094df87747ea9"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         }
     ],
     "parses": [
