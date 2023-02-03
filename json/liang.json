@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;b061493a35694916616fb2903324cfdf",
     "lives": [
         {
             "name": "直播",
@@ -15,16 +15,6 @@
     ],
     "sites": [
         {
-            "key": "dr_豆瓣",
-            "name": "🍑豆瓣荐片",
-            "type": 3,
-            "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
-        },
-        {
             "key": "js豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
@@ -33,6 +23,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "http://ftyyy.tk/JS/js/drpy.js"
+        },
+        {
+            "key": "dr_豆瓣",
+            "name": "🍑豆瓣荐片",
+            "type": 3,
+            "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
         },
         {
             "key": "csp_CZSPP",
@@ -55,16 +55,6 @@
             "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://saulxxx.github.io/future/XBP/Bili.json"
         },
         {
-            "key": "世界杯",
-            "name": "⚽️一起看(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "8e3aefcba838d8dc5102ac786719d837"
-        },
-        {
             "key": "csp_xpath_qiumi",
             "name": "🏐球迷(XP)",
             "type": 3,
@@ -82,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "262aae44af4340e38c5b73b47f39d5e3"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "csp_Kuaikan",
@@ -93,6 +83,76 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "459b1cb892e317546676a2c9dcec2bff"
+        },
+        {
+            "key": "csp_dd5555",
+            "name": "🎏555(SP)",
+            "api": "csp_Dora",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "f41992bd740145ed58cb212dc0876582"
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎小苹果(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "6deed4548c44b18d268a5d828f04d86e"
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "🥤可乐(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "b88de1329655cca1beba45aa9776de70"
+        },
+        {
+            "key": "神马影院",
+            "name": "🐎神马(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "16705ee9f4764be8499806f52d4bf1e7"
+        },
+        {
+            "key": "csp_IKan",
+            "name": "❤️爱看(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "🌀低端(SP)",
+            "api": "csp_Dora",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "1cc92323700909e7d46623bc85b958d6"
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
         },
         {
             "key": "TT",
@@ -145,14 +205,14 @@
             "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
         },
         {
-            "key": "csp_dd5555",
-            "name": "🎏555(SP)",
+            "key": "世界杯",
+            "name": "⚽️一起看(SP)",
+            "type": "3",
             "api": "csp_Dora",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "f41992bd740145ed58cb212dc0876582"
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "8e3aefcba838d8dc5102ac786719d837"
         },
         {
             "key": "Zjdr",
@@ -175,16 +235,6 @@
             "ext": "78d057e4d03e47cb62dce13d69b41d6f"
         },
         {
-            "key": "csp_Cokemv",
-            "name": "🥤可乐(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "b88de1329655cca1beba45aa9776de70"
-        },
-        {
             "key": "csp_Zxzj",
             "name": "🏠在线之家(SP)",
             "type": 3,
@@ -205,16 +255,6 @@
             "ext": "bdc1c75081e5e477189a463baa47e392"
         },
         {
-            "key": "神马影院",
-            "name": "🐎神马(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "16705ee9f4764be8499806f52d4bf1e7"
-        },
-        {
             "key": "csp_Auete",
             "name": "🦋奥特(SP)",
             "type": 3,
@@ -225,36 +265,6 @@
             "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
         },
         {
-            "key": "csp_IKan",
-            "name": "❤️爱看(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "🌀低端(SP)",
-            "api": "csp_Dora",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "1cc92323700909e7d46623bc85b958d6"
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "👒七七(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
-        },
-        {
             "key": "csp_SP360",
             "name": "🎾360(SP)",
             "type": 3,
@@ -263,16 +273,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "9248c57eb22ace4a3431fbd1a979465f"
-        },
-        {
-            "key": "csp_LiteApple",
-            "name": "🍎小苹果(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "6deed4548c44b18d268a5d828f04d86e"
         },
         {
             "key": "Dm84",
@@ -332,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "262aae44af4340e38c5b73b47f39d5e3"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "csp_AliPanSou",
@@ -342,7 +342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "262aae44af4340e38c5b73b47f39d5e3"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "Upso",
@@ -352,7 +352,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "262aae44af4340e38c5b73b47f39d5e3"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         },
         {
             "key": "Zhaozy",
@@ -362,7 +362,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "262aae44af4340e38c5b73b47f39d5e3"
+            "ext": "http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"
         },
         {
             "key": "csp_Alist11",
@@ -382,7 +382,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "262aae44af4340e38c5b73b47f39d5e3"
+            "ext": "http://我不是.肥猫.love:63/token.php"
         }
     ],
     "parses": [
