@@ -72,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "1f3b8938bfa949f4b3231d92003db1b3"
         },
         {
             "key": "csp_Kuaikan",
@@ -332,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "1f3b8938bfa949f4b3231d92003db1b3"
         },
         {
             "key": "csp_AliPanSou",
@@ -342,7 +342,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "1f3b8938bfa949f4b3231d92003db1b3"
         },
         {
             "key": "Upso",
@@ -352,7 +352,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "1f3b8938bfa949f4b3231d92003db1b3"
         },
         {
             "key": "Zhaozy",
@@ -382,7 +382,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://我不是.肥猫.love:63/token.php"
+            "ext": "1f3b8938bfa949f4b3231d92003db1b3"
         }
     ],
     "parses": [
