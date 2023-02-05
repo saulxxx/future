@@ -95,6 +95,16 @@
             "ext": "f41992bd740145ed58cb212dc0876582"
         },
         {
+            "key": "TT",
+            "name": "🐰兔兔(SP)",
+            "api": "csp_Dora",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "110c922de7d69804467fb83d3bb664b5"
+        },
+        {
             "key": "csp_Cokemv",
             "name": "🥤可乐(SP)",
             "type": 3,
@@ -133,16 +143,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "1cc92323700909e7d46623bc85b958d6"
-        },
-        {
-            "key": "TT",
-            "name": "🐰兔兔(SP)",
-            "api": "csp_Dora",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "csp_Kunyu77",
