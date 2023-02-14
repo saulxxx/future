@@ -35,16 +35,6 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
         },
         {
-            "key": "csp_Czsapp",
-            "name": "📔厂长┃SP",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Paper",
             "name": "📜纸条┃SP",
             "type": 3,
@@ -54,6 +44,16 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "1f3b8938bfa949f4b3231d92003db1b3"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "📔厂长┃SP",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_kuaikan",
@@ -76,24 +76,43 @@
             "ext": "https://api-tx.shumaxc.xyz"
         },
         {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃SP",
+            "key": "csp_Xinsj",
+            "name": "🐼新视觉┃SP",
             "type": 3,
-            "api": "csp_AppTT2",
+            "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "ext": "https://www.6080dy2.com"
         },
         {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃SP",
+            "key": "csp_Cokemv",
+            "name": "📕可乐┃SP",
             "type": 3,
-            "api": "csp_BuLei",
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "🌟Lib┃SP",
+            "type": 3,
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.bulei.cc"
+            "ext": "https://libvio.me"
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "⏮️低端┃SP",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key": "csp_555",
@@ -104,6 +123,64 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "csp_apple",
+            "name": "🍎苹果┃SP",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_zxzj",
+            "name": "📗在线┃SP",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "🐰图图┃SP",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+        },
+        {
+            "key": "csp_77",
+            "name": "👒七七┃SP",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_SP360",
+            "name": "📺360┃SP",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "💢布雷┃SP",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.bulei.cc"
         },
         {
             "key": "csp_Yht",
@@ -145,54 +222,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Xinsj",
-            "name": "🐼新视觉┃SP",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy2.com"
-        },
-        {
-            "key": "csp_apple",
-            "name": "🍎苹果┃SP",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "👒七七┃SP",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "⏮️低端┃SP",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_Cokemv",
-            "name": "📕可乐┃SP",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "🏝Aue┃SP",
             "type": 3,
@@ -215,25 +244,6 @@
             "name": "🐯胖虎┃SP",
             "type": 3,
             "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lib",
-            "name": "🌟Lib┃SP",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://libvio.me"
-        },
-        {
-            "key": "csp_zxzj",
-            "name": "📗在线┃SP",
-            "type": 3,
-            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -286,64 +296,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.ysgc.fun"
-        },
-        {
-            "key": "csp_SP360",
-            "name": "📺360┃SP",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "teng",
-            "name": "🐧腾腾┃SP",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ai",
-            "name": "🐨爱爱┃SP",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MGT",
-            "name": "🍋芒芒┃SP",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "👓耐看┃SP",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Dm84",
-            "name": "🚌动漫巴士┃SP",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Ying",
@@ -503,21 +455,6 @@
         }
     ],
     "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
         {
             "name": "全部",
             "type": 1,
