@@ -3,7 +3,7 @@
     //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;92a58defedc77459ca0139972fb05754",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;f3687d6e511a73caf72f4757a04518b2",
     "lives": [
         {
             "name": "直播",
@@ -135,6 +135,25 @@
             "filterable": 1
         },
         {
+            "key": "csp_AppTT",
+            "name": "🐰图图┃SP",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://103.239.101.244:6677/$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "✌BTtwo┃SP",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_zxzj",
             "name": "📗在线┃SP",
             "type": 3,
@@ -144,14 +163,13 @@
             "filterable": 1
         },
         {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃SP",
+            "key": "csp_Auete",
+            "name": "🏝Aue┃SP",
             "type": 3,
-            "api": "csp_AppTT2",
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "filterable": 1
         },
         {
             "key": "csp_77",
@@ -183,82 +201,6 @@
             "ext": "https://www.bulei.cc"
         },
         {
-            "key": "csp_Yht",
-            "name": "🍀野荷塘┃SP",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yehetang.cc"
-        },
-        {
-            "key": "csp_fantuan",
-            "name": "🍙饭团┃SP",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "Tian",
-            "name": "🗽天天┃SP",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "🎈Voflix┃SP",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🏝Aue┃SP",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌BTtwo┃SP",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_panghu",
-            "name": "🐯胖虎┃SP",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "🌀蓝光┃SP",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lgyy.tv"
-        },
-        {
             "key": "csp_Smdyy",
             "name": "🐴神马┃SP",
             "type": 3,
@@ -266,36 +208,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Bd",
-            "name": "💥哔嘀┃SP",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "🌾农民┃SP",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/json/nmys.json"
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "🏭工厂┃SP",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.ysgc.fun"
         },
         {
             "key": "csp_Ying",
