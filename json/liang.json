@@ -351,33 +351,22 @@
         {
             "name": "全部",
             "type": 1,
-            "url": "http://api.ckflv.cn/?url="
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
         {
             "name": "来",
             "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v="
         },
         {
             "name": "自",
             "type": 1,
-            "url": "http://http://pandown.pro/app/kxjx.php?url=",
-            "header": {
-                "User-Agent": "okhttp/4.1.0"
-            }
+            "url": "https://jx.ccabc.cc/byg/?url="
         },
         {
             "name": "网络",
             "type": 1,
             "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
-        },
-        {
-            "name": "💋So丶",
-            "type": 0,
-            "url": "https://tljiaqing.nde.tw/m3u8/?url="
         },
         {
             "name": "大家",
@@ -387,7 +376,7 @@
         {
             "name": "随便",
             "type": 0,
-            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
+            "url": "https://jx.777jiexi.com/player/?url="
         },
         {
             "name": "弄",
@@ -404,34 +393,31 @@
         },
         {
             "name": "客气",
-            "type": 1,
-            "url": "http://pandown.pro/app/ysmjx.php?url=",
-            "header": {
-                "User-Agent": "Dart/2.14(dart:io)"
-            }
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
             "name": "坏了",
-            "type": 1,
-            "url": "https://www.1920lgzy.top/json.php?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
+            "type": 0,
+            "url": "http://www.miaoys.cc/vip/?url="
         },
         {
             "name": "我再",
             "type": 1,
-            "url": "https://hc.izny.cn/json.php?url="
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
         },
         {
-            "name": "去找",
+            "name": "去",
             "type": 1,
-            "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
+            "url": "http://newjiexi.gotka.top/keyu3.php?url="
         },
         {
-            "name": "来",
+            "name": "找来",
             "type": 1,
             "url": "https://www.nxflv.com/?url=",
             "header": {
