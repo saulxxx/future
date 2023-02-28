@@ -43,7 +43,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "ee129c3a569c41e4a2eafd084224f059"
         },
         {
             "key": "csp_Czsapp",
@@ -122,17 +122,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
-        },
-        {
-            "key": "csp_555",
-            "name": "5️⃣️555┃SP",
-            "type": 3,
-            "api": "csp_Ys555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.555dyy1.com"
+            "ext": "http://154.39.64.151:3434/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg=="
         },
         {
             "key": "csp_BuLei",
@@ -155,16 +145,6 @@
             "ext": "https://yehetang.cc"
         },
         {
-            "key": "csp_apple",
-            "name": "🍎苹果┃SP",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Bttoo",
             "name": "✌BTtwo┃SP",
             "type": 3,
@@ -178,6 +158,26 @@
             "name": "📗在线┃SP",
             "type": 3,
             "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_555",
+            "name": "5️⃣️555┃SP",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "csp_apple",
+            "name": "🍎苹果┃SP",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -314,7 +314,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "ee129c3a569c41e4a2eafd084224f059"
         },
         {
             "key": "csp_AliPanSou",
@@ -324,7 +324,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "ee129c3a569c41e4a2eafd084224f059"
         },
         {
             "key": "Upso",
@@ -334,7 +334,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "ee129c3a569c41e4a2eafd084224f059"
         },
         {
             "key": "Zhaozy",
@@ -344,7 +344,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
+            "ext": "ee129c3a569c41e4a2eafd084224f059$$$yingshi$$$abcd1234"
         },
         {
             "key": "csp_Alist11",
@@ -364,7 +364,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
+            "ext": "ee129c3a569c41e4a2eafd084224f059"
         }
     ],
     "parses": [
