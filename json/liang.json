@@ -87,6 +87,26 @@
             "ext": "tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
+            "key": "csp_Cokemv",
+            "name": "🥤可乐┃直连",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "🌟Libvio┃直连",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.libvio.cc/"
+        },
+        {
             "key": "csp_BuLei",
             "name": "💢布雷┃直连",
             "type": 3,
@@ -114,26 +134,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.6080dy3.com"
-        },
-        {
-            "key": "csp_Cokemv",
-            "name": "🥤可乐┃直连",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Lib",
-            "name": "🌟Libvio┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "csp_zxzj",
