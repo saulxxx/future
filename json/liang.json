@@ -66,16 +66,6 @@
             "ext": "459b1cb892e317546676a2c9dcec2bff"
         },
         {
-            "key": "csp_Lib",
-            "name": "🍭Libvio(SP)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
-        },
-        {
             "key": "csp_Cokemv",
             "name": "🥤可乐(SP)",
             "type": 3,
@@ -106,6 +96,15 @@
             "ext": "16705ee9f4764be8499806f52d4bf1e7"
         },
         {
+            "key": "独播库",
+            "name": "👽独播库(T4)",
+            "type": "4",
+            "api": "https://tang.run.goorm.app/duboku",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1"
+        },
+        {
             "key": "csp_DiDuan",
             "name": "🌀低端(SP)",
             "api": "csp_Dora",
@@ -116,13 +115,24 @@
             "ext": "1cc92323700909e7d46623bc85b958d6"
         },
         {
-            "key": "独播库",
-            "name": "👽独播库(T4)",
-            "type": "4",
-            "api": "https://tang.run.goorm.app/duboku",
+            "key": "csp_Lib",
+            "name": "🍭Libvio(SP)",
+            "type": 3,
+            "api": "csp_Dora",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
+        },
+        {
+            "key": "Hei",
+            "name": "🍈石榴(SP)",
+            "type": "3",
+            "api": "csp_Dora",
             "searchable": "1",
             "quickSearch": "1",
-            "filterable": "1"
+            "filterable": "1",
+            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
         },
         {
             "key": "Lgyy",
@@ -183,16 +193,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
-        {
-            "key": "Hei",
-            "name": "🍈石榴(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
         },
         {
             "key": "csp_Auete",
