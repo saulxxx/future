@@ -7,11 +7,18 @@
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;4d4928e4505e301355aedfa1e43e9d71",
     "lives": [
         {
-            "name": "直播",
+            "name": "TXT",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Json",
+            "type": 1,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+            "logo": "http://epg.51zmt.top:8000/{logo}"
         }
     ],
     "sites": [
