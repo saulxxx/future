@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "img+https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/newjar.bmp;md5;e9e0f36474697683f82540f9800e61cd",
+    "spider": "img+https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/newjar.bmp;md5;28ed333efe635e98ddd64ab99e38c7e8",
     "lives": [
         {
             "name": "Json",
@@ -66,15 +66,6 @@
             "ext": "459b1cb892e317546676a2c9dcec2bff"
         },
         {
-            "key": "独播库",
-            "name": "👽独播库(T4)",
-            "type": "4",
-            "api": "https://tang.run.goorm.app/duboku",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1"
-        },
-        {
             "key": "csp_Lib",
             "name": "🍭Libvio(SP)",
             "type": 3,
@@ -123,6 +114,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "1cc92323700909e7d46623bc85b958d6"
+        },
+        {
+            "key": "独播库",
+            "name": "👽独播库(T4)",
+            "type": "4",
+            "api": "https://tang.run.goorm.app/duboku",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1"
         },
         {
             "key": "Lgyy",
