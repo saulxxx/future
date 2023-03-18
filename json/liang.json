@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "img+https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/newjar.bmp;md5;28ed333efe635e98ddd64ab99e38c7e8",
+    "spider": "img+https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;ce1f5c25edfd364ed1312933f61a70f4",
     "lives": [
         {
             "name": "Json",
@@ -84,6 +84,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
+        },
+        {
+            "key": "csp_dd5555",
+            "name": "🎏555(SP)",
+            "api": "csp_Dora",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "f41992bd740145ed58cb212dc0876582"
         },
         {
             "key": "神马影院",
