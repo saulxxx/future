@@ -37,7 +37,7 @@
         },
         {
             "key": "csp_Paper",
-            "name": "🦊纸条┃4K",
+            "name": "🦊小纸条┃4K",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
@@ -183,25 +183,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_zxzj",
-            "name": "🏠在线┃直连",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.org"
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🏝Auete┃直连",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Bttoo",
             "name": "✌BTtwo┃直连",
             "type": 3,
@@ -225,6 +206,25 @@
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_zxzj",
+            "name": "🏠在线┃直连",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzj.org"
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🏝Auete┃直连",
+            "type": 3,
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -327,7 +327,7 @@
         },
         {
             "key": "csp_Yiso",
-            "name": "🌜易搜(仅搜索)",
+            "name": "🌜易搜┃4K",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -337,7 +337,7 @@
         },
         {
             "key": "csp_AliPanSou",
-            "name": "🐱盘搜(仅搜索)",
+            "name": "🐱盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -347,7 +347,7 @@
         },
         {
             "key": "Upso",
-            "name": "🌤云搜(仅搜索)",
+            "name": "🌤云搜┃4K",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -357,7 +357,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "🌛找资源(仅搜索)",
+            "name": "🌛找资源┃4K",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
