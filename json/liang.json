@@ -4,14 +4,13 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
     "lives": [
         {
-            "name": "Json",
-            "type": 1,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-            "logo": "http://epg.51zmt.top:8000/{logo}"
+            "name": "直播",
+            "type": 0,
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
     "sites": [
@@ -299,7 +298,7 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "✈️泥巴(SP需翻墙)",
+            "name": "✈️泥巴┃需翻墙",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -366,7 +365,7 @@
         {
             "name": "来",
             "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url="
+            "url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
         },
         {
             "name": "自",
@@ -399,7 +398,7 @@
         {
             "name": "不要",
             "type": 1,
-            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
         },
         {
             "name": "客气",
@@ -419,7 +418,7 @@
         {
             "name": "去",
             "type": 1,
-            "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
+            "url": "https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="
         },
         {
             "name": "找来",
