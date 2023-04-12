@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;4e76031a18cb23b27867a2c0829492b7",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;613066b0150c902b3d51bde7a433be83",
     "lives": [
         {
             "name": "直播",
@@ -65,6 +65,16 @@
             "ext": "https://api-tx.11ty.top"
         },
         {
+            "key": "csp_AppTT",
+            "name": "🐰图图┃App",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
             "key": "csp_AppMr",
             "name": "👻明明┃App",
             "type": 3,
@@ -122,16 +132,6 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃App",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "csp_Lib",
