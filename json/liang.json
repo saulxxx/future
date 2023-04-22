@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/xo.jar;md5;613066b0150c902b3d51bde7a433be83",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;43927c91e9c631d24057be2e400dc8a5",
     "lives": [
         {
             "name": "直播",
@@ -62,7 +62,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://api-tx.11ty.top"
+            "ext": "https://api-aws.11ty.top"
         },
         {
             "key": "csp_AppTT",
@@ -103,20 +103,20 @@
             "filterable": 1
         },
         {
+            "key": "csp_BuLei",
+            "name": "💢布雷┃直连",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://movie.bulei.cc"
+        },
+        {
             "key": "csp_WoGG",
             "name": "👽玩偶哥哥┃4K",
             "type": 3,
             "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
-            "key": "csp_FanYY",
-            "name": "💦剥饭┃4K",
-            "type": 3,
-            "api": "csp_FanYY",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -189,7 +189,7 @@
             "api": "csp_MeiJu69",
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.69mj.com/"
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
             "key": "csp_DiDuan",
@@ -363,6 +363,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "d343eff7ea84499ab89082726135f3d5$$$yingshi$$$abcd1234"
+        },
+        {
+            "key": "七夜",
+            "name": "🐺七夜┃4K",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
             "key": "push_agent",
