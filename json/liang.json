@@ -114,12 +114,22 @@
         },
         {
             "key": "csp_WoGG",
-            "name": "👽玩偶哥哥┃4K",
+            "name": "👽玩偶┃4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "七夜",
+            "name": "🐺七夜┃4K",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
             "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
@@ -161,16 +171,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃直连",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v.bulei.cc/"
         },
         {
             "key": "csp_Cokemv",
@@ -363,16 +363,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "d343eff7ea84499ab89082726135f3d5$$$yingshi$$$abcd1234"
-        },
-        {
-            "key": "七夜",
-            "name": "🐺七夜┃4K",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
             "key": "push_agent",
