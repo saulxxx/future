@@ -266,11 +266,20 @@
             "filterable": 1
         },
         {
-            "key": "88js",
-            "name": "⚽88看球",
+            "key": "csp_Anime1",
+            "name": "🐾日本┃动漫",
             "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js",
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "88js",
+            "name": "⚽ 88┃看球",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
