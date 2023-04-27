@@ -4,13 +4,18 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;5f336f6de028983fef9f3c8ea638dfb0",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
     "lives": [
         {
             "name": "直播",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "肥羊",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -110,38 +115,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"
-        },
-        {
-            "key": "csp_WoGG",
-            "name": "👽玩偶┃4K",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
-            "key": "七夜",
-            "name": "🐺七夜┃4K",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
-            "key": "csp_Paper",
-            "name": "🦊小纸条┃4K",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_Lib",
@@ -181,6 +155,37 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "👽玩偶┃4K",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "七夜",
+            "name": "🐺七夜┃4K",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "csp_Paper",
+            "name": "🦊小纸条┃4K",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
             "key": "csp_MeiJu69",

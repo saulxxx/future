@@ -1,0 +1,209 @@
+{
+    //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+    //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
+    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
+    //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+    "lives": [
+        {
+            "name": "直播",
+            "type": 0,
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "肥羊",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+        }
+    ],
+    "sites": [
+        {
+            "key": "js豆瓣",
+            "name": "🍒豆瓣荐片",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+        },
+        {
+            "key": "dr_豆瓣",
+            "name": "🍑豆瓣荐片",
+            "type": 3,
+            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://ftyyy.tk/JS/js/drpy.js"
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "💢布雷┃4K",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "👽玩偶┃4K",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "七夜",
+            "name": "🐺七夜┃4K",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "csp_Paper",
+            "name": "🦊小纸条┃4K",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "csp_Yiso",
+            "name": "🌜易搜┃4K",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "🐱盘搜┃4K",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "Upso",
+            "name": "🌤云搜┃4K",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "Zhaozy",
+            "name": "🌛找资源┃4K",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5$$$yingshi$$$abcd1234"
+        },
+        {
+            "key": "csp_Dm84",
+            "name": "🚌动漫┃巴士",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Ying",
+            "name": "💮樱花┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Ysj",
+            "name": "🎀异界┃动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "🐾日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "88js",
+            "name": "⚽ 88┃看球",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "csp_xp_qiumi",
+            "name": "⚽Jrs球迷",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://cdn.饭太硬.ga/x/xp/dj看球.json"
+        },
+        {
+            "key": "csp_XYQBiu_310直播",
+            "name": "⚽310看球",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/310直播.json"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "✈️泥巴┃需翻墙",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        }
+    ]
+}
