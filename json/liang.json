@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;bace77c91270566ca6a959b935efbd0d",
     "lives": [
         {
             "name": "直播",
@@ -70,14 +70,23 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃App",
+            "key": "csp_apple",
+            "name": "🍎小苹果┃App",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_LiteApple",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+            "filterable": 1
+        },
+        {
+            "key": "csp_77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_AppMr",
@@ -157,37 +166,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_WoGG",
-            "name": "👽玩偶┃4K",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
-            "key": "七夜",
-            "name": "🐺七夜┃4K",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
-            "key": "csp_Paper",
-            "name": "🦊小纸条┃4K",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
-        },
-        {
             "key": "csp_MeiJu69",
             "name": "🗽69美剧┃直连",
             "type": 3,
@@ -210,25 +188,6 @@
             "name": "✌BTtwo┃直连",
             "type": 3,
             "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_apple",
-            "name": "🍎小苹果┃App",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -337,6 +296,36 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "👽玩偶┃4K",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "七夜",
+            "name": "🐺七夜┃4K",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
+        },
+        {
+            "key": "盤搜索",
+            "name": "💿盤搜索┃4K",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
             "key": "csp_Yiso",

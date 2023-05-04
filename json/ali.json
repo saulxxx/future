@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+    "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "lives": [
         {
             "name": "直播",
@@ -47,6 +47,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
             "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
@@ -57,6 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
             "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
@@ -66,19 +68,16 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "changeable": 0
         },
         {
-            "key": "csp_Paper",
-            "name": "🦊小纸条┃4K",
+            "key": "盤搜索",
+            "name": "💿盤搜索┃4K",
             "type": 3,
-            "api": "csp_Paper",
+            "api": "csp_PanSearch",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "filterable": 0,
+            "changeable": 0
         },
         {
             "key": "csp_Yiso",
@@ -86,8 +85,9 @@
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
             "ext": "d343eff7ea84499ab89082726135f3d5"
         },
         {
@@ -96,9 +96,8 @@
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "Upso",
@@ -106,9 +105,8 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "Zhaozy",
@@ -116,9 +114,9 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5$$$yingshi$$$abcd1234"
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "影視天下第一$$$test2$$$test2"
         },
         {
             "key": "csp_Dm84",
@@ -148,15 +146,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Anime1",
-            "name": "🐾日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
@@ -164,7 +153,8 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 0,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "csp_xp_qiumi",
@@ -174,7 +164,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xp/dj看球.json"
+            "ext": "http://cdn.饭太硬.ga/x/xp/dj看球.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -184,7 +175,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/310直播.json"
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/310直播.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "csp_Nbys",
@@ -202,8 +194,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "filterable": 0
         }
     ]
 }
