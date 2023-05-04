@@ -58,8 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "七夜",
@@ -87,8 +86,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "csp_AliPanSou",
