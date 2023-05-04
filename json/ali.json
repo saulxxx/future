@@ -58,8 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "七夜",
@@ -68,8 +67,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "changeable": 0
         },
         {
             "key": "盤搜索",
@@ -78,8 +76,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "filterable": 0,
-            "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "changeable": 0
         },
         {
             "key": "csp_Yiso",
@@ -89,8 +86,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
         },
         {
             "key": "csp_AliPanSou",
@@ -99,8 +95,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "filterable": 0
         },
         {
             "key": "Upso",
@@ -109,8 +104,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "filterable": 0
         },
         {
             "key": "Zhaozy",
@@ -120,7 +114,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5$$$yingshi$$$abcd1234"
+            "ext": "影視天下第一$$$test2$$$test2"
         },
         {
             "key": "csp_Dm84",
@@ -198,8 +192,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "filterable": 0
         }
     ]
 }
