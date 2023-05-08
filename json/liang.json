@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;bace77c91270566ca6a959b935efbd0d",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;687223923442374b0ccb5e3a61b8b1a9",
     "lives": [
         {
             "name": "直播",
@@ -124,7 +124,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_Lib",
@@ -305,7 +305,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "七夜",
@@ -315,7 +315,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "盤搜索",
@@ -325,7 +325,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "csp_Yiso",
@@ -335,7 +335,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "csp_AliPanSou",
@@ -345,7 +345,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "Upso",
@@ -355,7 +355,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "Zhaozy",
@@ -365,7 +365,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "d343eff7ea84499ab89082726135f3d5$$$yingshi$$$abcd1234"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229$$$yingshi$$$abcd1234"
         },
         {
             "key": "push_agent",
@@ -375,7 +375,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "d343eff7ea84499ab89082726135f3d5"
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         }
     ],
     "parses": [
