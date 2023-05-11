@@ -23,11 +23,11 @@
             "key": "js豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
         },
         {
             "key": "dr_豆瓣",
@@ -38,17 +38,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "http://ftyyy.tk/JS/js/drpy.js"
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃4K",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt",
-            "ext": "http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_WoGG",

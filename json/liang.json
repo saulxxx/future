@@ -23,11 +23,11 @@
             "key": "js豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
         },
         {
             "key": "dr_豆瓣",
@@ -145,6 +145,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key":"drpy_js_HDmoli",
+            "name":"🌺HDmoli┃js",
+            "type":3,
+            "api":"https://saulxxx.github.io/future/lib/drpy2.min.js",
+            "ext":"https://saulxxx.github.io/future/js/HDmoli.js"
         },
         {
             "key": "csp_Vofl",
