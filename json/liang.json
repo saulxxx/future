@@ -85,15 +85,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_77",
-            "name": "👒七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_AppMr",
             "name": "👻明明┃App",
             "type": 3,
@@ -152,11 +143,11 @@
             "ext": "https://www.6080dy3.com"
         },
         {
-            "key":"drpy_js_HDmoli",
-            "name":"🌺HDmoli┃js",
-            "type":3,
-            "api":"https://saulxxx.github.io/future/lib/drpy2.min.js",
-            "ext":"https://saulxxx.github.io/future/js/HDmoli.js"
+            "key": "drpy_js_HDmoli",
+            "name": "🌺HDmoli┃js",
+            "type": 3,
+            "api": "https://saulxxx.github.io/future/lib/drpy2.min.js",
+            "ext": "https://saulxxx.github.io/future/js/HDmoli.js"
         },
         {
             "key": "csp_Vofl",
@@ -200,6 +191,15 @@
             "name": "✌BTtwo┃直连",
             "type": 3,
             "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_77",
+            "name": "👒七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
