@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;f8f76c056bd4f099a4b545173b16ac2e",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;e8fe5d2c9d119879e383a85df8ffd027",
     "lives": [
         {
             "name": "直播1",
@@ -75,14 +75,14 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "csp_apple",
-            "name": "🍎小苹果┃App",
+            "key": "csp_酷酷",
+            "name": "🏵酷影┃App",
             "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
         },
         {
             "key": "csp_AppMr",
@@ -92,6 +92,89 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "量子",
+            "name": "🪐量子┃直连",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "体育",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克"
+            ]
+        },
+        {
+            "key": "非凡",
+            "name": "🏄非凡┃直连",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
         },
         {
             "key": "csp_fantuan",
@@ -140,7 +223,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.6080dy3.com"
+            "ext": "https://6080dy4.com"
         },
         {
             "key": "drpy_js_HDmoli",
@@ -191,6 +274,16 @@
             "name": "✌BTtwo┃直连",
             "type": 3,
             "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_apple",
+            "name": "🍎小苹果┃App",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -331,7 +424,7 @@
         },
         {
             "key": "盤搜索",
-            "name": "💿盤搜索┃4K",
+            "name": "🙀盘Se┃4K",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -341,7 +434,7 @@
         },
         {
             "key": "csp_Yiso",
-            "name": "🌜易搜┃4K",
+            "name": "😹易搜┃4K",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -351,7 +444,7 @@
         },
         {
             "key": "csp_AliPanSou",
-            "name": "🐱盘搜┃4K",
+            "name": "😼盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -361,7 +454,7 @@
         },
         {
             "key": "Upso",
-            "name": "🌤云搜┃4K",
+            "name": "😸云搜┃4K",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -371,13 +464,23 @@
         },
         {
             "key": "Zhaozy",
-            "name": "🌛找资源┃4K",
+            "name": "😺找资源┃4K",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "2f6b5865e2ad4314b0a82a784319b229$$$yingshi$$$abcd1234"
+        },
+        {
+            "key": "TuGou",
+            "name": "😿土狗┃4K",
+            "type": 3,
+            "api": "csp_TuGou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "2f6b5865e2ad4314b0a82a784319b229"
         },
         {
             "key": "push_agent",

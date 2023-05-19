@@ -7,15 +7,20 @@
     "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "lives": [
         {
-            "name": "直播",
+            "name": "直播1",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
-            "name": "肥羊",
+            "name": "直播2",
             "type": 0,
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+        },
+        {
+            "name": "直播3",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
         }
     ],
     "sites": [
@@ -60,7 +65,7 @@
         },
         {
             "key": "盤搜索",
-            "name": "💿盤搜索┃4K",
+            "name": "🙀盘Se┃4K",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -69,7 +74,7 @@
         },
         {
             "key": "csp_Yiso",
-            "name": "🌜易搜┃4K",
+            "name": "😹易搜┃4K",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -79,7 +84,7 @@
         },
         {
             "key": "csp_AliPanSou",
-            "name": "🐱盘搜┃4K",
+            "name": "😼盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -88,7 +93,7 @@
         },
         {
             "key": "Upso",
-            "name": "🌤云搜┃4K",
+            "name": "😸云搜┃4K",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -97,13 +102,22 @@
         },
         {
             "key": "Zhaozy",
-            "name": "🌛找资源┃4K",
+            "name": "😺找资源┃4K",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
             "ext": "影視天下第一$$$test2$$$test2"
+        },
+        {
+            "key": "TuGou",
+            "name": "😿土狗┃4K",
+            "type": 3,
+            "api": "csp_TuGou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "csp_Dm84",
