@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;e8fe5d2c9d119879e383a85df8ffd027",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;22bea96778121a176132c5d1d2e92889",
     "lives": [
         {
             "name": "直播1",
@@ -95,7 +95,7 @@
         },
         {
             "key": "量子",
-            "name": "🪐量子┃直连",
+            "name": "🌌量子┃直连",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -177,6 +177,16 @@
             ]
         },
         {
+            "key": "熊",
+            "name": "🐻熊熊┃直连",
+            "type": 1,
+            "api": "https://v.3412.net.cn/macapi.php/provide/vod",
+            "playUrl": "https://player.3412.net.cn/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_fantuan",
             "name": "🍙饭团┃直连",
             "type": 3,
@@ -203,7 +213,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_Lib",
@@ -771,6 +781,50 @@
                     "User-Agent": "okhttp/4.1.0"
                 }
             }
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
         }
     ],
     "rules": [
