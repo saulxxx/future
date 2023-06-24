@@ -15,12 +15,17 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "http://饭太硬.top/tv"
         },
         {
             "name": "直播3",
             "type": 0,
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
+        },
+        {
+            "name": "直播4",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [

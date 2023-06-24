@@ -15,12 +15,17 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "http://饭太硬.top/tv"
         },
         {
             "name": "直播3",
             "type": 0,
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
+        },
+        {
+            "name": "直播4",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -75,14 +80,13 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "csp_如如",
-            "name": "🏵如如┃App",
+            "key": "星星",
+            "name": "🌟星星",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Star",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+            "changeable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_AppMr",
@@ -177,14 +181,14 @@
             ]
         },
         {
-            "key": "熊",
-            "name": "🐻熊熊",
-            "type": 1,
-            "api": "https://v.3412.net.cn/macapi.php/provide/vod",
-            "playUrl": "https://player.i597.cc/?url=",
+            "key": "csp_Lib",
+            "name": "🍭Libvio┃直连",
+            "type": 3,
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://tv.libvio.cc/"
         },
         {
             "key": "csp_fantuan",
@@ -197,33 +201,33 @@
             "ext": "https://www.fantuanhd.com"
         },
         {
-            "key": "csp_Dy1010",
-            "name": "❤️双十┃直连",
+            "key": "csp_DuoX",
+            "name": "💢多线┃App",
             "type": 3,
-            "api": "csp_Dy1010",
+            "api": "csp_DuoX",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃直连",
+            "key": "如如",
+            "name": "🏵飞飞┃App",
             "type": 3,
-            "api": "csp_BuLei",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "http://get.lfytyl.com/api.php/app/"
         },
         {
-            "key": "csp_Lib",
-            "name": "🌟Libvio┃直连",
+            "key": "csp_Nmys",
+            "name": "🌾农民┃直连",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_Nmys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
+            "ext": "http://饭太硬.top/x/json/nmys.json"
         },
         {
             "key": "csp_Xinsj",
@@ -241,6 +245,15 @@
             "type": 3,
             "api": "https://saulxxx.github.io/future/lib/drpy2.min.js",
             "ext": "https://saulxxx.github.io/future/js/HDmoli.js"
+        },
+        {
+            "key": "csp_Dy1010",
+            "name": "❤️双十┃直连",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Vofl",
