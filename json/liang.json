@@ -80,15 +80,6 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "星星",
-            "name": "🌟星星",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },
-        {
             "key": "csp_AppMr",
             "name": "👻明明┃App",
             "type": 3,
@@ -96,6 +87,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "星星",
+            "name": "🌟星星",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "量子",
