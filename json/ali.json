@@ -15,15 +15,10 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "http://饭太硬.top/tv"
-        },
-        {
-            "name": "直播3",
-            "type": 0,
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
         },
         {
-            "name": "直播4",
+            "name": "直播3",
             "type": 0,
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
@@ -33,11 +28,11 @@
             "key": "js豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js"
+            "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
         },
         {
             "key": "dr_豆瓣",
@@ -50,13 +45,112 @@
             "ext": "http://ftyyy.tk/JS/js/drpy.js"
         },
         {
+            "key": "星星",
+            "name": "🌟星星",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "獨播",
+            "name": "🪐独播库",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+          },
+        {
+            "key": "量子",
+            "name": "🌌量子",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "体育",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克"
+            ]
+        },
+        {
+            "key": "非凡",
+            "name": "🏄非凡",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },
+        {
             "key": "csp_WoGG",
             "name": "👽玩偶┃4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
-            "changeable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
+            "changeable": 0
         },
         {
             "key": "七夜",
