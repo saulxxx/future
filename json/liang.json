@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;f59b03cf69be1a3e61db914517e0ea76",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;88c55af008dbd9344f3cf95e6f426a2a",
     "lives": [
         {
             "name": "直播1",
@@ -38,11 +38,10 @@
             "key": "dr_豆瓣",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/js/lf_douban1_1_min.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://ftyyy.tk/JS/js/drpy.js"
+            "filterable": 1
         },
         {
             "key": "csp_Czsapp",
@@ -83,6 +82,24 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "dr_ikanbot",
+            "name": "❤️ikanbot┃js",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/js/lf_ikanbot2_4_min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "獨播",
+            "name": "🔮独播库",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+          },
         {
             "key": "星星",
             "name": "🌟星星",
@@ -193,7 +210,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
+            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "csp_DuoX",
@@ -238,12 +255,12 @@
             "key": "drpy_js_HDmoli",
             "name": "🌺HDmoli┃js",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/lib/drpy2.min.js",
-            "ext": "https://saulxxx.github.io/future/js/HDmoli.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/lib/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/js/HDmoli.js"
         },
         {
             "key": "csp_Dy1010",
-            "name": "❤️双十┃直连",
+            "name": "🥢双十┃直连",
             "type": 3,
             "api": "csp_Dy1010",
             "searchable": 1,
@@ -610,27 +627,40 @@
     ],
     "rules": [
         {
+            "name": "星星",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
             "name": "量子廣告",
             "hosts": [
                 "vip.lz",
                 "hd.lz"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
             "name": "非凡廣告",
             "hosts": [
-                "vip.ffzy"
+                "vip.ffzy",
+                "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
             "name": "火山嗅探",
-            "host": [
+            "hosts": [
                 "huoshan.com"
             ],
             "regex": [
@@ -639,7 +669,7 @@
         },
         {
             "name": "抖音嗅探",
-            "host": [
+            "hosts": [
                 "douyin.com"
             ],
             "regex": [

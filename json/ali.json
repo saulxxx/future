@@ -38,11 +38,10 @@
             "key": "dr_豆瓣",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/js/lf_douban1_1_min.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://ftyyy.tk/JS/js/drpy.js"
+            "filterable": 1
         },
         {
             "key": "csp_WoGG",
@@ -235,27 +234,40 @@
     ],
     "rules": [
         {
+            "name": "星星",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
             "name": "量子廣告",
             "hosts": [
                 "vip.lz",
                 "hd.lz"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
             "name": "非凡廣告",
             "hosts": [
-                "vip.ffzy"
+                "vip.ffzy",
+                "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
             "name": "火山嗅探",
-            "host": [
+            "hosts": [
                 "huoshan.com"
             ],
             "regex": [
@@ -264,7 +276,7 @@
         },
         {
             "name": "抖音嗅探",
-            "host": [
+            "hosts": [
                 "douyin.com"
             ],
             "regex": [
