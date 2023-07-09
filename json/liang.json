@@ -35,7 +35,7 @@
             "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
         },
         {
-            "key": "dr_豆瓣",
+            "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/js/lf_douban1_1_min.js",
@@ -83,7 +83,7 @@
             "filterable": 1
         },
         {
-            "key": "dr_ikanbot",
+            "key": "If_js_ikanbot",
             "name": "❤️ikanbot┃js",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/js/lf_ikanbot2_4_min.js",
