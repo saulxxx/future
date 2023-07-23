@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;88c55af008dbd9344f3cf95e6f426a2a",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;666ca7d5468412592cd65e5a22376dc6",
     "lives": [
         {
             "name": "直播1",
@@ -444,7 +444,7 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "七夜",
@@ -453,7 +453,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "盤搜索",
@@ -462,7 +462,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "csp_Yiso",
@@ -471,7 +471,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "csp_AliPanSou",
@@ -480,7 +480,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "Upso",
@@ -489,7 +489,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "Zhaozy",
@@ -498,7 +498,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229$$$fanfan$$$qqq111"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84$$$fanfan$$$qqq111"
         },
         {
             "key": "TuGou",
@@ -507,7 +507,7 @@
             "api": "csp_TuGou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         },
         {
             "key": "push_agent",
@@ -516,7 +516,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "ext": "2f6b5865e2ad4314b0a82a784319b229"
+            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
         }
     ],
     "parses": [
