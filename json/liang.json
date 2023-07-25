@@ -10,7 +10,8 @@
             "name": "直播1",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "直播2",
@@ -38,7 +39,7 @@
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/js/lf_douban1_1_min.js",
+            "api": "https://saulxxx.github.io/future/js/lf_search1_min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
@@ -83,10 +84,18 @@
             "filterable": 1
         },
         {
+            "key": "drpy_js_netlify",
+            "name": "🎬荐片┃js",
+            "type": 3,
+            "playerType": 1,
+            "api": "https://qu.ax/UdAJ.js",
+            "ext": "https://qu.ax/baxP.js"
+        },
+        {
             "key": "If_js_ikanbot",
             "name": "❤️ikanbot┃js",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/js/lf_ikanbot2_4_min.js",
+            "api": "https://saulxxx.github.io/future/js/lf_ikanbot3_1_min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -99,7 +108,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
-          },
+        },
         {
             "key": "星星",
             "name": "🌟星星",
@@ -379,34 +388,24 @@
             "filterable": 1
         },
         {
-            "key": "88js",
+            "key": "dr_88看球",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js",
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         },
         {
-            "key": "csp_xp_qiumi",
+            "key": "drpy_js_JRKAN直播",
             "name": "⚽Jrs球迷",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xp/dj看球.json"
-        },
-        {
-            "key": "csp_XYQBiu_310直播",
-            "name": "⚽310看球",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/310直播.json"
+            "filterable": 0
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -416,17 +415,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xp/企鹅直播.json"
+            "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
         },
         {
-            "key": "csp_XYQBiu_酷奇",
-            "name": "🎤酷奇MV",
+            "key": "csp_BBB",
+            "name": "🅱哔哩",
             "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
+            "api": "csp_Bili",
+            "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/酷奇MV.json"
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/bili.json"
         },
         {
             "key": "csp_Nbys",
