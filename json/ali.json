@@ -29,17 +29,17 @@
             "key": "js豆瓣",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://pan.shangui.cc/f/ZGdQTv/douban2.js",
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js"
+            "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js"
         },
         {
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/js/lf_search1_min.js",
+            "api": "https://qu.ax/dmMW.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
