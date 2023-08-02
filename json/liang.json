@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
     //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;666ca7d5468412592cd65e5a22376dc6",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;18b8df1e0f7813098c1e70979a264aad",
     "lives": [
         {
             "name": "直播1",
@@ -26,27 +26,27 @@
     ],
     "sites": [
         {
-            "key": "js豆瓣",
+            "key": "If_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js"
-        },
-        {
-            "key": "If_js_douban",
-            "name": "🍑豆瓣荐片",
-            "type": 3,
-            "api": "https://saulxxx.github.io/future/js/lf_search2_min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search2_min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
         },
         {
+            "key": "js豆瓣",
+            "name": "🍑豆瓣荐片",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+        },
+        {
             "key": "csp_Czsapp",
-            "name": "🚬厂长┃直连",
+            "name": "🚬厂长",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
@@ -56,7 +56,7 @@
         },
         {
             "key": "csp_kuaikan",
-            "name": "👀快看┃App",
+            "name": "👀快看",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -65,7 +65,7 @@
         },
         {
             "key": "csp_YQKAPP",
-            "name": "🎉一起看┃App",
+            "name": "🎉一起看",
             "type": 3,
             "api": "csp_YQKAPP",
             "playerType": 2,
@@ -76,7 +76,7 @@
         },
         {
             "key": "csp_AppMr",
-            "name": "👻明明┃App",
+            "name": "👻明明",
             "type": 3,
             "api": "csp_AppMr",
             "searchable": 1,
@@ -85,20 +85,28 @@
         },
         {
             "key": "drpy_js_netlify",
-            "name": "🎬荐片┃js",
+            "name": "🎬荐片",
             "type": 3,
             "playerType": 1,
-            "api": "https://qu.ax/UdAJ.js",
-            "ext": "https://qu.ax/baxP.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
         },
         {
             "key": "If_js_ikanbot",
-            "name": "❤️ikanbot┃js",
+            "name": "❤️ikanbot",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/js/lf_ikanbot3_1_min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_ikanbot3_1_min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "🧲磁力┃4K",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p1_1_min.js"
         },
         {
             "key": "獨播",
@@ -203,7 +211,7 @@
         },
         {
             "key": "csp_Lib",
-            "name": "🍭Libvio┃直连",
+            "name": "🍭Libvio",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -213,7 +221,7 @@
         },
         {
             "key": "csp_fantuan",
-            "name": "🍙饭团┃直连",
+            "name": "🍙饭团",
             "type": 3,
             "api": "csp_Fantuan",
             "searchable": 1,
@@ -223,7 +231,7 @@
         },
         {
             "key": "csp_DuoX",
-            "name": "💢多线┃App",
+            "name": "💢多线",
             "type": 3,
             "api": "csp_DuoX",
             "searchable": 1,
@@ -232,7 +240,7 @@
         },
         {
             "key": "如如",
-            "name": "🏵飞飞┃App",
+            "name": "🏵飞飞",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -242,7 +250,7 @@
         },
         {
             "key": "csp_Nmys",
-            "name": "🌾农民┃直连",
+            "name": "🌾农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -252,7 +260,7 @@
         },
         {
             "key": "csp_Xinsj",
-            "name": "🐼新视觉┃直连",
+            "name": "🐼新视觉",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -262,14 +270,14 @@
         },
         {
             "key": "drpy_js_HDmoli",
-            "name": "🌺HDmoli┃js",
+            "name": "🌺HDmoli",
             "type": 3,
-            "api": "https://saulxxx.github.io/future/lib/drpy2.min.js",
-            "ext": "https://saulxxx.github.io/future/js/HDmoli.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
         },
         {
             "key": "csp_Dy1010",
-            "name": "🥢双十┃直连",
+            "name": "🥢双十",
             "type": 3,
             "api": "csp_Dy1010",
             "searchable": 1,
@@ -278,7 +286,7 @@
         },
         {
             "key": "csp_Vofl",
-            "name": "🎈Voflix┃直连",
+            "name": "🎈Voflix",
             "type": 3,
             "api": "csp_Voflix",
             "searchable": 1,
@@ -287,7 +295,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "🥤可乐┃直连",
+            "name": "🥤可乐",
             "type": 3,
             "api": "csp_Cokemv",
             "playerType": 2,
@@ -297,7 +305,7 @@
         },
         {
             "key": "csp_MeiJu69",
-            "name": "🗽69美剧┃直连",
+            "name": "🗽69美剧",
             "type": 3,
             "api": "csp_MeiJu69",
             "quickSearch": 1,
@@ -306,7 +314,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "⏮️低端┃直连",
+            "name": "⏮️低端",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -315,7 +323,7 @@
         },
         {
             "key": "csp_Bttoo",
-            "name": "✌BTtwo┃直连",
+            "name": "✌BTtwo",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -324,7 +332,7 @@
         },
         {
             "key": "csp_apple",
-            "name": "🍎小苹果┃App",
+            "name": "🍎小苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
@@ -334,7 +342,7 @@
         },
         {
             "key": "csp_77",
-            "name": "👒七七┃App",
+            "name": "👒七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -353,7 +361,7 @@
         },
         {
             "key": "csp_Dm84",
-            "name": "🚌动漫┃巴士",
+            "name": "🚌动漫巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -362,7 +370,7 @@
         },
         {
             "key": "csp_Ying",
-            "name": "💮樱花┃动漫",
+            "name": "💮樱花动漫",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -371,7 +379,7 @@
         },
         {
             "key": "csp_Ysj",
-            "name": "🎀异界┃动漫",
+            "name": "🎀异界动漫",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
@@ -380,7 +388,7 @@
         },
         {
             "key": "csp_Anime1",
-            "name": "🐾日本┃动漫",
+            "name": "🐾日本动漫",
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
@@ -388,11 +396,11 @@
             "filterable": 1
         },
         {
-            "key": "dr_88看球",
-            "name": "⚽ 88┃看球",
+            "key": "88js",
+            "name": "⚽88看球",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/88看球.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -435,14 +443,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "lf_js_p2p",
-            "name": "🧲磁力",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 0,
-            "api": "https://saulxxx.github.io/future/js/lf_p2p1_1_min.js"
         },
         {
             "key": "csp_WoGG",
