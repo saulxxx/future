@@ -39,10 +39,18 @@
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://qu.ax/dmMW.js",
+            "api": "https://saulxxx.github.io/future/js/lf_search2_min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "🧲磁力",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "https://saulxxx.github.io/future/js/lf_p2p_min.js"
         },
         {
             "key": "csp_WoGG",
