@@ -55,6 +55,34 @@
             "filterable": 1
         },
         {
+            "key": "陌陌",
+            "name": "🍄陌陌",
+            "type": 3,
+            "api": "csp_MmYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "酷酷",
+            "name": "💡酷影",
+            "type": 3,
+            "api": "csp_Kuying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "探探",
+            "name": "🏵影探",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_kuaikan",
             "name": "👀快看",
             "type": 3,
@@ -217,7 +245,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
+            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "csp_fantuan",
@@ -230,25 +258,6 @@
             "ext": "https://www.fantuan3.com"
         },
         {
-            "key": "csp_DuoX",
-            "name": "💢多线",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "如如",
-            "name": "🏵飞飞",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://get.lfytyl.com/api.php/app/"
-        },
-        {
             "key": "csp_Nmys",
             "name": "🌾农民",
             "type": 3,
@@ -256,7 +265,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://饭太硬.top/x/json/nmys.json"
+            "ext": "http://饭太硬.top/tv/nmys.json"
         },
         {
             "key": "csp_Xinsj",
@@ -304,15 +313,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_MeiJu69",
-            "name": "🗽69美剧",
-            "type": 3,
-            "api": "csp_MeiJu69",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
-        {
             "key": "csp_DiDuan",
             "name": "⏮️低端",
             "type": 3,
@@ -331,16 +331,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_apple",
-            "name": "🍎小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_77",
             "name": "👒七七",
             "type": 3,
@@ -348,16 +338,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_SP360",
-            "name": "📺360┃解析",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "csp_Dm84",
