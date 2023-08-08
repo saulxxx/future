@@ -79,6 +79,8 @@
             "name": "🎬荐片",
             "type": 3,
             "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
         },
@@ -231,6 +233,8 @@
             "key": "drpy_js_HDmoli",
             "name": "🌺HDmoli",
             "type": 3,
+            "searchable": 1,
+            "changeable": 1,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
         },
