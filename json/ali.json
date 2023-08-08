@@ -147,17 +147,6 @@
             "changeable": 0
         },
         {
-<<<<<<< HEAD
-=======
-            "key": "lf_js_p2p",
-            "name": "🧲磁力┃4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
-        },
-        {
->>>>>>> d47c6383b87ba5eccaa6aac18e5e37467ad58759
             "key": "88js",
             "name": "⚽88看球",
             "type": 3,
