@@ -41,6 +41,14 @@
             "changeable": 0
         },
         {
+            "key": "lf_js_p2p",
+            "name": "🧲磁力┃4K",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
+        },
+        {
             "key": "csp_WoGG",
             "name": "👽玩偶┃4K",
             "type": 3,
@@ -131,6 +139,14 @@
             "changeable": 0
         },
         {
+            "key": "csp_Nbys",
+            "name": "✈️泥巴┃需翻墙",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "88js",
             "name": "⚽88看球",
             "type": 3,
@@ -149,20 +165,22 @@
             "changeable": 0
         },
         {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴┃需翻墙",
+            "key": "csp_XPath_企鹅体育",
+            "name": "🐧企鹅体育",
             "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_XPath",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
         },
         {
-            "key": "lf_js_p2p",
-            "name": "🧲磁力┃4K",
+            "key": "csp_BBB",
+            "name": "🅱哔哩",
             "type": 3,
-            "searchable": 1,
+            "api": "csp_Bili",
+            "searchable": 0,
             "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
+            "ext": "http://我不是.肥猫.love:63/json/bili.json"
         },
         {
             "key": "push_agent",

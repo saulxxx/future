@@ -41,6 +41,22 @@
             "changeable": 0
         },
         {
+            "key": "If_js_ikanbot",
+            "name": "❤️ikanbot",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_ikanbot4_min.js",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "🧲磁力┃4K",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
+        },
+        {
             "key": "csp_kuaikan",
             "name": "👀快看",
             "type": 3,
@@ -83,14 +99,6 @@
             "changeable": 1,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
-        },
-        {
-            "key": "If_js_ikanbot",
-            "name": "❤️ikanbot",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_ikanbot4_min.js",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "獨播",
