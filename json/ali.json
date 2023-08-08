@@ -1,8 +1,6 @@
 {
-    //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    //proxy://do=live&type=txt&ext=aHR0cHM6Ly9zYXVseHh4LmdpdGh1Yi5pby9mdXR1cmUvdHYvbGl2ZS50eHQ=
-    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/cs.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e
-    //"jar": "https://saulxxx.github.io/future/jar/custom_spider.jar;md5;008dbb5b68b754af12a2337810f78dc0"
+    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/
+    //https://saulxxx.github.io/future/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "lives": [
@@ -31,26 +29,16 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
+            "changeable": 0,
             "ext": "https://xhdwc.tk/js/drpy.js"
         },
         {
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search2_min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search3_min.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "lf_js_p2p",
-            "name": "🧲磁力┃4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p1_1_min.js"
+            "changeable": 0
         },
         {
             "key": "csp_WoGG",
@@ -124,8 +112,7 @@
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Ying",
@@ -133,8 +120,7 @@
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "changeable": 0
         },
         {
             "key": "csp_Ysj",
@@ -142,8 +128,7 @@
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "changeable": 0
         },
         {
             "key": "88js",
@@ -152,30 +137,16 @@
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "changeable": 0
         },
         {
-            "key": "csp_xp_qiumi",
+            "key": "drpy_js_JRKAN直播",
             "name": "⚽Jrs球迷",
             "type": 3,
-            "api": "csp_XPath",
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xp/dj看球.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
-        },
-        {
-            "key": "csp_XYQBiu_310直播",
-            "name": "⚽310看球",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/310直播.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
+            "changeable": 0
         },
         {
             "key": "csp_Nbys",
@@ -183,8 +154,15 @@
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "changeable": 0
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "🧲磁力┃4K",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
         },
         {
             "key": "push_agent",
@@ -192,8 +170,7 @@
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "changeable": 0
         }
     ],
     "doh": [
