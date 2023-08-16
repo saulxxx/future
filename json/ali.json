@@ -73,15 +73,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_Yiso",
-            "name": "😹易搜┃4K",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt"
-        },
-        {
             "key": "csp_AliPanSou",
             "name": "😼盘搜┃4K",
             "type": 3,
@@ -236,6 +227,42 @@
         }
     ],
     "rules": [
+        {
+            "name": "磁力廣告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "最新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
+            ]
+        },
+        {
+            "name": "暴风廣告",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
         {
             "name": "星星",
             "hosts": [
