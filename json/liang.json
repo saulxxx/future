@@ -1,6 +1,7 @@
 {
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/
     //https://saulxxx.github.io/future/
+    //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;18b8df1e0f7813098c1e70979a264aad",
     "lives": [
@@ -24,7 +25,7 @@
     ],
     "sites": [
         {
-            "key": "js豆瓣",
+            "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
@@ -51,6 +52,14 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
+            "key": "csp_AppMr",
+            "name": "👻明明",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "drpy_js_netlify",
             "name": "🎬荐片",
             "type": 3,
@@ -64,7 +73,7 @@
             "key": "czzy_open",
             "name": "🚬厂长",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/czzy_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/czzy_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -72,7 +81,7 @@
             "key": "kkys_open",
             "name": "👀快看",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/kkys_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -80,7 +89,7 @@
             "key": "kunyu77_open",
             "name": "👒七七",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kunyu77_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/kunyu77_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -88,15 +97,7 @@
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/libvio_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "duboku_open",
-            "name": "🔮独播库",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/duboku_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/libvio_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -104,15 +105,32 @@
             "key": "ng_open",
             "name": "🎃南瓜",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ng_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/open/ng_open.js",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "subaibai_open",
+            "name": "🐭素白白",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/open/subaibai_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_HDmoli",
+            "name": "🌺HDmoli",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
         },
         {
             "key": "If_js_ikanbot",
             "name": "❤️ikanbot",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/ikanbot_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_ikanbot4_1_min.js",
             "searchable": 1,
             "changeable": 0
         },
@@ -208,16 +226,8 @@
             ]
         },
         {
-            "key": "csp_AppMr",
-            "name": "👻明明",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "星星",
-            "name": "🌟星星",
+            "name": "🌟星星┃需翻墙",
             "type": 3,
             "api": "csp_Star",
             "searchable": 1,
@@ -225,52 +235,19 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
-            "key": "csp_Nmys",
-            "name": "🌾农民",
+            "key": "獨播",
+            "name": "🔮独播库┃需翻墙",
             "type": 3,
-            "api": "csp_Nmys",
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "http://饭太硬.top/tv/nmys.json"
+            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
         },
         {
-            "key": "drpy_js_HDmoli",
-            "name": "🌺HDmoli",
+            "key": "csp_Nbys",
+            "name": "✈️泥巴┃需翻墙",
             "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
-        },
-        {
-            "key": "csp_Dy1010",
-            "name": "🥢双十",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "🎈Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_DiDuan",
-            "name": "⏮️低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌BTtwo",
-            "type": 3,
-            "api": "csp_Bttwoo",
+            "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 1
         },
@@ -333,14 +310,6 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "http://我不是.肥猫.love:63/json/bili.json"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴┃需翻墙",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "csp_WoGG",
