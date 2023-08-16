@@ -24,7 +24,7 @@
     ],
     "sites": [
         {
-            "key": "js豆瓣",
+            "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
