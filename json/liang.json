@@ -41,6 +41,74 @@
             "changeable": 0
         },
         {
+            "key": "csp_YQKAPP",
+            "name": "🎉一起看",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "drpy_js_netlify",
+            "name": "🎬荐片",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+        },
+        {
+            "key": "czzy_open",
+            "name": "🚬厂长",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/czzy_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "kkys_open",
+            "name": "👀快看",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "kunyu77_open",
+            "name": "👒七七",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kunyu77_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "libvio_open",
+            "name": "🍭Libvio",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/libvio_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "duboku_open",
+            "name": "🔮独播库",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/duboku_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "ng_open",
+            "name": "🎃南瓜",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ng_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "If_js_ikanbot",
             "name": "❤️ikanbot",
             "type": 3,
@@ -55,68 +123,6 @@
             "searchable": 1,
             "changeable": 0,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
-        },
-        {
-            "key": "csp_kuaikan",
-            "name": "👀快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_YQKAPP",
-            "name": "🎉一起看",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_AppMr",
-            "name": "👻明明",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "廠長",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/czzy_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_netlify",
-            "name": "🎬荐片",
-            "type": 3,
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
-        },
-        {
-            "key": "獨播",
-            "name": "🔮独播库",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
-        },
-        {
-            "key": "星星",
-            "name": "🌟星星",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "量子",
@@ -202,22 +208,21 @@
             ]
         },
         {
-            "key": "csp_Lib",
-            "name": "🍭Libvio",
+            "key": "csp_AppMr",
+            "name": "👻明明",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_AppMr",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.fun/"
+            "changeable": 1
         },
         {
-            "key": "csp_fantuan",
-            "name": "🍙饭团",
+            "key": "星星",
+            "name": "🌟星星",
             "type": 3,
-            "api": "csp_Fantuan",
+            "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.fantuan3.com"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "csp_Nmys",
@@ -227,15 +232,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "http://饭太硬.top/tv/nmys.json"
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "🐼新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://6080dy4.com"
         },
         {
             "key": "drpy_js_HDmoli",
@@ -263,15 +259,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Cokemv",
-            "name": "🥤可乐",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_DiDuan",
             "name": "⏮️低端",
             "type": 3,
@@ -284,14 +271,6 @@
             "name": "✌BTtwo",
             "type": 3,
             "api": "csp_Bttwoo",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "👒七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
             "searchable": 1,
             "changeable": 1
         },
@@ -552,6 +531,42 @@
         }
     ],
     "rules": [
+        {
+            "name": "磁力廣告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "最新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
+            ]
+        },
+        {
+            "name": "暴风廣告",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
         {
             "name": "星星",
             "hosts": [
