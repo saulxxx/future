@@ -86,14 +86,6 @@
             "changeable": 1
         },
         {
-            "key": "kunyu77_open",
-            "name": "👒七七",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/kunyu77_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
@@ -114,6 +106,14 @@
             "name": "🐭素白白",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/open/subaibai_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "kunyu77_open",
+            "name": "👒七七",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/kunyu77_open.js",
             "searchable": 1,
             "changeable": 1
         },
