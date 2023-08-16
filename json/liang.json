@@ -97,7 +97,7 @@
             "key": "ng_open",
             "name": "🎃南瓜",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/open/ng_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/ng_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -105,7 +105,7 @@
             "key": "subaibai_open",
             "name": "🐭素白白",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/open/subaibai_open.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/subaibai_open.js",
             "searchable": 1,
             "changeable": 1
         },
