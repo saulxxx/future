@@ -94,7 +94,7 @@
             "key": "kkys_open",
             "name": "👀快看",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kkys_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -102,7 +102,7 @@
             "key": "czzy_open",
             "name": "🚬厂长",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/czzy_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -110,7 +110,7 @@
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/libvio_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/libvio_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -118,7 +118,7 @@
             "key": "ng_open",
             "name": "🎃南瓜",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/ng_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ng_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -126,7 +126,7 @@
             "key": "subaibai_open",
             "name": "🐭素白白",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/subaibai_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/subaibai_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -134,7 +134,7 @@
             "key": "kunyu77_open",
             "name": "👒七七",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/kunyu77_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js",
             "searchable": 1,
             "changeable": 1
         },
