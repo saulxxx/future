@@ -39,6 +39,26 @@
             "changeable": 0
         },
         {
+            "key": "MV_vod",
+            "name": "🎶明星┃MV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "88js",
+            "name": "⚽88看球",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/88看球.js",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
             "key": "lf_js_p2p",
             "name": "🧲磁力┃4K",
             "type": 3,
@@ -133,15 +153,6 @@
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "88js",
-            "name": "⚽88看球",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/88看球.js",
-            "searchable": 0,
             "changeable": 0
         },
         {
