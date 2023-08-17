@@ -2,8 +2,9 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/
     //https://saulxxx.github.io/future/
     //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
+    //https://fongmi.cachefly.net/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/jar/fan.txt;md5;18b8df1e0f7813098c1e70979a264aad",
+    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/fan.txt;md5;b3a5a49c793dd82c3fd04e75d3071b20",
     "lives": [
         {
             "name": "直播1",
@@ -15,12 +16,12 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
+            "url": "https://fongmi.cachefly.net/Ftindy/IPTV-URL/main/sxg.m3u"
         },
         {
             "name": "直播3",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -28,7 +29,7 @@
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "https://xhdwc.tk/js/drpy.js"
@@ -37,7 +38,7 @@
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search3_min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_search3_min.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -66,14 +67,14 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
         },
         {
             "key": "czzy_open",
             "name": "🚬厂长",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/czzy_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/czzy_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -81,7 +82,7 @@
             "key": "kkys_open",
             "name": "👀快看",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/kkys_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/kkys_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -89,7 +90,7 @@
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/libvio_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/libvio_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -97,7 +98,7 @@
             "key": "ng_open",
             "name": "🎃南瓜",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/ng_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/ng_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -105,7 +106,7 @@
             "key": "subaibai_open",
             "name": "🐭素白白",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/subaibai_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/subaibai_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -113,7 +114,7 @@
             "key": "kunyu77_open",
             "name": "👒七七",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/kunyu77_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/kunyu77_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -123,14 +124,14 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
         },
         {
             "key": "If_js_ikanbot",
             "name": "❤️ikanbot",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_ikanbot4_1_min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_ikanbot4_1_min.js",
             "searchable": 1,
             "changeable": 0
         },
@@ -140,7 +141,7 @@
             "type": 3,
             "searchable": 1,
             "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_p2p2_min.js"
         },
         {
             "key": "量子",
@@ -232,7 +233,7 @@
             "api": "csp_Star",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "獨播",
@@ -279,8 +280,8 @@
             "key": "88js",
             "name": "⚽88看球",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/88看球.js",
             "searchable": 0,
             "changeable": 0
         },

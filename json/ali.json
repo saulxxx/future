@@ -1,8 +1,6 @@
 {
-    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/
-    //https://saulxxx.github.io/future/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+    "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "lives": [
         {
             "name": "直播1",
@@ -14,12 +12,12 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
+            "url": "https://fongmi.cachefly.net/Ftindy/IPTV-URL/main/sxg.m3u"
         },
         {
             "name": "直播3",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -27,7 +25,7 @@
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "https://xhdwc.tk/js/drpy.js"
@@ -36,7 +34,7 @@
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search3_min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_search3_min.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -46,7 +44,7 @@
             "type": 3,
             "searchable": 1,
             "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_p2p2_min.js"
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_p2p2_min.js"
         },
         {
             "key": "csp_WoGG",
@@ -141,8 +139,8 @@
             "key": "88js",
             "name": "⚽88看球",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/88看球.js",
             "searchable": 0,
             "changeable": 0
         },
