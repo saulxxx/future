@@ -91,18 +91,18 @@
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
         },
         {
-            "key": "czzy_open",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/czzy_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "kkys_open",
             "name": "👀快看",
             "type": 3,
             "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "czzy_open",
+            "name": "🚬厂长",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/czzy_open.js",
             "searchable": 1,
             "changeable": 1
         },
