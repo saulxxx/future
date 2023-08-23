@@ -330,7 +330,7 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "七夜",
@@ -339,7 +339,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "盤搜索",
@@ -348,7 +348,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "csp_Yiso",
@@ -357,7 +357,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "csp_AliPanSou",
@@ -366,7 +366,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "Upso",
@@ -375,7 +375,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "Zhaozy",
@@ -384,7 +384,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84$$$fanfan$$$qqq111"
+            "ext": "16d38d4d83b44366a6811f19f441336a$$$fanfan$$$qqq111"
         },
         {
             "key": "TuGou",
@@ -393,7 +393,7 @@
             "api": "csp_TuGou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         },
         {
             "key": "push_agent",
@@ -402,7 +402,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "ext": "7cf268d1b9094c6f870f3a885bc8bc84"
+            "ext": "16d38d4d83b44366a6811f19f441336a"
         }
     ],
     "parses": [
