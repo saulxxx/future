@@ -99,10 +99,26 @@
             "changeable": 1
         },
         {
+            "key": "ng_open",
+            "name": "🎃南瓜",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ng_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "czzy_open",
             "name": "🚬厂长",
             "type": 3,
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "kunyu77_open",
+            "name": "👒七七",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -115,26 +131,10 @@
             "changeable": 1
         },
         {
-            "key": "ng_open",
-            "name": "🎃南瓜",
+            "key": "zxzj_open",
+            "name": "🏠在线之家",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ng_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "subaibai_open",
-            "name": "🐭素白白",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/subaibai_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "kunyu77_open",
-            "name": "👒七七",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/zxzj_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -151,9 +151,9 @@
             "key": "If_js_ikanbot",
             "name": "❤️ikanbot",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_ikanbot4_1_min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_ikanbot5_2_min.js",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 1
         },
         {
             "key": "lf_js_p2p",
@@ -539,9 +539,10 @@
             ]
         },
         {
-            "name": "暴风廣告",
+            "name": "暴風廣告",
             "hosts": [
-                "bfzy"
+                "bfzy",
+                "s5.bfzycdn"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
