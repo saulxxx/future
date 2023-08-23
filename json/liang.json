@@ -91,6 +91,14 @@
             "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
         },
         {
+            "key": "If_js_ikanbot",
+            "name": "❤️ikanbot",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_ikanbot5_2_min.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "kkys_open",
             "name": "👀快看",
             "type": 3,
@@ -119,14 +127,6 @@
             "name": "👒七七",
             "type": 3,
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "If_js_ikanbot",
-            "name": "❤️ikanbot",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_ikanbot5_2_min.js",
             "searchable": 1,
             "changeable": 1
         },
