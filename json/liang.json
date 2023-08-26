@@ -87,8 +87,8 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
         },
         {
             "key": "If_js_ikanbot",
