@@ -67,12 +67,16 @@
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_p2p2_min.js"
         },
         {
-            "key": "csp_WoGG",
+            "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": {
+                "token": "影視天下第一",
+                "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+            }
         },
         {
             "key": "七夜",
