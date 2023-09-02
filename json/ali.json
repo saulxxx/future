@@ -87,6 +87,14 @@
             "changeable": 0
         },
         {
+            "key": "紙條搜",
+            "name": "🦊小纸条┃4K",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "盤搜索",
             "name": "🙀盘Se┃4K",
             "type": 3,
@@ -99,6 +107,14 @@
             "name": "😼盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "csp_Yiso",
+            "name": "😹易搜┃4K",
+            "type": 3,
+            "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0
         },
@@ -148,14 +164,6 @@
             "name": "🎀异界动漫",
             "type": 3,
             "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴┃需翻墙",
-            "type": 3,
-            "api": "csp_NiNi",
             "searchable": 1,
             "changeable": 0
         },
@@ -267,9 +275,10 @@
             ]
         },
         {
-            "name": "暴风廣告",
+            "name": "暴風廣告",
             "hosts": [
-                "bfzy"
+                "bfzy",
+                "s5.bfzycdn"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
