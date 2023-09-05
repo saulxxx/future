@@ -125,7 +125,7 @@
         },
         {
             "key": "czzy_open",
-            "name": "🚬厂长",
+            "name": "🚬厂长op",
             "type": 3,
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
             "searchable": 1,
