@@ -81,15 +81,6 @@
             "changeable": 1
         },
         {
-            "key": "Czsapp",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "drpy_js_netlify",
             "name": "🎬荐片",
             "type": 3,
@@ -125,7 +116,7 @@
         },
         {
             "key": "czzy_open",
-            "name": "🚬厂长op",
+            "name": "🚬厂长",
             "type": 3,
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
             "searchable": 1,
