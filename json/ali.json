@@ -39,6 +39,22 @@
             "changeable": 0
         },
         {
+            "key": "mybili_open",
+            "name": "🅱哔哩",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/mybili_open.js",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "cntv_open",
+            "name": "📺cntv",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/cntv_open.js",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
             "key": "MV_vod",
             "name": "🎶明星┃MV",
             "type": 1,
@@ -184,15 +200,6 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "http://我不是.肥猫.love:63/json/bili.json"
         },
         {
             "key": "push_agent",
