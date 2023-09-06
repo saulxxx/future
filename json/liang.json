@@ -330,7 +330,7 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "七夜",
@@ -339,7 +339,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "纸条",
@@ -349,7 +349,7 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "盤搜索",
@@ -358,7 +358,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_Yiso",
@@ -367,7 +367,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_AliPanSou",
@@ -376,7 +376,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Upso",
@@ -385,7 +385,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Zhaozy",
@@ -394,7 +394,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a$$$fanfan$$$qqq111"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt$$$fanfan$$$qqq111"
         },
         {
             "key": "TuGou",
@@ -403,7 +403,7 @@
             "api": "csp_TuGou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "push_agent",
@@ -412,7 +412,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "ext": "16d38d4d83b44366a6811f19f441336a"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         }
     ],
     "parses": [
