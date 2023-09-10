@@ -43,6 +43,17 @@
             "changeable": 0
         },
         {
+            "key": "MV_vod",
+            "name": "🎶明星┃MV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
             "key": "mybili_open",
             "name": "🅱哔哩",
             "type": 3,
@@ -59,22 +70,20 @@
             "changeable": 0
         },
         {
-            "key": "MV_vod",
-            "name": "🎶明星┃MV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "style": {
-                "type": "oval"
-            },
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
             "key": "88js",
             "name": "⚽88看球",
             "type": 3,
             "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/88看球.js",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "drpy_js_JRKAN直播",
+            "name": "⚽Jrs球迷",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -170,32 +179,6 @@
             "changeable": 1
         },
         {
-            "key": "星星",
-            "name": "🌟星星┃需翻墙",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },
-        {
-            "key": "獨播",
-            "name": "🔮独播库┃需翻墙",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴┃需翻墙",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Dm84",
             "name": "🚌动漫巴士",
             "type": 3,
@@ -220,22 +203,37 @@
             "changeable": 1
         },
         {
-            "key": "drpy_js_JRKAN直播",
-            "name": "⚽Jrs球迷",
+            "key": "影視",
+            "name": "🐝影视┃需翻墙",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js",
-            "searchable": 0,
-            "changeable": 0
+            "api": "csp_YingShi",
+            "searchable": 1,
+            "changeable": 1
         },
         {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧企鹅体育",
+            "key": "星星",
+            "name": "🌟星星┃需翻墙",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "獨播",
+            "name": "🔮独播库┃需翻墙",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "✈️泥巴┃需翻墙",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "玩偶",
@@ -462,6 +460,20 @@
                 "裸聊",
                 "新片首发",
                 "UUE29"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
