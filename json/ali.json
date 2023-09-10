@@ -75,14 +75,6 @@
             "changeable": 0
         },
         {
-            "key": "lf_js_p2p",
-            "name": "🧲磁力┃4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 0,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_p2p2_min.js"
-        },
-        {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
@@ -90,7 +82,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "影視天下第一",
+                "token": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt",
                 "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -100,7 +92,8 @@
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "紙條搜",
@@ -108,7 +101,8 @@
             "type": 3,
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "盤搜索",
@@ -116,15 +110,8 @@
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "csp_AliPanSou",
-            "name": "😼盘搜┃4K",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_Yiso",
@@ -132,7 +119,17 @@
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "😼盘搜┃4K",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Upso",
@@ -140,7 +137,8 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Zhaozy",
@@ -149,7 +147,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "影視天下第一$$$fanfan$$$qqq111"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt$$$fanfan$$$qqq111"
         },
         {
             "key": "TuGou",
@@ -157,7 +155,8 @@
             "type": 3,
             "api": "csp_TuGou",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_Dm84",
@@ -207,7 +206,8 @@
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         }
     ],
     "doh": [

@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
     //https://fongmi.cachefly.net/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/fan.txt;md5;51f99bdb067984f87ee16dc026da79d2",
+    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/custom_spider.jar;md5;37e03cb1531bf4b163bf0b366bc9aa6c",
     "lives": [
         {
             "name": "直播1",
@@ -79,24 +79,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_YQKAPP",
-            "name": "🎉一起看",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_AppMr",
-            "name": "👻明明",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "drpy_js_netlify",
             "name": "🎬荐片",
             "type": 3,
@@ -105,14 +87,6 @@
             "changeable": 1,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-        },
-        {
-            "key": "If_js_ikanbot",
-            "name": "❤️ikanbot",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_ikanbot5_2_min.js",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "kkys_open",
@@ -147,6 +121,14 @@
             "changeable": 1
         },
         {
+            "key": "ikanbot_open",
+            "name": "❤️ikanbot",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ikanbot_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
@@ -172,56 +154,12 @@
             "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
         },
         {
-            "key": "lf_js_p2p",
-            "name": "🧲磁力┃4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 0,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_p2p2_min.js"
-        },
-        {
             "key": "量子",
             "name": "🌌量子",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "电影片",
-                "连续剧",
-                "综艺片",
-                "动漫片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "台湾剧",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "体育",
-                "足球",
-                "篮球",
-                "网球",
-                "斯诺克"
-            ]
+            "changeable": 1
         },
         {
             "key": "非凡",
@@ -229,38 +167,7 @@
             "type": 0,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "国产剧",
-                "韩国剧",
-                "日本剧",
-                "电影片",
-                "连续剧",
-                "综艺片",
-                "动漫片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "香港剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫"
-            ]
+            "changeable": 1
         },
         {
             "key": "星星",
@@ -331,13 +238,16 @@
             "ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"
         },
         {
-            "key": "csp_WoGG",
+            "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
-            "api": "csp_WoGG",
+            "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": {
+                "token": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt",
+                "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+            }
         },
         {
             "key": "七夜",
@@ -349,11 +259,10 @@
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
-            "key": "纸条",
+            "key": "紙條搜",
             "name": "🦊小纸条┃4K",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_gitCafe",
-            "playerType": 1,
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
