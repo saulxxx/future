@@ -203,39 +203,6 @@
             "changeable": 1
         },
         {
-            "key": "影視",
-            "name": "🐝影视┃需翻墙",
-            "type": 3,
-            "api": "csp_YingShi",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "星星",
-            "name": "🌟星星┃需翻墙",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "獨播",
-            "name": "🔮独播库┃需翻墙",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴┃需翻墙",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
@@ -318,6 +285,39 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+        },
+        {
+            "key": "影視",
+            "name": "🐝影视┃需翻墙",
+            "type": 3,
+            "api": "csp_YingShi",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "星星",
+            "name": "🌟星星┃需翻墙",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "獨播",
+            "name": "🔮独播库┃需翻墙",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "✈️泥巴┃需翻墙",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "push_agent",
