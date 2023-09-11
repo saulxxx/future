@@ -79,23 +79,12 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_JRKAN直播",
-            "name": "⚽Jrs球迷",
+            "key": "czzy_open",
+            "name": "🚬厂长",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/JRKAN直播.js",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "drpy_js_netlify",
-            "name": "🎬荐片",
-            "type": 3,
-            "playerType": 1,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
             "searchable": 1,
-            "changeable": 1,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+            "changeable": 1
         },
         {
             "key": "kkys_open",
@@ -114,26 +103,10 @@
             "changeable": 1
         },
         {
-            "key": "czzy_open",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "kunyu77_open",
             "name": "👒七七",
             "type": 3,
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "ikanbot_open",
-            "name": "❤️ikanbot",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ikanbot_open.js",
             "searchable": 1,
             "changeable": 1
         },
@@ -152,6 +125,25 @@
             "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/zxzj_open.js",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "drpy_js_netlify",
+            "name": "🎬荐片",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+        },
+        {
+            "key": "ikanbot_open",
+            "name": "❤️ikanbot",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/爱看机器人.js"
         },
         {
             "key": "drpy_js_HDmoli",
@@ -215,19 +207,19 @@
             }
         },
         {
-            "key": "七夜",
-            "name": "🐺七夜┃4K",
+            "key": "紙條搜",
+            "name": "🦊小纸条┃4K",
             "type": 3,
-            "api": "csp_Dovx",
+            "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
         },
         {
-            "key": "紙條搜",
-            "name": "🦊小纸条┃4K",
+            "key": "七夜",
+            "name": "🐺七夜┃4K",
             "type": 3,
-            "api": "csp_XiaoZhiTiao",
+            "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
