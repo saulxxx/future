@@ -137,15 +137,6 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
         },
         {
-            "key": "ikanbot_open",
-            "name": "❤️ikanbot",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/爱看机器人.js"
-        },
-        {
             "key": "drpy_js_HDmoli",
             "name": "🌺HDmoli",
             "type": 3,
