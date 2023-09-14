@@ -481,10 +481,11 @@
             ]
         },
         {
-            "name": "量子廣告",
+            "name": "量子",
             "hosts": [
                 "vip.lz",
-                "hd.lz"
+                "hd.lz",
+                "v.cdnlz"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -499,6 +500,17 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "极速",
+            "hosts": [
+                "vip.js",
+                "hd.js"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
