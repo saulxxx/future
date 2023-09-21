@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
     //https://fongmi.cachefly.net/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/custom_spider.jar;md5;37e03cb1531bf4b163bf0b366bc9aa6c",
+    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/custom_spider.jar;md5;f5b3145384dbe67650ea3fe783764bd0",
     "lives": [
         {
             "name": "直播1",
@@ -154,10 +154,26 @@
             "changeable": 1
         },
         {
-            "key": "非凡",
-            "name": "🏄非凡",
-            "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "key": "暴風",
+            "name": "🌪️暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "索尼",
+            "name": "🎮索尼 ",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "快帆",
+            "name": "🏄快帆",
+            "type": 1,
+            "api": "https://api.kuaifan.tv/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
         },
@@ -451,12 +467,10 @@
                 "haiwaikan"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "8.1748",
+                "10.0099",
+                "10.3333",
+                "16.0599"
             ]
         },
         {
