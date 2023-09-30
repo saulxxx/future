@@ -79,12 +79,13 @@
             "changeable": 0
         },
         {
-            "key": "czzy_open",
+            "key": "drpy_js_厂长",
             "name": "🚬厂长",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/厂长资源.js"
         },
         {
             "key": "kkys_open",
