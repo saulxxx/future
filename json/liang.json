@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
     //https://fongmi.cachefly.net/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/custom_spider.jar;md5;f5b3145384dbe67650ea3fe783764bd0",
+    "spider": "https://fongmi.cachefly.net/saulxxx/future/main/jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
     "lives": [
         {
             "name": "直播1",
@@ -29,10 +29,10 @@
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://xhdwc.tk/js/drpy.js"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/drpy.js"
         },
         {
             "key": "If_js_douban",
@@ -79,13 +79,12 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_厂长",
+            "key": "czzy_open",
             "name": "🚬厂长",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/厂长资源.js"
+            "changeable": 1
         },
         {
             "key": "kkys_open",
@@ -112,6 +111,22 @@
             "changeable": 1
         },
         {
+            "key": "bulei_open",
+            "name": "💥布雷",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/bulei_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "yrzj_open",
+            "name": "👗伊人",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/yrzj_open.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
@@ -128,14 +143,14 @@
             "changeable": 1
         },
         {
-            "key": "drpy_js_netlify",
+            "key": "drpy_js_jp",
             "name": "🎬荐片",
             "type": 3,
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
         },
         {
             "key": "drpy_js_HDmoli",
@@ -145,6 +160,15 @@
             "changeable": 1,
             "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
+        },
+        {
+            "key": "drpy_js_moflix",
+            "name": "🎐moflix",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
         },
         {
             "key": "量子",
@@ -320,6 +344,14 @@
             "changeable": 1
         },
         {
+            "key": "haiwaikan",
+            "name": "🌊海外看┃需翻墙",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
@@ -460,6 +492,16 @@
                 "裸聊",
                 "新片首发",
                 "UUE29"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {

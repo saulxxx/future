@@ -25,10 +25,10 @@
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://xhdwc.tk/js/drpy.js"
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/drpy.js"
         },
         {
             "key": "If_js_douban",
@@ -261,6 +261,16 @@
                 "裸聊",
                 "新片首发",
                 "UUE29"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {
