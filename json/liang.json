@@ -29,7 +29,7 @@
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/drpy.js"
@@ -149,7 +149,7 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
         },
         {
@@ -167,7 +167,7 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/libs/drpy2.min.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
         },
         {
