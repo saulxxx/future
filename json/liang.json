@@ -111,22 +111,6 @@
             "changeable": 1
         },
         {
-            "key": "bulei_open",
-            "name": "💥布雷",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/bulei_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "yrzj_open",
-            "name": "👗伊人",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/yrzj_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "libvio_open",
             "name": "🍭Libvio",
             "type": 3,
