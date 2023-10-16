@@ -96,24 +96,6 @@
             "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
         },
         {
-            "key": "drpy_js_HDmoli",
-            "name": "🌺HDmoli",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
-        },
-        {
-            "key": "drpy_js_moflix",
-            "name": "🎐MoFlix",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
-        },
-        {
             "key": "橘子",
             "name": "🍊橘子",
             "type": 3,
@@ -184,6 +166,14 @@
             "changeable": 1
         },
         {
+            "key": "csp_Bttoo",
+            "name": "✌️比特",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "Lib",
             "name": "🍭Libvio",
             "type": 3,
@@ -191,6 +181,24 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://www.libvio.pro/"
+        },
+        {
+            "key": "drpy_js_HDmoli",
+            "name": "🌺HDmoli",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
+        },
+        {
+            "key": "drpy_js_moflix",
+            "name": "🎐MoFlix",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
         },
         //{ "key": "czzy_open", "name": "🚬厂长", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js", "searchable": 1, "changeable": 1 },
         //{ "key": "kkys_open", "name": "👀快看", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kkys_open.js", "searchable": 1, "changeable": 1 },
