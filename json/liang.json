@@ -78,6 +78,60 @@
             "changeable": 0
         },
         {
+            "key": "jiohub_open",
+            "name": "🎩JOJO",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/jiohub.js",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "drpy_js_jp",
+            "name": "🎬荐片",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
+        },
+        {
+            "key": "drpy_js_HDmoli",
+            "name": "🌺HDmoli",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
+        },
+        {
+            "key": "drpy_js_moflix",
+            "name": "🎐MoFlix",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
+        },
+        {
+            "key": "橘子",
+            "name": "🍊橘子",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
+        },
+        {
+            "key": "Mino",
+            "name": "👻Mino",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
+        },
+        {
             "key": "Czsapp",
             "name": "🚬厂长",
             "type": 3,
@@ -102,24 +156,6 @@
             "api": "csp_Kunyu77",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "Mino",
-            "name": "👻Mino",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-        },
-        {
-            "key": "橘子",
-            "name": "🍊橘子",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
         },
         {
             "key": "Cokemv",
@@ -162,42 +198,6 @@
         //{ "key": "kunyu77_open", "name": "👒七七", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js", "searchable": 1, "changeable": 1 },
         //{ "key": "libvio_open", "name": "🍭Libvio", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/libvio_open.js", "searchable": 1, "changeable": 1 },
         //{ "key": "zxzj_open", "name": "🏠在线之家", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/zxzj_open.js", "searchable": 1, "changeable": 1 },
-        {
-            "key": "jiohub_open",
-            "name": "🎩JOJO",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/jiohub.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_jp",
-            "name": "🎬荐片",
-            "type": 3,
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
-        },
-        {
-            "key": "drpy_js_HDmoli",
-            "name": "🌺HDmoli",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
-        },
-        {
-            "key": "drpy_js_moflix",
-            "name": "🎐MoFlix",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
-        },
         {
             "key": "量子",
             "name": "🌌量子",
