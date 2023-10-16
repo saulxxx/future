@@ -104,6 +104,14 @@
             "changeable": 1
         },
         {
+            "key": "77",
+            "name": "👒七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "Mino",
             "name": "👻Mino",
             "type": 3,
@@ -140,50 +148,25 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
-            "key": "czzy_open",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "kkys_open",
-            "name": "👀快看",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kkys_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "ng_open",
-            "name": "🎃南瓜",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ng_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "kunyu77_open",
-            "name": "👒七七",
-            "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "libvio_open",
+            "key": "Lib",
             "name": "🍭Libvio",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/libvio_open.js",
+            "api": "csp_Libvio",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
         },
+        //{ "key": "czzy_open", "name": "🚬厂长", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "kkys_open", "name": "👀快看", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kkys_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "ng_open", "name": "🎃南瓜", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ng_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "kunyu77_open", "name": "👒七七", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "libvio_open", "name": "🍭Libvio", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/libvio_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "zxzj_open", "name": "🏠在线之家", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/zxzj_open.js", "searchable": 1, "changeable": 1 },
         {
-            "key": "zxzj_open",
-            "name": "🏠在线之家",
+            "key": "jiohub_open",
+            "name": "🎩JOJO",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/zxzj_open.js",
+            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/jiohub.js",
             "searchable": 1,
             "changeable": 1
         },
