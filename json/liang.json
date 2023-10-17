@@ -4,7 +4,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
     //https://fongmi.cachefly.net/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
     "lives": [
         {
             "name": "直播1",
@@ -78,22 +78,12 @@
             "changeable": 0
         },
         {
-            "key": "jiohub_open",
+            "key": "JOJO",
             "name": "🎩JOJO",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/jiohub.js",
+            "api": "csp_JOJO",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "drpy_js_jp",
-            "name": "🎬荐片",
-            "type": 3,
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
         },
         {
             "key": "橘子",
@@ -114,6 +104,16 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
         },
         {
+            "key": "drpy_js_jp",
+            "name": "🎬荐片",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/jp.js"
+        },
+        {
             "key": "Czsapp",
             "name": "🚬厂长",
             "type": 3,
@@ -121,7 +121,7 @@
             "playerType": 2,
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.cz0101.com/"
+            "ext": "https://cz01.pw/"
         },
         {
             "key": "kuaikan",
