@@ -2,7 +2,7 @@
     //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/
     //https://saulxxx.github.io/future/
     //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
-    //https://fongmi.cachefly.net/
+    //https://gh-proxy.com/https://raw.githubusercontent.com/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
     "lives": [
@@ -16,12 +16,12 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://fongmi.cachefly.net/Ftindy/IPTV-URL/main/sxg.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
         },
         {
             "name": "直播3",
             "type": 0,
-            "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -37,7 +37,7 @@
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/js/lf_search3_min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search3_min.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -56,7 +56,7 @@
             "key": "mybili_open",
             "name": "🅱哔哩",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/mybili_open.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/mybili_open.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -64,7 +64,7 @@
             "key": "cntv_open",
             "name": "📺cntv",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/cntv_open.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -72,8 +72,8 @@
             "key": "88js",
             "name": "⚽88看球",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/88看球.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -121,7 +121,7 @@
             "playerType": 2,
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://cz01.pw/"
+            "ext": "https://www.czz9.com/"
         },
         {
             "key": "kuaikan",
@@ -188,8 +188,8 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/hjdhnx/dr_py/main/js/HDmoli.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
         },
         {
             "key": "drpy_js_moflix",
@@ -197,15 +197,15 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://fongmi.cachefly.net/saulxxx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/js/moflix.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/moflix.js"
         },
-        //{ "key": "czzy_open", "name": "🚬厂长", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/czzy_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "kkys_open", "name": "👀快看", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kkys_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "ng_open", "name": "🎃南瓜", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/ng_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "kunyu77_open", "name": "👒七七", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/kunyu77_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "libvio_open", "name": "🍭Libvio", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/libvio_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "zxzj_open", "name": "🏠在线之家", "type": 3, "api": "https://fongmi.cachefly.net/saulxxx/future/main/open/zxzj_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "czzy_open", "name": "🚬厂长", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/czzy_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "kkys_open", "name": "👀快看", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/kkys_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "ng_open", "name": "🎃南瓜", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/ng_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "kunyu77_open", "name": "👒七七", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/kunyu77_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "libvio_open", "name": "🍭Libvio", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/libvio_open.js", "searchable": 1, "changeable": 1 },
+        //{ "key": "zxzj_open", "name": "🏠在线之家", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/zxzj_open.js", "searchable": 1, "changeable": 1 },
         {
             "key": "量子",
             "name": "🌌量子",
@@ -269,7 +269,7 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "紙條搜",
@@ -278,7 +278,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "七夜",
@@ -287,7 +287,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "盤搜索",
@@ -296,7 +296,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_Yiso",
@@ -305,7 +305,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_AliPanSou",
@@ -314,7 +314,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Upso",
@@ -323,7 +323,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Zhaozy",
@@ -332,7 +332,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt$$$fanfan$$$qqq111"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt$$$fanfan$$$qqq111"
         },
         {
             "key": "TuGou",
@@ -341,7 +341,7 @@
             "api": "csp_TuGou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "影視",
@@ -366,7 +366,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
         },
         {
             "key": "csp_Nbys",
@@ -391,7 +391,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://fongmi.cachefly.net/saulxxx/future/main/json/tk.txt"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         }
     ],
     "parses": [
