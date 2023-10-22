@@ -28,7 +28,7 @@
             "api": "csp_DouDou",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "If_js_douban",
@@ -91,7 +91,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
+                "token": "影视天下第一",
                 "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -101,8 +101,7 @@
             "type": 3,
             "api": "csp_Dovx",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "紙條搜",
@@ -110,8 +109,7 @@
             "type": 3,
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "盤搜索",
@@ -119,8 +117,7 @@
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "csp_Yiso",
@@ -128,8 +125,7 @@
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "csp_AliPanSou",
@@ -137,8 +133,7 @@
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "Upso",
@@ -146,8 +141,7 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "Zhaozy",
@@ -156,7 +150,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt$$$fanfan$$$qqq111"
+            "ext": "影視天下第一$$$test2$$$test2"
         },
         {
             "key": "TuGou",
@@ -164,8 +158,7 @@
             "type": 3,
             "api": "csp_TuGou",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         },
         {
             "key": "csp_Dm84",
@@ -197,8 +190,7 @@
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "changeable": 0
         }
     ],
     "doh": [
