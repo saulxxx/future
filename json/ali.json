@@ -78,9 +78,9 @@
             "key": "drpy_js_jp",
             "name": "🎬荐片",
             "type": 3,
+            "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "api": "csp_Jianpian",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
         },
         {
@@ -150,15 +150,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "影視天下第一$$$test2$$$test2"
-        },
-        {
-            "key": "TuGou",
-            "name": "😿土狗┃4K",
-            "type": 3,
-            "api": "csp_TuGou",
-            "searchable": 1,
-            "changeable": 0
+            "ext": "影視天下第一$$$$$$fanty$$$qqq111"
         },
         {
             "key": "csp_Dm84",
@@ -238,32 +230,6 @@
         }
     ],
     "rules": [
-        {
-            "name": "磁力廣告",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "更多",
-                "社 區",
-                "x u u",
-                "最 新",
-                "最新",
-                "直 播",
-                "更 新",
-                "社 区",
-                "有趣",
-                "有 趣",
-                "英皇体育",
-                "全中文AV在线",
-                "澳门皇冠赌场",
-                "哥哥快来",
-                "美女荷官",
-                "裸聊",
-                "新片首发",
-                "UUE29"
-            ]
-        },
         {
             "name": "索尼",
             "hosts": [
