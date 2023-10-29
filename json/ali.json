@@ -22,21 +22,22 @@
     ],
     "sites": [
         {
-            "key": "drpy_js_douban",
+            "key": "豆瓣",
             "name": "🍒豆瓣荐片",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
+        },
+        {
+            "key": "drpy_js_douban",
+            "name": "🍑豆瓣荐片",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
             "changeable": 0,
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
-            "key": "If_js_douban",
-            "name": "🍑豆瓣荐片",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search3_min.js",
-            "searchable": 0,
-            "changeable": 0
         },
         {
             "key": "MV_vod",
@@ -82,6 +83,14 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+        },
+        {
+            "key": "新6V",
+            "name": "🎭新6V",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 0
         },
         {
             "key": "玩偶",
