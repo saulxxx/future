@@ -88,13 +88,13 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
         },
         {
-            "key": "drpy_js_南瓜影视",
+            "key": "南瓜",
             "name": "🎃南瓜",
             "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
             "searchable": 1,
-            "changeable": 1,
-            "api": "https://xhdwc.tk/lib/drpy2.min.js",
-            "ext": "https://xhdwc.tk/js/南瓜影视.js"
+            "changeable": 1
         },
         {
             "key": "Czsapp",
@@ -104,7 +104,7 @@
             "playerType": 2,
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.czz9.com/"
+            "ext": "https://www.czzy88.com/"
         },
         {
             "key": "kuaikan",
@@ -182,20 +182,6 @@
             "changeable": 1,
             "ext": "https://haozhansou.com/"
         },
-        {
-            "key": "JOJO",
-            "name": "🎩JOJO",
-            "type": 3,
-            "api": "csp_JOJO",
-            "searchable": 1,
-            "changeable": 1
-        },
-        //{ "key": "czzy_open", "name": "🚬厂长", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/czzy_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "kkys_open", "name": "👀快看", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/kkys_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "ng_open", "name": "🎃南瓜", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/ng_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "kunyu77_open", "name": "👒七七", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/kunyu77_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "libvio_open", "name": "🍭Libvio", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/libvio_open.js", "searchable": 1, "changeable": 1 },
-        //{ "key": "zxzj_open", "name": "🏠在线之家", "type": 3, "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/zxzj_open.js", "searchable": 1, "changeable": 1 },
         {
             "key": "量子",
             "name": "🌌量子",
