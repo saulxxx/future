@@ -40,6 +40,17 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
+            "key": "看球",
+            "name": "⚽看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "MV_vod",
             "name": "🎶明星┃MV",
             "type": 1,
@@ -63,15 +74,6 @@
             "name": "📺cntv",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "88js",
-            "name": "⚽88看球",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -186,6 +188,15 @@
             "changeable": 0
         },
         {
+            "key": "應用商店",
+            "name": "应用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+        },
+        {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
@@ -240,13 +251,32 @@
     ],
     "rules": [
         {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
             "name": "索尼",
             "hosts": [
                 "suonizy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "15.1666",
+                "15.2666"
             ]
         },
         {
@@ -255,21 +285,20 @@
                 "haiwaikan"
             ],
             "regex": [
-                "8.1748",
                 "10.0099",
                 "10.3333",
-                "16.0599"
+                "16.0599",
+                "8.1748",
+                "10.85"
             ]
         },
         {
-            "name": "暴風廣告",
+            "name": "暴風",
             "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
+                "bfzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -278,8 +307,7 @@
                 "aws.ulivetv.net"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -290,19 +318,17 @@
                 "v.cdnlz"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "18.5333"
             ]
         },
         {
-            "name": "非凡廣告",
+            "name": "非凡",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "25.0666"
             ]
         },
         {

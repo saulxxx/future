@@ -37,9 +37,23 @@
             "key": "If_js_douban",
             "name": "🍑豆瓣荐片",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/saulxxx/future/main/js/lf_search3_min.js",
+            "api": "csp_Douban",
             "searchable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        },
+        {
+            "key": "看球",
+            "name": "⚽看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "MV_vod",
@@ -69,13 +83,14 @@
             "changeable": 0
         },
         {
-            "key": "88js",
-            "name": "⚽88看球",
+            "key": "Czsapp",
+            "name": "🚬厂长",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
-            "searchable": 0,
-            "changeable": 0
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy88.com/"
         },
         {
             "key": "drpy_js_jp",
@@ -84,8 +99,8 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jp.js"
         },
         {
             "key": "南瓜",
@@ -95,16 +110,6 @@
             "playerType": 2,
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "Czsapp",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy88.com/"
         },
         {
             "key": "kuaikan",
@@ -470,13 +475,32 @@
     ],
     "rules": [
         {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
             "name": "索尼",
             "hosts": [
                 "suonizy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "15.1666",
+                "15.2666"
             ]
         },
         {
@@ -485,21 +509,20 @@
                 "haiwaikan"
             ],
             "regex": [
-                "8.1748",
                 "10.0099",
                 "10.3333",
-                "16.0599"
+                "16.0599",
+                "8.1748",
+                "10.85"
             ]
         },
         {
-            "name": "暴風廣告",
+            "name": "暴風",
             "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
+                "bfzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -508,8 +531,7 @@
                 "aws.ulivetv.net"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -520,19 +542,17 @@
                 "v.cdnlz"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "18.5333"
             ]
         },
         {
-            "name": "非凡廣告",
+            "name": "非凡",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "25.0666"
             ]
         },
         {
