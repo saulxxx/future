@@ -40,8 +40,8 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "ext": "https://fm.t4tv.hz.cz/json/douban.json",
+            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
         },
         {
             "key": "看球",
@@ -53,7 +53,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
         },
         {
             "key": "MV_vod",
@@ -347,7 +347,7 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+            "ext": "https://fm.t4tv.hz.cz/json/duboku.json"
         },
         {
             "key": "csp_Nbys",
