@@ -1,8 +1,4 @@
 {
-    //https://ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/
-    //https://saulxxx.github.io/future/
-    //https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/
-    //https://mirror.ghproxy.com/https://raw.githubusercontent.com/
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
     "lives": [
@@ -573,17 +569,6 @@
             ],
             "regex": [
                 "25.0666"
-            ]
-        },
-        {
-            "name": "极速",
-            "hosts": [
-                "vip.js",
-                "hd.js"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
         {

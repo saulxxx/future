@@ -332,17 +332,6 @@
             ]
         },
         {
-            "name": "极速",
-            "hosts": [
-                "vip.js",
-                "hd.js"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
             "name": "農民嗅探",
             "hosts": [
                 "toutiaovod.com"
