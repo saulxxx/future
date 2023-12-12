@@ -83,16 +83,6 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_jp",
-            "name": "🎬荐片",
-            "type": 3,
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/JP.js"
-        },
-        {
             "key": "南瓜",
             "name": "🎃南瓜",
             "type": 3,
@@ -155,6 +145,16 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
+        },
+        {
+            "key": "drpy_js_jp",
+            "name": "🎬荐片",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/JP.js"
         },
         {
             "key": "厂长",
@@ -246,44 +246,15 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
-            "key": "zxzj",
-            "name": "🏠在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzj.pro/",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-        },
-        {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
             "api": "csp_Panda",
             "type": 3,
             "searchable": 1,
+            "changeable": 0,
             "playerType": 2,
             "timeout": 30,
-            "changeable": 0,
             "ext": "http://dt.xn--yety82d.love/玩偶表哥.json"
-        },
-        {
-            "key": "紙條搜",
-            "name": "🦊小纸条┃4K",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-        },
-        {
-            "key": "七夜",
-            "name": "🐺七夜┃4K",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "盤搜索",
