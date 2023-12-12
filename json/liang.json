@@ -350,7 +350,8 @@
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fm.t4tv.hz.cz/json/duboku.json"
+            "ext": "https://fm.t4tv.hz.cz/json/duboku.json",
+            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
         },
         {
             "key": "csp_Nbys",
