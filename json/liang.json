@@ -248,13 +248,11 @@
         {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
-            "api": "csp_Panda",
             "type": 3,
+            "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "playerType": 2,
-            "timeout": 30,
-            "ext": "http://dt.xn--yety82d.love/玩偶表哥.json"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "盤搜索",
