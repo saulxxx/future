@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+    "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar",
     "lives": [
         {
             "name": "直播1",
@@ -12,7 +12,10 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt"
+            "playerType": 1,
+            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "直播3",
@@ -25,9 +28,10 @@
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
-            "api": "csp_DouDou",
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
             "searchable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
         },
         {
             "key": "If_js_douban",
@@ -79,41 +83,24 @@
             "changeable": 0
         },
         {
-            "key": "Czsapp",
-            "name": "🚬厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy88.com/"
-        },
-        {
             "key": "drpy_js_jp",
             "name": "🎬荐片",
             "type": 3,
             "playerType": 1,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/JP.js"
         },
         {
             "key": "南瓜",
             "name": "🎃南瓜",
             "type": 3,
-            "api": "csp_NanGua",
             "playerType": 2,
             "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "kuaikan",
-            "name": "👀快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
         },
         {
             "key": "77",
@@ -124,13 +111,129 @@
             "changeable": 1
         },
         {
-            "key": "Cokemv",
-            "name": "🥤可乐",
+            "key": "河马",
+            "name": "🦛河马",
             "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
+            "api": "csp_Hmys",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://m.sshbhz.com",
+            "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;B83AE169F5A991ADC48560AEEBFB0C90"
+        },
+        {
+            "key": "蜂鸟",
+            "name": "🕊️蜂鸟",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
+        },
+        {
+            "key": "南坊",
+            "name": "☀南坊",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+        },
+        {
+            "key": "小小",
+            "name": "😛小小",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
+        },
+        {
+            "key": "极光",
+            "name": "🦄极光",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
+        },
+        {
+            "key": "厂长",
+            "name": "🚬厂长",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/厂长.js"
+        },
+        {
+            "key": "影探",
+            "name": " 🕵影探",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/yt.js"
+        },
+        {
+            "key": "路人",
+            "name": "🖼画画",
+            "api": "csp_AppYs",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+        },
+        {
+            "key": "bttwo",
+            "name": "✌BTtwo",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/两个BT.js"
+        },
+        {
+            "key": "Libvio",
+            "name": "💐Lib",
+            "type": 3,
+            "playerType": "1",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"
+        },
+        {
+            "key": "saohuo",
+            "name": " 👗骚火",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/骚火.js"
+        },
+        {
+            "key": "低端",
+            "name": "🛣低端",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/ddys.js"
+        },
+        {
+            "key": "奇优",
+            "name": " 🍩奇优",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/奇优.js"
         },
         {
             "key": "csp_Nmys",
@@ -139,23 +242,8 @@
             "api": "csp_Nmys",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fanty.run.goorm.site/ext/nmys.json"
-        },
-        {
-            "key": "一起看 ",
-            "name": "🎉一起看",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌️比特",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "changeable": 0
+            "ext": "https://fanty.run.goorm.site/ext/nmys.json",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "zxzj",
@@ -164,106 +252,19 @@
             "api": "csp_Zxzj",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.zxzj.pro/"
-        },
-        {
-            "key": "DiDuan",
-            "name": "⏮️低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Auete",
-            "name": "🏝奥特",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://haozhansou.com/"
-        },
-        {
-            "key": "量子",
-            "name": "🌌量子",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "暴風",
-            "name": "🌪️暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "索尼",
-            "name": "🎮索尼 ",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快帆",
-            "name": "🏄快帆",
-            "type": 1,
-            "api": "https://api.kuaifan.tv/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "非凡",
-            "name": "🏂非凡",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Dm84",
-            "name": "🚌动漫巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ying",
-            "name": "💮樱花动漫",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ysj",
-            "name": "🎀异界动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "新6V",
-            "name": "🎭新6V",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
+            "ext": "https://www.zxzj.pro/",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
         },
         {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
+            "api": "csp_Panda",
             "type": 3,
-            "api": "csp_WoGG",
             "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "http://dt.xn--yety82d.love/玩偶表哥.json"
         },
         {
             "key": "紙條搜",
@@ -288,10 +289,20 @@
             "key": "盤搜索",
             "name": "🙀盘Se┃4K",
             "type": 3,
-            "api": "csp_PanSearch",
+            "api": "csp_Panda",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": {
+                "数组": "flex flex-col items-start&&</div></div><div",
+                "标题": "名称：&&描述：",
+                "副标题": "发布时间：&&</p>",
+                "图片": "<img src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
+                "timeout": 30,
+                "changeable": 0,
+                "阿里token": ""
+            }
         },
         {
             "key": "csp_Yiso",
@@ -300,16 +311,25 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": ""
         },
         {
             "key": "csp_AliPanSou",
             "name": "😼盘搜┃4K",
             "type": 3,
-            "api": "csp_PanSou",
+            "api": "csp_Panda",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": {
+                "标题": "<span*>&&</div>",
+                "副标题": "时间:&&格式",
+                "图片": "thumb=\"&&\"",
+                "链接": "/cv/+href=\"/s/&&\"",
+                "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
+                "timeout": 30,
+                "changeable": 0,
+                "阿里token": ""
+            }
         },
         {
             "key": "Upso",
@@ -318,16 +338,30 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "timeout": 30,
+            "ext": ""
         },
         {
             "key": "Zhaozy",
             "name": "😺找资源┃4K",
             "type": 3,
-            "api": "csp_Zhaozy",
+            "api": "csp_Panda",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt$$$fanty$$$qqq111"
+            "ext": {
+                "数组": "news_text&&</li>",
+                "标题": "<h3>&&</h3>",
+                "副标题": "时间：&&</p>",
+                "图片": "https://",
+                "链接": "/+href=\"&&\"",
+                "跳转数组": "</div>*<a&&</a>",
+                "跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"",
+                "搜索url": "https://zhaoziyuan.me/so?filename={wd}&page=1;;ckrS5",
+                "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
+                "timeout": 30,
+                "changeable": 0,
+                "阿里token": ""
+            }
         },
         {
             "key": "星星",
@@ -353,7 +387,8 @@
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
         },
         {
             "key": "haiwaikan",
@@ -377,10 +412,10 @@
             "key": "push_agent",
             "name": "推送",
             "type": 3,
-            "api": "csp_Push",
+            "api": "csp_PushAgent",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
         }
     ],
     "parses": [
