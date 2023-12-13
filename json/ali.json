@@ -12,7 +12,10 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt"
+            "playerType": 1,
+            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "直播3",
