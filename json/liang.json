@@ -163,7 +163,8 @@
             "playerType": "2",
             "searchable": 1,
             "changeable": 1,
-            "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+            "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod",
+            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
         },
         {
             "key": "影探",
@@ -282,13 +283,12 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
-            "key": "星星",
-            "name": "🌟星星┃需翻墙",
+            "key": "csp_Nbys",
+            "name": "✈️泥巴┃需翻墙",
             "type": 3,
-            "api": "csp_Star",
+            "api": "csp_NiNi",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "changeable": 1
         },
         {
             "key": "獨播",
@@ -298,14 +298,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://fm.t4tv.hz.cz/json/duboku.json"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "✈️泥巴┃需翻墙",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "haiwaikan",
