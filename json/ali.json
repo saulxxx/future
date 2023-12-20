@@ -167,6 +167,32 @@
             "ext": "影視天下第一$$$$$$fanty$$$qqq111"
         },
         {
+            "key": "csp_QuPanSou",
+            "name": "😽趣盘搜┃4K",
+            "type": 3,
+            "api": "csp_QuPanSou",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/quark_cookie.txt"
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png"
+        },
+        {
+            "key": "csp_Qkpanso",
+            "name": "😻夸克盘搜┃4K",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/quark_cookie.txt"
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png"
+        },
+        {
             "key": "csp_Dm84",
             "name": "🚌动漫巴士",
             "type": 3,
@@ -283,6 +309,16 @@
             ]
         },
         {
+            "name": "yqk",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666"
+            ]
+        },
+        {
             "name": "海外看",
             "hosts": [
                 "haiwaikan"
@@ -292,6 +328,7 @@
                 "10.3333",
                 "16.0599",
                 "8.1748",
+                "12.33",
                 "10.85"
             ]
         },
@@ -360,6 +397,20 @@
             "regex": [
                 "is_play_url="
             ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
         }
+    ],
+    "ads": [
+        "mozai.4gtv.tv"
     ]
 }

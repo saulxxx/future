@@ -111,10 +111,35 @@
             "ext": "https://fanty.run.goorm.site/ext/nmys.json"
         },
         {
+            "key": "csp_SP33",
+            "name": "📺360",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "一起看 ",
+            "name": "🎉一起看",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Bttoo",
             "name": "✌BTtwo",
             "type": 3,
             "api": "csp_Bttwoo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "DiDuan",
+            "name": "⏮️低端",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
             "searchable": 1,
             "changeable": 1
         },
@@ -128,13 +153,13 @@
             "ext": "https://www.libvio.pro/"
         },
         {
-            "key": "DiDuan",
-            "name": "⏮️低端",
+            "key": "zxzj",
+            "name": "🏠在线之家",
             "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
+            "api": "csp_Zxzj",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://www.zxzj.pro/"
         },
         {
             "key": "drpy_js_jp",
@@ -154,17 +179,6 @@
             "searchable": 1,
             "changeable": 0,
             "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-        },
-        {
-            "key": "路人",
-            "name": "🖼画画",
-            "api": "csp_AppYs",
-            "type": 3,
-            "playerType": "2",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod",
-            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar"
         },
         {
             "key": "影探",
@@ -329,14 +343,44 @@
     ],
     "parses": [
         {
-            "name": "777",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
+            "name": "神秘的哥哥们",
+            "type": 1,
+            "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
         },
         {
-            "name": "bozrc",
+            "name": "免费分享",
             "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -348,9 +392,9 @@
                     "优酷",
                     "mgtv",
                     "芒果",
+                    "imgo",
                     "letv",
-                    "leshi",
-                    "LS",
+                    "乐视",
                     "pptv",
                     "PPTV",
                     "sohu",
@@ -359,34 +403,9 @@
                     "哔哩"
                 ],
                 "header": {
-                    "User-Agent": ""
+                    "User-Agent": "okhttp/4.1.0"
                 }
             }
-        },
-        {
-            "name": "jsonplayer",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "zhanlangbu",
-            "type": 0,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
-            "name": "m3u8",
-            "type": 0,
-            "url": "https://jx.m3u8.pw/?url="
-        },
-        {
-            "name": "xmflv",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "yemu",
-            "type": 0,
-            "url": "https://www.yemu.xyz/?url="
         }
     ],
     "doh": [
@@ -464,6 +483,16 @@
             ]
         },
         {
+            "name": "yqk",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666"
+            ]
+        },
+        {
             "name": "海外看",
             "hosts": [
                 "haiwaikan"
@@ -473,6 +502,7 @@
                 "10.3333",
                 "16.0599",
                 "8.1748",
+                "12.33",
                 "10.85"
             ]
         },
@@ -541,6 +571,20 @@
             "regex": [
                 "is_play_url="
             ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
         }
+    ],
+    "ads": [
+        "mozai.4gtv.tv"
     ]
 }
