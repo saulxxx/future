@@ -162,6 +162,15 @@
             "ext": "https://www.zxzj.pro/"
         },
         {
+            "key": "新6V",
+            "name": "🎭新6V",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+        },
+        {
             "key": "drpy_js_jp",
             "name": "🎬荐片",
             "type": 3,
@@ -169,15 +178,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://fm.t4tv.hz.cz/json/jianpian.json",
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-        },
-        {
-            "key": "新6V",
-            "name": "🎭新6V",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 1,
-            "changeable": 0,
             "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
         },
         {
