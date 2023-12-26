@@ -10,10 +10,11 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播2",
+            "name": "fanmingming",
             "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 1,
-            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -100,6 +101,15 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://m.jmzp.net.cn"
+        },
+        {
+            "key": "九六",
+            "name": "🎀九九六",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_Nmys",
