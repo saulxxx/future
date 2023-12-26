@@ -176,7 +176,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/quark_cookie.txt"
+                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
             },
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png"
         },
@@ -189,7 +189,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/quark_cookie.txt"
+                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
             },
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png"
         },
