@@ -10,9 +10,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fanmingming",
+            "name": "直播2",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -21,7 +21,7 @@
         {
             "name": "直播3",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -104,7 +104,7 @@
         },
         {
             "key": "九六",
-            "name": "🎀九九六",
+            "name": "☕九九六",
             "type": 3,
             "api": "csp_Cs1369",
             "playerType": 2,
@@ -250,7 +250,7 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "七夜",
@@ -259,7 +259,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "盤搜索",
@@ -268,7 +268,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_Yiso",
@@ -277,7 +277,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_AliPanSou",
@@ -286,7 +286,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Upso",
@@ -295,7 +295,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "Zhaozy",
@@ -304,7 +304,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         },
         {
             "key": "csp_Nbys",
@@ -348,7 +348,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
         }
     ],
     "parses": [
@@ -591,6 +591,33 @@
                 "最 新",
                 "直 播",
                 "更 新"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         }
     ],

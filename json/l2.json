@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/main/ok.png",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.png",
     "lives": [
         {
             "name": "直播1",
@@ -10,9 +10,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fanmingming",
+            "name": "直播2",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -21,7 +21,7 @@
         {
             "name": "直播3",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -80,7 +80,7 @@
             "key": "mybili_open",
             "name": "🅱哔哩",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/mybili_open.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/open/mybili_open.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -88,7 +88,7 @@
             "key": "cntv_open",
             "name": "📺cntv",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -109,6 +109,17 @@
             "changeable": 0
         },
         {
+            "key": "盘99",
+            "name": "😈盘99|4K",
+            "type": 3,
+            "api": "csp_Pan99",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            }
+        },
+        {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
@@ -116,8 +127,8 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
-                "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
+                "filter": "https://ghproxy.net/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json"
             }
         },
         {
@@ -128,7 +139,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
             }
         },
         {
@@ -139,7 +150,40 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            }
+        },
+        {
+            "key": "csp_QuPanSou",
+            "name": "😽趣盘搜┃4K",
+            "type": 3,
+            "api": "csp_QuPanSou",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
+            }
+        },
+        {
+            "key": "csp_Qkpanso",
+            "name": "😻夸克盘搜┃4K",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
+            }
+        },
+        {
+            "key": "Zhaozy",
+            "name": "😺找资源┃4K",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
             }
         },
         {
@@ -150,7 +194,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
             }
         },
         {
@@ -161,7 +205,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
                 "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
             }
         },
@@ -173,7 +217,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
             }
         },
         {
@@ -184,7 +228,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
             }
         },
         {
@@ -195,40 +239,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
-            }
-        },
-        {
-            "key": "Zhaozy",
-            "name": "😺找资源┃4K",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
-            }
-        },
-        {
-            "key": "csp_QuPanSou",
-            "name": "😽趣盘搜┃4K",
-            "type": 3,
-            "api": "csp_QuPanSou",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
-            }
-        },
-        {
-            "key": "csp_Qkpanso",
-            "name": "😻夸克盘搜┃4K",
-            "type": 3,
-            "api": "csp_Qkpanso",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
             }
         },
         {
@@ -248,8 +259,8 @@
             "searchable": 0,
             "changeable": 0,
             "ext": {
-                "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
-                "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
+                "cookie": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
             }
         }
     ],
@@ -426,6 +437,33 @@
                 "最 新",
                 "直 播",
                 "更 新"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         }
     ],
