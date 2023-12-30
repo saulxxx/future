@@ -10,7 +10,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播2",
+            "name": "直播22",
             "type": 0,
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 1,
