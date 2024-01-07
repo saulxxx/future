@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.png",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/l2.png",
     "lives": [
         {
             "name": "直播1",
@@ -109,17 +109,6 @@
             "changeable": 0
         },
         {
-            "key": "盘99",
-            "name": "😈盘99|4K",
-            "type": 3,
-            "api": "csp_Pan99",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
-            }
-        },
-        {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
@@ -129,6 +118,19 @@
             "ext": {
                 "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
                 "filter": "https://ghproxy.net/https://raw.githubusercontent.com/okcaptain/okjar/rm/wogg.json"
+            }
+        },
+        {
+            "key": "运输车",
+            "name": "😾运输车|4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt",
+                "cookie": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt",
+                "site": "https://www.weixine.net"
             }
         },
         {
@@ -147,6 +149,17 @@
             "name": "🦊小纸条┃4K",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/tk.txt"
+            }
+        },
+        {
+            "key": "盘99",
+            "name": "😈盘99|4K",
+            "type": 3,
+            "api": "csp_Pan99",
             "searchable": 1,
             "changeable": 0,
             "ext": {
