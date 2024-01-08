@@ -73,7 +73,16 @@
             "playerType": 2,
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.czzy33.com/"
+            "ext": "https://www.czzy66.com/"
+        },
+        {
+            "key": "九六",
+            "name": "☕九九六",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "南瓜",
@@ -103,22 +112,13 @@
             "ext": "https://m.jmzp.net.cn"
         },
         {
-            "key": "九六",
-            "name": "☕九九六",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Nmys",
             "name": "🌾农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fanty.run.goorm.site/ext/nmys.json"
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
         },
         {
             "key": "csp_SP33",
@@ -175,20 +175,19 @@
             "key": "新6V",
             "name": "🎭新6V",
             "type": 3,
-            "api": "csp_Xb6v",
+            "api": "csp_SixV",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "ext": "http://www.xb6v.com/"
         },
         {
             "key": "drpy_js_jp",
             "name": "🎬荐片",
             "type": 3,
-            "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://fm.t4tv.hz.cz/json/jianpian.json",
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
         },
         {
             "key": "影探",
