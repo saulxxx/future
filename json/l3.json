@@ -257,6 +257,33 @@
             "ext": "./libs/tp.json$$$https://www.pikaso.top/$$$null"
         },
         {
+            "key": "秒搜",
+            "name": "👿秒搜┃4K",
+            "type": 3,
+            "api": "csp_MiaoSou",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./libs/tp.json"
+        },
+        {
+            "key": "Qianfan",
+            "name": "🏄千帆┃4K",
+            "type": 3,
+            "api": "csp_Qianfan",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./libs/tp.json$$$https://pan.qianfan.app$$$null$$$./libs/qianfan.txt"
+        },
+        {
+            "key": "YunSo",
+            "name": "🙉小云┃4K",
+            "type": 3,
+            "api": "csp_YunSo",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./libs/tp.json"
+        },
+        {
             "key": "Zhaozy",
             "name": "😺找资源┃4K",
             "type": 3,
