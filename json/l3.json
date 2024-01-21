@@ -26,15 +26,6 @@
     ],
     "sites": [
         {
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "./libs/douban.json"
-		},
-        {
             "key": "drpy_js_douban",
             "name": "🍒豆瓣荐片",
             "type": 3,
@@ -180,6 +171,24 @@
             "name": "😼盘搜┃4K",
             "type": 3,
             "api": "csp_PanSou",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./libs/tp.json"
+        },
+        {
+            "key": "88Pan",
+            "name": "🌱88网盘┃4K",
+            "type": 3,
+            "api": "csp_EightEight",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./libs/tp.json$$$https://662688.xyz"
+        },
+        {
+            "key": "秒搜",
+            "name": "🌲秒搜┃4K",
+            "type": 3,
+            "api": "csp_MiaoSou",
             "searchable": 1,
             "changeable": 0,
             "ext": "./libs/tp.json"
