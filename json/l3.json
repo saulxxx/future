@@ -363,6 +363,15 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "./libs/tp.json$$$./libs/quarkshare.txt"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./libs/tp.json"
         }
     ],
     "doh": [
