@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./json/l3.jar;md5;3a4e885aa60dfdcc08099bef67796876",
+    "spider": "./pg.jar;md5;3a4e885aa60dfdcc08099bef67796876",
     "lives": [
         {
             "name": "直播1",
@@ -101,7 +101,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/jianpian.json$$$0"
+            "ext": "./lib/jianpian.json$$$0"
         },
         {
             "key": "玩偶",
@@ -110,7 +110,7 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$0$$$./libs/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$0$$$./lib/wogg.json"
         },
         {
             "key": "运输车",
@@ -119,7 +119,7 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://www.weixine.net/$$$null$$$0$$$./libs/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$0$$$./lib/wogg.json"
         },
         {
             "key": "七夜",
@@ -128,7 +128,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "紙條搜",
@@ -137,7 +137,7 @@
             "api": "csp_Gitcafe",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "盘99",
@@ -146,7 +146,7 @@
             "api": "csp_Pan99",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://pan99.xyz$$$null$$$0"
+            "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$0"
         },
         {
             "key": "csp_Funletu",
@@ -155,7 +155,7 @@
             "api": "csp_Funletu",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "csp_QuarkPanso",
@@ -164,7 +164,7 @@
             "api": "csp_QuarkPanso",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "csp_AliPanSou",
@@ -173,7 +173,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "88Pan",
@@ -182,7 +182,7 @@
             "api": "csp_EightEight",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://662688.xyz"
+            "ext": "./lib/tokenm.json$$$https://662688.xyz"
         },
         {
             "key": "秒搜",
@@ -191,7 +191,7 @@
             "api": "csp_MiaoSou",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "混合盘",
@@ -200,7 +200,7 @@
             "api": "csp_HunHePan",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "DaPanSo",
@@ -209,7 +209,7 @@
             "api": "csp_DaPanSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://dapanso.com$$$null"
+            "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
         },
         {
             "key": "YunPanOne",
@@ -218,7 +218,7 @@
             "api": "csp_YunPanOne",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "Hdhive",
@@ -227,7 +227,7 @@
             "api": "csp_Hdhive",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$null$$$0"
+            "ext": "./lib/tokenm.json$$$null$$$0"
         },
         {
             "key": "Ppxzy",
@@ -236,7 +236,7 @@
             "api": "csp_Ppxzy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://ppxzy.net$$$null$$$0"
+            "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$0"
         },
         {
             "key": "校长影视",
@@ -245,7 +245,7 @@
             "api": "csp_XiaoZhang",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$null$$$0"
+            "ext": "./lib/tokenm.json$$$null$$$0"
         },
         {
             "key": "团长资源",
@@ -254,7 +254,7 @@
             "api": "csp_TZFile",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$null$$$0"
+            "ext": "./lib/tokenm.json$$$null$$$0"
         },
         {
             "key": "Libvio",
@@ -263,7 +263,7 @@
             "api": "csp_Libvio",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://www.libvio.pro$$$null"
+            "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
         },
         {
             "key": "PikaSo",
@@ -272,7 +272,7 @@
             "api": "csp_PikaSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$https://www.pikaso.top/$$$null"
+            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
         },
         {
             "key": "Zhaozy",
@@ -281,7 +281,7 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$user$$$pass"
+            "ext": "./lib/tokenm.json$$$user$$$pass"
         },
         {
             "key": "盤搜索",
@@ -290,7 +290,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "csp_Yiso",
@@ -299,7 +299,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "Upso",
@@ -308,7 +308,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "云盘4K",
@@ -317,7 +317,7 @@
             "api": "csp_FourKHDR",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "應用商店",
@@ -335,7 +335,7 @@
             "api": "csp_PikPakShare",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$./libs/pikpakclass.json$$$./libs/pikpakclass.json.txt.gz"
+            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
         },
         {
             "key": "AliShare",
@@ -344,7 +344,7 @@
             "api": "csp_AliShare",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$./libs/alishare.txt"
+            "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
         },
         {
             "key": "ThunderShare",
@@ -353,7 +353,7 @@
             "api": "csp_ThunderShare",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$./libs/thundershare.txt"
+            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
         },
         {
             "key": "QuarkShare",
@@ -362,7 +362,7 @@
             "api": "csp_QuarkShare",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./libs/tp.json$$$./libs/quarkshare.txt"
+            "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt"
         },
         {
             "key": "push_agent",
@@ -371,7 +371,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./libs/tp.json"
+            "ext": "./lib/tokenm.json"
         }
     ],
     "doh": [
