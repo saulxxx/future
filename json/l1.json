@@ -12,7 +12,7 @@
         {
             "name": "直播2",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -21,7 +21,7 @@
         {
             "name": "直播3",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         }
     ],
     "sites": [
@@ -69,7 +69,7 @@
             "key": "mybili_open",
             "name": "🅱哔哩",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/open/mybili_open.js",
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/open/mybili_open.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -77,7 +77,7 @@
             "key": "cntv_open",
             "name": "📺cntv",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
             "searchable": 0,
             "changeable": 0
         },
@@ -144,9 +144,9 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
+                "cookie": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
             },
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/l2.png"
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/json/l2.png"
         },
         {
             "key": "csp_Qkpanso",
@@ -157,9 +157,9 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
+                "cookie": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/json/ck.txt"
             },
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/saulxxx/future/main/json/l2.png"
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/json/l2.png"
         },
         {
             "key": "Zhaozy",
