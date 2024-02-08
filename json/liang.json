@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707366638426/fan.txt",
     "lives": [
         {
             "name": "直播1",
@@ -73,8 +73,7 @@
             "changeable": 0,
             "style": {
                 "type": "list"
-            },
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            }
         },
         {
             "key": "MV_vod",
@@ -95,16 +94,7 @@
             "playerType": 2,
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.czzy66.com/"
-        },
-        {
-            "key": "九六",
-            "name": "☕九九六",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
+            "ext": "https://www.czzy55.com/"
         },
         {
             "key": "南瓜",
@@ -124,16 +114,6 @@
             "changeable": 1
         },
         {
-            "key": "河马",
-            "name": "🦛河马",
-            "type": 3,
-            "api": "csp_Hmys",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://m.jmzp.net.cn"
-        },
-        {
             "key": "csp_Nmys",
             "name": "🌾农民",
             "type": 3,
@@ -149,7 +129,7 @@
             "api": "csp_Kuaikan",
             "searchable": 1,
             "changeable": 1,
-            "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar"
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar"
         },
         {
             "key": "csp_SP33",
@@ -176,22 +156,13 @@
             "changeable": 1
         },
         {
-            "key": "DiDuan",
-            "name": "⏮️低端",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Lib",
             "name": "💐Lib",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.pro/"
+            "ext": "https://www.libvio.la/"
         },
         {
             "key": "zxzj",
@@ -226,8 +197,8 @@
             "type": 3,
             "searchable": 1,
             "changeable": 1,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/yt.js"
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/yt.js"
         },
         {
             "key": "saohuo",
@@ -236,8 +207,8 @@
             "playerType": "2",
             "searchable": 1,
             "changeable": 1,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/骚火.js"
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/骚火.js"
         },
         {
             "key": "奇优",
@@ -246,24 +217,40 @@
             "playerType": "2",
             "searchable": 1,
             "changeable": 1,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/奇优.js"
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/奇优.js"
+        },
+        {
+            "key": "低端",
+            "name": "🛣低端",
+            "type": 3,
+            "playerType": "2",
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/ddys.js"
         },
         {
             "key": "爱看影视",
             "name": "❤爱看",
             "type": 3,
             "playerType": "2",
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/爱看.js"
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/爱看.js"
         },
         {
             "key": "圣城影视",
             "name": "🏰圣城",
             "type": 3,
             "playerType": "2",
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-            "ext": "https://d.kstore.space/download/6296/js/SC1080.js"
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/SC1080.js"
+        },
+        {
+            "key": "云播影视",
+            "name": "☁️云播",
+            "type": 3,
+            "playerType": "2",
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
         },
         {
             "key": "csp_Dm84",
