@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;75857d67f11eee54879323bd780ee1e5",
+    "spider": "./pg.jar;md5;2516d2e46a5bfee7e6a4e5eb1743a6bd",
     "lives": [
         {
             "name": "直播1",
@@ -49,25 +49,25 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🍒豆瓣",
+            "name": "🌕豆瓣",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
-            "changeable": 1,
+            "changeable": 0,
             "ext": "./lib/douban.json"
         },
         {
-            "key": "If_js_douban",
-            "name": "🍑豆瓣",
+            "key": "drpy_js_豆瓣",
+            "name": "🐼豆瓣",
             "type": 3,
-            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
         },
         {
             "key": "配置中心",
-            "name": "配置中心",
+            "name": "🎮配置中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -76,6 +76,15 @@
                 "type": "rect",
                 "ratio": 1.43
             }
+        },
+        {
+            "key": "應用商店",
+            "name": "🎏应用商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json"
         },
         {
             "key": "看球",
@@ -117,265 +126,422 @@
             "changeable": 0
         },
         {
-            "key": "drpy_js_jp",
-            "name": "🎬荐片",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/jianpian.json$$$0"
-        },
-        {
-            "key": "玩偶",
-            "name": "👽玩偶┃4K",
+            "key": "Wogg",
+            "name": "🐵玩偶哥哥|网盘",
             "type": 3,
             "api": "csp_Wogg",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$https://wogg.xyz/|104.16.245.50$$$null$$$0$$$./lib/wogg.json"
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$0$$$./lib/wogg.json"
         },
         {
-            "key": "运输车",
-            "name": "😾运输车|4K",
+            "key": "Wobg",
+            "name": "🐒玩偶表哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$0$$$./lib/wogg.json"
+        },
+        {
+            "key": "影视车",
+            "name": "🦍影视车|网盘",
             "type": 3,
             "api": "csp_Wogg",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$0$$$./lib/wogg.json"
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$0$$$./lib/wogg.json"
         },
         {
-            "key": "七夜",
-            "name": "🐺七夜┃4K",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "紙條搜",
-            "name": "🦊小纸条┃4K",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "盘99",
-            "name": "😈盘99|4K",
+            "key": "Pan99",
+            "name": "🐶盘99|网盘",
             "type": 3,
             "api": "csp_Pan99",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$0"
         },
         {
-            "key": "csp_Funletu",
-            "name": "😽趣盘搜┃4K",
-            "type": 3,
-            "api": "csp_Funletu",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "csp_QuarkPanso",
-            "name": "😻夸克盘搜┃4K",
-            "type": 3,
-            "api": "csp_QuarkPanso",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "csp_AliPanSou",
-            "name": "😼盘搜┃4K",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "88Pan",
-            "name": "🌱88网盘┃4K",
-            "type": 3,
-            "api": "csp_EightEight",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json$$$https://662688.xyz"
-        },
-        {
-            "key": "秒搜",
-            "name": "🌲秒搜┃4K",
-            "type": 3,
-            "api": "csp_MiaoSou",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "混合盘",
-            "name": "👺混合盘┃4K",
-            "type": 3,
-            "api": "csp_HunHePan",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "DaPanSo",
-            "name": "🤡大盘搜┃4K",
-            "type": 3,
-            "api": "csp_DaPanSo",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
-        },
-        {
-            "key": "YunPanOne",
-            "name": "👹云盘┃4K",
-            "type": 3,
-            "api": "csp_YunPanOne",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
             "key": "Hdhive",
-            "name": "👻影巢┃4K",
+            "name": "🐕影巢|网盘",
             "type": 3,
             "api": "csp_Hdhive",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
             "ext": "./lib/tokenm.json$$$null$$$0"
         },
         {
             "key": "Ppxzy",
-            "name": "🦐皮皮虾┃4K",
+            "name": "🐩皮皮虾|网盘",
             "type": 3,
             "api": "csp_Ppxzy",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$0"
         },
         {
             "key": "校长影视",
-            "name": "🧛‍♂️校长┃4K",
+            "name": "🐱校长影视|网盘",
             "type": 3,
             "api": "csp_XiaoZhang",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$null$$$0"
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$0"
         },
         {
             "key": "团长资源",
-            "name": "🧛‍♀️团长┃4K",
+            "name": "🐈团长资源|网盘",
             "type": 3,
             "api": "csp_TZFile",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
             "ext": "./lib/tokenm.json$$$null$$$0"
         },
         {
+            "key": "美剧迷",
+            "name": "🐯美剧迷|网盘",
+            "type": 3,
+            "api": "csp_Meijumi",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$0"
+        },
+        {
             "key": "Libvio",
-            "name": "🙈LIBVIO┃4K",
+            "name": "🐅LIBVIO|网盘",
             "type": 3,
             "api": "csp_Libvio",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
         },
         {
-            "key": "PikaSo",
-            "name": "🚚皮卡搜┃4K",
+            "key": "新6V",
+            "name": "🐆新6V|网盘",
             "type": 3,
-            "api": "csp_PikaSo",
+            "api": "csp_Xb6v",
             "searchable": 1,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$0"
         },
         {
-            "key": "Zhaozy",
-            "name": "😺找资源┃4K",
+            "key": "Moli",
+            "name": "🐴HDmoli|网盘",
             "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
+            "api": "csp_Moli",
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$user$$$pass"
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$0$$$./lib/moli.json"
         },
         {
-            "key": "盤搜索",
-            "name": "🙀盘Se┃4K",
+            "key": "盘友圈",
+            "name": "🐎盘友圈|网盘",
+            "type": 3,
+            "api": "csp_Panyq",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "PanSearch",
+            "name": "🦓PanSearch|网盘",
             "type": 3,
             "api": "csp_PanSearch",
-            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
             "ext": "./lib/tokenm.json"
         },
         {
-            "key": "csp_Yiso",
-            "name": "😹易搜┃4K",
+            "key": "YunPanOne",
+            "name": "🦌云盘资源|网盘",
+            "type": 3,
+            "api": "csp_YunPanOne",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$1"
+        },
+        {
+            "key": "Dovx",
+            "name": "🐺Dovx|网盘",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "🦊小纸条|网盘",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "DaPanSo",
+            "name": "🐮大盘搜|网盘",
+            "type": 3,
+            "api": "csp_DaPanSo",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null$$$0"
+        },
+        {
+            "key": "Qianfan",
+            "name": "🐂千帆|网盘",
+            "type": 3,
+            "api": "csp_Qianfan",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
+        },
+        {
+            "key": "Xpanpan",
+            "name": "🐃小盘盘|网盘",
+            "type": 3,
+            "api": "csp_Xpanpan",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$null$$$0",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "88Pan",
+            "name": "🐄88网盘|网盘",
+            "type": 3,
+            "api": "csp_EightEight",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://662688.xyz",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "易搜",
+            "name": "🐷易搜|网盘",
             "type": 3,
             "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
-            "key": "Upso",
-            "name": "😸云搜┃4K",
+            "key": "混合盘",
+            "name": "🐖混合盘|网盘",
             "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json"
+            "api": "csp_HunHePan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
-            "key": "云盘4K",
-            "name": "😿4KHDR┃4K",
+            "key": "秒搜",
+            "name": "🐗秒搜|网盘",
+            "type": 3,
+            "api": "csp_MiaoSou",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "Funletu",
+            "name": "🐽趣盘搜|夸克",
+            "type": 3,
+            "api": "csp_Funletu",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "QuarkPanso",
+            "name": "🐏夸克盘搜|夸克",
+            "type": 3,
+            "api": "csp_QuarkPanso",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "Panta",
+            "name": "🐑盘Ta|网盘",
+            "type": 3,
+            "api": "csp_Panta",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$0",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "PikaSo",
+            "name": "🐐皮卡搜|网盘",
+            "type": 3,
+            "api": "csp_PikaSo",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "YunSo",
+            "name": "🐪小云搜索|网盘",
+            "type": 3,
+            "api": "csp_YunSo",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.yunso.net$$$null$$$0",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "4KHDR",
+            "name": "🐫4KHDR|网盘",
             "type": 3,
             "api": "csp_FourKHDR",
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "UP云搜",
+            "name": "🦙阿里|UP云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "timeout": 30,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "PushShare",
+            "name": "我的资源分享",
+            "type": 3,
+            "api": "csp_PushShare",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "./lib/tokenm.json"
-        },
-        {
-            "key": "應用商店",
-            "name": "🎏应用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://fm.t4tv.hz.cz/json/market.json"
-        },
-        {
-            "key": "PikPakShare",
-            "name": "PikPak分享",
-            "type": 3,
-            "api": "csp_PikPakShare",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
             "key": "AliShare",
-            "name": "阿里云盘分享",
+            "name": "阿里云盘影视分享",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "AliShareEBook",
+            "name": "阿里云盘书籍分享",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
-        },
-        {
-            "key": "ThunderShare",
-            "name": "迅雷云盘分享",
-            "type": 3,
-            "api": "csp_ThunderShare",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt"
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
             "key": "QuarkShare",
@@ -383,8 +549,59 @@
             "type": 3,
             "api": "csp_QuarkShare",
             "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0,
-            "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt"
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "ThunderShare",
+            "name": "迅雷云盘分享",
+            "type": 3,
+            "api": "csp_ThunderShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/thundershare.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "PikPakShare",
+            "name": "PikPak分享",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "SambaShare",
+            "name": "Samba分享",
+            "type": 3,
+            "api": "csp_SambaShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/sambashare.txt"
         },
         {
             "key": "push_agent",
@@ -457,27 +674,8 @@
                 "uhibo.com",
                 ".*boku.*",
                 ".*nivod.*",
+                "*.t4tv.hz.cz",
                 ".*ulivetv.*"
-            ]
-        },
-        {
-            "name": "索尼",
-            "hosts": [
-                "suonizy"
-            ],
-            "regex": [
-                "15.1666",
-                "15.2666"
-            ]
-        },
-        {
-            "name": "yqk",
-            "hosts": [
-                "yqk88"
-            ],
-            "regex": [
-                "18.4",
-                "15.1666"
             ]
         },
         {
@@ -486,12 +684,10 @@
                 "haiwaikan"
             ],
             "regex": [
+                "8.1748",
                 "10.0099",
                 "10.3333",
-                "16.0599",
-                "8.1748",
-                "12.33",
-                "10.85"
+                "16.0599"
             ]
         },
         {
@@ -530,16 +726,86 @@
                 "hd.ffzy"
             ],
             "regex": [
-                "25.0666"
+                "25.0666",
+                "25.08"
             ]
         },
         {
-            "name": "農民嗅探",
-            "hosts": [
-                "toutiaovod.com"
+            "host": "www.djuu.com",
+            "rule": [
+                "mp4.djuu.com",
+                "m4a"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "huoshan.com",
+                "/item/video/"
             ],
-            "regex": [
-                "video/tos/cn"
+            "filter": []
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "sovv.qianpailive.com",
+                "vid="
+            ],
+            "filter": []
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "douyin.com",
+                "/play/"
+            ]
+        },
+        {
+            "host": "m.ysxs8.vip",
+            "rule": [
+                "ysting.ysxs8.vip:81",
+                "xmcdn.com"
+            ],
+            "filter": []
+        },
+        {
+            "host": "hdmoli.com",
+            "rule": [
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "https://api.live.bilibili.com",
+            "rule": [
+                "bilivideo.com",
+                "/index.m3u8"
+            ],
+            "filter": [
+                "data.bilibili.com/log/web",
+                "i0.hdslb.com/bfs/live/"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "www.fun4k.com",
+            "rule": [
+                "https://hd.ijycnd.com/play",
+                "index.m3u8"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time=",
+                "key=",
+                "path="
             ]
         },
         {
@@ -561,23 +827,12 @@
             ]
         },
         {
-            "name": "cl",
+            "name": "農民嗅探",
             "hosts": [
-                "magnet"
+                "toutiaovod.com"
             ],
             "regex": [
-                "最 新",
-                "直 播",
-                "更 新"
-            ]
-        },
-        {
-            "name": "七新嗅探",
-            "hosts": [
-                "api.52wyb.com"
-            ],
-            "regex": [
-                "m3u8?pt=m3u8"
+                "video/tos/cn"
             ]
         },
         {
@@ -596,6 +851,30 @@
             ],
             "script": [
                 "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
             ]
         }
     ],
