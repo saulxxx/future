@@ -236,16 +236,6 @@
             "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
         },
         {
-            "key": "新6V",
-            "name": "🐆新6V|网盘",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$0"
-        },
-        {
             "key": "Moli",
             "name": "🐴HDmoli|网盘",
             "type": 3,
@@ -485,7 +475,7 @@
         },
         {
             "key": "UP云搜",
-            "name": "🦙阿里|UP云搜",
+            "name": "🦙UP云搜|网盘",
             "type": 3,
             "api": "csp_UpYun",
             "timeout": 30,
