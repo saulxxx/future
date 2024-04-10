@@ -127,7 +127,7 @@
         },
         {
             "key": "NanGua",
-            "name": "南瓜|弹幕",
+            "name": "🎃南瓜",
             "type": 3,
             "api": "csp_NanGua",
             "searchable": 1,
@@ -136,7 +136,7 @@
         },
         {
             "key": "快看",
-            "name": "快看",
+            "name": "👀快看",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -145,8 +145,19 @@
             "filterable": 1
         },
         {
+            "key": "Xinshijue",
+            "name": "🦚新视觉",
+            "type": 3,
+            "api": "csp_Xinshijue",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"
+        },
+        {
             "key": "愛看",
-            "name": "愛看",
+            "name": "❤️爱看",
             "type": 3,
             "api": "./js/ikanbot_open.js",
             "searchable": 1,
@@ -154,7 +165,7 @@
         },
         {
             "key": "賤賤",
-            "name": "荐片",
+            "name": "🎬荐片",
             "type": 3,
             "api": "csp_Jianpian",
             "searchable": 1,
@@ -164,7 +175,7 @@
         },
         {
             "key": "YQKan",
-            "name": "一起看",
+            "name": "🎉一起看",
             "type": 3,
             "api": "csp_YQKan",
             "searchable": 1,
@@ -173,8 +184,15 @@
             "changeable": 1
         },
         {
+            "key": "csp_YingShi",
+            "name": "🐝影视",
+            "type": 3,
+            "api": "csp_YingShi",
+            "ext": "proxy"
+        },
+        {
             "key": "天天",
-            "name": "天天┃App",
+            "name": "🐶天天",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -182,7 +200,7 @@
         },
         {
             "key": "追剧",
-            "name": "追剧┃App",
+            "name": "🦄追剧",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -190,7 +208,7 @@
         },
         {
             "key": "XBPQ_文才",
-            "name": "文才|XBPQ",
+            "name": "🐳文才",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -231,7 +249,7 @@
         },
         {
             "key": "XBPQ_BaiPiao",
-            "name": "白嫖影视|XBPQ",
+            "name": "☃️白嫖",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -243,7 +261,7 @@
         },
         {
             "key": "XBPQ_黑狐影院",
-            "name": "黑狐影院|XBPQ",
+            "name": "🦊黑狐影院",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./lib/XBPQ.jar",
@@ -281,43 +299,8 @@
             }
         },
         {
-            "key": "XBPQ_电影先生",
-            "name": "电影先生|XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-                "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-                "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-                "搜索数组": "<div class=\"module-item-pic\">&&</div>",
-                "图片": "src=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索副标题": ">&&</a>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-                "播放数组": "<div class=\"scroll-content\">&&</div>",
-                "播放标题": "<span>&&</span>",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-            }
-        },
-        {
-            "key": "XBPQ_麻衣影院",
-            "name": "麻衣影院|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
-            }
-        },
-        {
             "key": "櫻花",
-            "name": "櫻花",
+            "name": "💮櫻花",
             "type": 3,
             "api": "csp_Ying",
             "searchable": 1,
@@ -325,7 +308,7 @@
         },
         {
             "key": "巴士",
-            "name": "巴士",
+            "name": "🚌巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -333,7 +316,7 @@
         },
         {
             "key": "異界",
-            "name": "異界",
+            "name": "🎀異界",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
@@ -341,7 +324,7 @@
         },
         {
             "key": "短剧",
-            "name": "短剧",
+            "name": "🌈短剧",
             "type": 3,
             "api": "csp_Duanju",
             "searchable": 0,
@@ -350,7 +333,7 @@
         },
         {
             "key": "ikun",
-            "name": "ikun",
+            "name": "🐞ikun",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
@@ -360,7 +343,7 @@
         },
         {
             "key": "飞速资源",
-            "name": "飞速资源",
+            "name": "🦜飞速资源",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
@@ -369,35 +352,8 @@
             "changeable": 1
         },
         {
-            "key": "暴風",
-            "name": "暴風",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "索尼",
-            "name": "索尼 ",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快帆",
-            "name": "快帆",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "量子",
-            "name": "量子",
+            "name": "🎆量子",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
@@ -407,7 +363,7 @@
         },
         {
             "key": "非凡",
-            "name": "非凡",
+            "name": "🏂非凡",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
@@ -448,7 +404,7 @@
         },
         {
             "key": "Bt0",
-            "name": "不太灵|磁力",
+            "name": "🦑不太灵|磁力",
             "type": 3,
             "api": "csp_Bt0",
             "quickSearch": 1,
@@ -459,7 +415,7 @@
         },
         {
             "key": "Bdys_spider",
-            "name": "哔滴┃磁力",
+            "name": "🦉哔滴┃磁力",
             "api": "csp_Bdys01",
             "type": 3,
             "filterable": 1,
@@ -469,7 +425,7 @@
         },
         {
             "key": "新6V",
-            "name": "新6V┃磁力",
+            "name": "🎭新6V┃磁力",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
@@ -478,39 +434,16 @@
             "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
-            "key": "BLSGod",
-            "name": "BLSGod┃磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "changeable": 1,
-            "timeout": 60
-        },
-        {
             "key": "Xunlei8",
-            "name": "Xunlei8┃磁力",
+            "name": "🕊Xunlei8|磁力",
             "type": 3,
             "api": "csp_Xunlei8",
             "changeable": 1,
             "timeout": 60
         },
         {
-            "key": "SeedHub",
-            "name": "SeedHub┃磁力",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "changeable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "csp_YingShi",
-            "name": "影视|海外",
-            "type": 3,
-            "api": "csp_YingShi",
-            "ext": "proxy"
-        },
-        {
             "key": "泥巴",
-            "name": "泥巴 | 海外",
+            "name": "✈️泥巴 | 海外",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -520,7 +453,7 @@
         },
         {
             "key": "星星",
-            "name": "星星 | 海外",
+            "name": "⭐️星星 | 海外",
             "type": 3,
             "api": "csp_Star",
             "searchable": 1,
@@ -529,55 +462,12 @@
         },
         {
             "key": "獨播",
-            "name": "獨播 | 海外",
+            "name": "🍀獨播 | 海外",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
             "changeable": 0,
             "ext": "./lib/duboku.json$$$proxy"
-        },
-        {
-            "key": "haiwaikan",
-            "name": "海外看",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
         },
         {
             "key": "push_agent",

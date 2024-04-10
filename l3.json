@@ -196,17 +196,6 @@
             "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
-            "key": "Xinshijue",
-            "name": "🍉新视觉|网盘",
-            "type": 3,
-            "api": "csp_Xinshijue",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"
-        },
-        {
             "key": "影视车",
             "name": "🍇影视车|网盘",
             "type": 3,
@@ -413,7 +402,7 @@
         },
         {
             "key": "PikaSo",
-            "name": "🧄皮卡搜|网盘",
+            "name": "🍉皮卡搜|网盘",
             "type": 3,
             "api": "csp_PikaSo",
             "quickSearch": 1,
@@ -425,17 +414,6 @@
                 "type": "list",
                 "ratio": 1.1
             }
-        },
-        {
-            "key": "Qianfan",
-            "name": "🧅千帆|网盘",
-            "type": 3,
-            "api": "csp_Qianfan",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
         },
         {
             "key": "YunSo",
@@ -489,6 +467,17 @@
                 "type": "list",
                 "ratio": 1.1
             }
+        },
+        {
+            "key": "Qianfan",
+            "name": "🍞千帆|网盘",
+            "type": 3,
+            "api": "csp_Qianfan",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
         },
         {
             "key": "PushShare",
