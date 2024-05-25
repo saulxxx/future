@@ -126,16 +126,37 @@
             "changeable": 0
         },
         {
-            "key": "混合盘",
-            "name": "🥝混合盘|网盘",
+            "key": "Wogg",
+            "name": "🍊玩偶哥哥|网盘",
             "type": 3,
-            "api": "csp_HunHePan",
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
+            "ext": "./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
+        },
+        {
+            "key": "Wobg",
+            "name": "🍋玩偶表哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"
+        },
+        {
+            "key": "yydsys",
+            "name": "🍌玩偶老哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "88Pan",
@@ -191,6 +212,30 @@
             "ext": "./lib/tokenm.json$$$proxy$$$1"
         },
         {
+            "key": "秒搜",
+            "name": "🥬秒搜|网盘",
+            "type": 3,
+            "api": "csp_MiaoSou",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "混合盘",
+            "name": "🥝混合盘|网盘",
+            "type": 3,
+            "api": "csp_HunHePan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
             "key": "美剧迷",
             "name": "🍏美剧迷|网盘",
             "type": 3,
@@ -226,39 +271,6 @@
                 "type": "list",
                 "ratio": 1.1
             }
-        },
-        {
-            "key": "Wogg",
-            "name": "🍊玩偶哥哥|网盘",
-            "type": 3,
-            "api": "csp_Wogg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
-        },
-        {
-            "key": "Wobg",
-            "name": "🍋玩偶表哥|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"
-        },
-        {
-            "key": "yydsys",
-            "name": "🍌玩偶老哥|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Gaoqing",
@@ -379,18 +391,6 @@
             "api": "csp_YiSo",
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
-            "key": "秒搜",
-            "name": "🥬秒搜|网盘",
-            "type": 3,
-            "api": "csp_MiaoSou",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
