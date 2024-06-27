@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
+    "spider": "./pg.jar;md5;564bd67750587cfd3cd33f8cc74631dd",
     "lives": [
         {
             "name": "直播1",
@@ -57,15 +57,6 @@
             "ext": "./lib/douban.json"
         },
         {
-            "key": "drpy_js_豆瓣",
-            "name": "🐼豆瓣",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
-        },
-        {
             "key": "配置中心",
             "name": "🎮配置中心",
             "type": 3,
@@ -85,6 +76,28 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://fm.t4tv.hz.cz/json/market.json"
+        },
+        {
+            "key": "Youtube",
+            "name": "🐼Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/youtube.json",
+                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": "",
+                "proxy": "proxy"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
         },
         {
             "key": "看球",
@@ -532,7 +545,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$192.168.101.1:1080$$$1"
+            "ext": "./lib/tokenm.json$$$null$$$noproxy$$$1"
         },
         {
             "key": "Bdys_spider",
@@ -542,7 +555,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "https://www.yjys.me/$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
         },
         {
             "key": "新6V",
@@ -555,12 +568,18 @@
             "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
-            "key": "Xunlei8",
-            "name": "🕊Xunlei8|磁力",
+            "key": "迅雷8",
+            "name": "🕊迅雷吧|磁力|XBPQ",
             "type": 3,
-            "api": "csp_Xunlei8",
-            "changeable": 1,
-            "timeout": 60
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "播放数组": "copylink&&</a>",
+                "播放链接": "alt=\"&&\"",
+                "简介": "b1f40f7888\"&&</p>",
+                "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
+                "分类": "电视剧$tv#电影$list"
+            }
         },
         {
             "key": "小白",
