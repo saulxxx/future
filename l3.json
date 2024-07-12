@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;26b9c489cf02b01fc6e60a252041b9ef",
+    "spider": "./pg.jar;md5;d9cad49cadbad43133bdc27d3a4ba559",
     "lives": [
         {
             "name": "直播1",
@@ -93,7 +93,7 @@
                 "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
                 "codecs": "",
                 "proxy": "proxy",
-				"danmu":true
+                "danmu": true
             },
             "style": {
                 "type": "rect",
@@ -173,6 +173,17 @@
             "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
+            "key": "蜡笔网盘",
+            "name": "🧇蜡笔|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+        },
+        {
             "key": "88Pan",
             "name": "🍅88网盘|网盘",
             "type": 3,
@@ -238,6 +249,29 @@
             }
         },
         {
+            "key": "YingSo",
+            "name": "🥥影搜|网盘",
+            "type": 3,
+            "api": "csp_YingSo",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "Xpanpan",
+            "name": "🍐小盘盘|网盘",
+            "type": 3,
+            "api": "csp_Xpanpan",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
             "key": "混合盘",
             "name": "🥝混合盘|网盘",
             "type": 3,
@@ -248,6 +282,28 @@
                 "type": "list",
                 "ratio": 1.1
             }
+        },
+        {
+            "key": "校长影视",
+            "name": "🥭校长影视|网盘",
+            "type": 3,
+            "api": "csp_XiaoZhang",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+        },
+        {
+            "key": "团长资源",
+            "name": "🍓团长资源|网盘",
+            "type": 3,
+            "api": "csp_TZFile",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$noproxy$$$1"
         },
         {
             "key": "美剧迷",
@@ -270,21 +326,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
-        },
-        {
-            "key": "Xpanpan",
-            "name": "🍐小盘盘|网盘",
-            "type": 3,
-            "api": "csp_Xpanpan",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
         },
         {
             "key": "Gaoqing",
@@ -320,17 +361,6 @@
             "ext": "./lib/tokenm.json$$$https://6080z.com/$$$proxy$$$1$$$./lib/wogg.json"
         },
         {
-            "key": "团长资源",
-            "name": "🍓团长资源|网盘",
-            "type": 3,
-            "api": "csp_TZFile",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$noproxy$$$1"
-        },
-        {
             "key": "Moli",
             "name": "🍈HDmoli|网盘",
             "type": 3,
@@ -353,31 +383,12 @@
             "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
         },
         {
-            "key": "校长影视",
-            "name": "🥭校长影视|网盘",
-            "type": 3,
-            "api": "csp_XiaoZhang",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
-        },
-        {
             "key": "YunPan",
             "name": "🍍云盘资源|网盘",
             "type": 3,
             "api": "csp_YunPan",
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
-        },
-        {
-            "key": "YingSo",
-            "name": "🥥影搜|网盘",
-            "type": 3,
-            "api": "csp_YingSo",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json"
         },
         {
             "key": "PanSearch",
@@ -405,21 +416,6 @@
             "api": "csp_YiSo",
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
-            "key": "Panta",
-            "name": "🌽盘Ta|网盘",
-            "type": 3,
-            "api": "csp_Panta",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -514,6 +510,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
+        },
+        {
+            "key": "欧乐影院",
+            "name": "🥓欧乐影院|海外",
+            "type": 3,
+            "api": "csp_Olevod",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "Wo4k",
@@ -671,7 +678,6 @@
                 "ratio": 1.1
             }
         },
-        
         {
             "key": "push_agent",
             "name": "推送",
