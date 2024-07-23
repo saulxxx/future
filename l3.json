@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;d9cad49cadbad43133bdc27d3a4ba559",
+    "spider": "./pg.jar;md5;ea34f3999eeccc1d9fdf43b95537bac9",
     "lives": [
         {
             "name": "直播",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "timeout": 60,
+            "timeout": 120,
             "ext": {
                 "token": "./lib/tokenm.json",
                 "json": "./lib/youtube.json",
@@ -198,7 +198,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg",
