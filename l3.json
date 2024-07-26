@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;ea34f3999eeccc1d9fdf43b95537bac9",
+    "spider": "./pg.jar",
     "lives": [
         {
             "name": "直播",
@@ -137,6 +137,17 @@
             "changeable": 0
         },
         {
+            "key": "Hdhive",
+            "name": "🍒影巢|网盘",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$noproxy$$$1"
+        },
+        {
             "key": "YunPan",
             "name": "🍍云盘资源|网盘",
             "type": 3,
@@ -154,17 +165,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$null$$$proxy"
-        },
-        {
-            "key": "Hdhive",
-            "name": "🍒影巢|网盘",
-            "type": 3,
-            "api": "csp_Hdhive",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$proxy$$$1"
         },
         {
             "key": "Funletu",
