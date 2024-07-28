@@ -284,21 +284,6 @@
             }
         },
         {
-            "key": "QuarkPanso",
-            "name": "🌶夸克盘搜|网盘",
-            "type": 3,
-            "api": "csp_QuarkPanso",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
             "key": "秒搜",
             "name": "🥬秒搜|网盘",
             "type": 3,
@@ -357,17 +342,6 @@
             "ext": "./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
         },
         {
-            "key": "YunPanOne",
-            "name": "🍠云盘One|网盘",
-            "type": 3,
-            "api": "csp_YunPanOne",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
-        },
-        {
             "key": "ddys",
             "name": "🥨低端影视|网盘",
             "type": 3,
@@ -412,17 +386,6 @@
             "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
         },
         {
-            "key": "团长资源",
-            "name": "🍓团长资源|网盘",
-            "type": 3,
-            "api": "csp_TZFile",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$noproxy$$$1"
-        },
-        {
             "key": "易搜",
             "name": "🥦易搜|网盘",
             "type": 3,
@@ -444,18 +407,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
-            "key": "UP云搜",
-            "name": "🥯UP云搜|网盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "timeout": 30,
-            "ext": "./lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
