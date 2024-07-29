@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar",
+    "spider": "./pg.jar;md5;6b30b26b545c3fe770893bc952ec5b00",
     "lives": [
         {
             "name": "直播",
@@ -250,28 +250,6 @@
             "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
-            "key": "美剧迷",
-            "name": "🍏美剧迷|网盘",
-            "type": 3,
-            "api": "csp_Meijumi",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 120,
-            "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
-        },
-        {
-            "key": "Libvio",
-            "name": "🍎LIBVIO|网盘",
-            "type": 3,
-            "api": "csp_Libvio",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
-        },
-        {
             "key": "88Pan",
             "name": "🍅88网盘|网盘",
             "type": 3,
@@ -342,15 +320,53 @@
             "ext": "./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
         },
         {
-            "key": "ddys",
-            "name": "🥨低端影视|网盘",
+            "key": "易搜",
+            "name": "🥦易搜|网盘",
             "type": 3,
-            "api": "csp_Ddys",
+            "api": "csp_YiSo",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "PikaSo",
+            "name": "🍉皮卡搜|网盘",
+            "type": 3,
+            "api": "csp_PikaSo",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
+            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "美剧迷",
+            "name": "🍏美剧迷|网盘",
+            "type": 3,
+            "api": "csp_Meijumi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
+        },
+        {
+            "key": "Libvio",
+            "name": "🍎LIBVIO|网盘",
+            "type": 3,
+            "api": "csp_Libvio",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
         },
         {
             "key": "Moli",
@@ -386,31 +402,15 @@
             "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
         },
         {
-            "key": "易搜",
-            "name": "🥦易搜|网盘",
+            "key": "ddys",
+            "name": "🥨低端影视|网盘",
             "type": 3,
-            "api": "csp_YiSo",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
-            "key": "PikaSo",
-            "name": "🍉皮卡搜|网盘",
-            "type": 3,
-            "api": "csp_PikaSo",
+            "api": "csp_Ddys",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
+            "ext": "./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
         },
         {
             "key": "欧乐影院",
