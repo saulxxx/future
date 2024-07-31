@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;6b30b26b545c3fe770893bc952ec5b00",
+    "spider": "./pg.jar;md5;3535d634369c5e59764532b83a9e0a11",
     "lives": [
         {
             "name": "直播",
@@ -99,7 +99,7 @@
         },
         {
             "key": "看球",
-            "name": "⚽看球",
+            "name": "⚽看球┃体育",
             "type": 3,
             "api": "csp_Kanqiu",
             "searchable": 0,
@@ -107,7 +107,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722265203952/wex.txt"
         },
         {
             "key": "MV_vod",
@@ -121,22 +121,6 @@
             "changeable": 0
         },
         {
-            "key": "mybili_open",
-            "name": "🅱哔哩",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/open/mybili_open.js",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "cntv_open",
-            "name": "📺cntv",
-            "type": 3,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/saulxxx/future/main/open/cntv_open.js",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
             "key": "115Share",
             "name": "🌽115云盘分享",
             "type": 3,
@@ -145,7 +129,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0,
-            "timeout": 60,
+            "timeout": 120,
             "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
             "style": {
                 "type": "list",
@@ -347,6 +331,17 @@
             }
         },
         {
+            "key": "YunPanOne",
+            "name": "🥩云盘One|网盘",
+            "type": 3,
+            "api": "csp_YunPanOne",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+        },
+        {
             "key": "美剧迷",
             "name": "🍏美剧迷|网盘",
             "type": 3,
@@ -400,6 +395,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+        },
+        {
+            "key": "团长资源",
+            "name": "🍇团长资源|网盘",
+            "type": 3,
+            "api": "csp_TZFile",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$noproxy$$$1"
         },
         {
             "key": "ddys",
