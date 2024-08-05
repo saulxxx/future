@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;3535d634369c5e59764532b83a9e0a11",
+    "spider": "./pg.jar;md5;33097098fff5edff8cf278af2245ed6d",
     "lives": [
         {
             "name": "直播",
@@ -137,6 +137,14 @@
             }
         },
         {
+            "key": "TGYunPan",
+            "name": "🍓TG搜索|网盘",
+            "type": 3,
+            "api": "csp_TGYunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
+        },
+        {
             "key": "Hdhive",
             "name": "🍒影巢|网盘",
             "type": 3,
@@ -198,7 +206,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
         },
         {
             "key": "Wobg",
@@ -316,23 +324,8 @@
             }
         },
         {
-            "key": "PikaSo",
-            "name": "🍉皮卡搜|网盘",
-            "type": 3,
-            "api": "csp_PikaSo",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
             "key": "YunPanOne",
-            "name": "🥩云盘One|网盘",
+            "name": "🍉云盘One|网盘",
             "type": 3,
             "api": "csp_YunPanOne",
             "quickSearch": 1,
@@ -430,6 +423,17 @@
             "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
         },
         {
+            "key": "Bt0",
+            "name": "🦑不太灵|磁力",
+            "type": 3,
+            "api": "csp_Bt0",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$noproxy$$$1"
+        },
+        {
             "key": "Wo4k",
             "name": "🥚玩偶4K|磁力",
             "type": 3,
@@ -452,17 +456,6 @@
             "ext": "./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"
         },
         {
-            "key": "Bt0",
-            "name": "🦑不太灵|磁力",
-            "type": 3,
-            "api": "csp_Bt0",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$noproxy$$$1"
-        },
-        {
             "key": "Bdys_spider",
             "name": "🦉哔滴┃磁力",
             "api": "csp_Bdys01",
@@ -481,93 +474,6 @@
             "changeable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-        },
-        {
-            "key": "迅雷8",
-            "name": "🕊迅雷吧|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "播放数组": "copylink&&</a>",
-                "播放链接": "alt=\"&&\"",
-                "简介": "b1f40f7888\"&&</p>",
-                "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
-                "分类": "电视剧$tv#电影$list"
-            }
-        },
-        {
-            "key": "小白",
-            "name": "🧲4小白磁力|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 1,
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.xbw20.com/",
-                "编码": "gb2312",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"time\">&&</label",
-                "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-                "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-                "起始页": 2,
-                "倒序": 1,
-                "播放数组": "迅雷下载</div>&&</div>",
-                "播放列表": "<a&&</a >"
-            }
-        },
-        {
-            "key": "BT天堂",
-            "name": "🌈BT天堂|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/bttt.json",
-            "jar": "./lib/XBPQ.jar"
-        },
-        {
-            "key": "布谷tv",
-            "name": "🐦布谷|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/XBPQ.jar",
-            "ext": {
-                "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
-                "简介": "◎简*介</p>&&</p>",
-                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-                "线路标题": "磁力",
-                "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
-                "播放列表": "<p>&&</p>[包含:magnet]",
-                "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-                "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}",
-                "搜索数组": "class=\"entry-media\">&&</div"
-            }
-        },
-        {
-            "key": "haokongbu",
-            "name": "👿好恐怖|磁力|XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://m.haokongbu.top/",
-                "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-                "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-                "副标题": "class=\"typeset\"&&</i>",
-                "起始页": 2,
-                "倒序": 1,
-                "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
-                "播放列表": "<ul>&&</div>[包含:magnet]"
-            },
-            "jar": "./lib/XBPQ.jar"
         },
         {
             "key": "AliShare",
