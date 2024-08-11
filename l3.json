@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "./pg.jar;md5;39bc1938516be4088578bb121306767e",
+    "spider": "./pg.jar;md5;bd29f5a223a34d425efbe5fa00c5669a",
     "lives": [
         {
             "name": "直播",
