@@ -69,14 +69,6 @@
             }
         },
         {
-            "key": "泥巴",
-            "name": "泥巴",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "ext": "1"
-        },
-        {
             "key": "18AV",
             "name": "18AV",
             "type": 3,
