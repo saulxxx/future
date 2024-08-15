@@ -111,10 +111,10 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.7
             },
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/TV/token.json"
+            "ext": "./lib/tokenm.json$$$https://www.javbus.com$$$proxy"
         },
         {
             "key": "csp_JavDb",
@@ -127,22 +127,9 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.77
+                "ratio": 1.5
             },
-            "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/TV/token.json"
-        },
-        {
-            "key": "lf_js_p2p",
-            "name": "磁力",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./lib/lf_p2p2_min.js",
-            "ext": "18+",
-            "timeout": 60
+            "ext": "./lib/tokenm.json$$$https://javdb.com$$$proxy"
         },
         {
             "key": "csp_Netflav",
@@ -165,8 +152,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://thze.cc/",
-            "ext": "http://127.0.0.1:9978/file/TV/token.json"
+            "ext": "./lib/tokenm.json$$$http://thze.cc/$$$proxy"
         },
         {
             "key": "SeHuaTang",
@@ -178,12 +164,11 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "null$$$proxy",
+            "ext": "./lib/tokenm.json$$$null$$$proxy",
             "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": "http://127.0.0.1:9978/file/TV/token.json"
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
             "key": "Xojav",
@@ -246,7 +231,7 @@
             "type": 3,
             "api": "csp_BtSow",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/TV/token.json$$$1"
+            "ext": "./lib/token.json$$$1"
         },
         {
             "key": "csp_BtSearch",
@@ -254,7 +239,7 @@
             "type": 3,
             "api": "csp_BtSearch",
             "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/TV/token.json$$$1"
+            "ext": "./lib/token.json$$$1"
         },
         {
             "key": "Clg",
