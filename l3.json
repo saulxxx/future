@@ -59,7 +59,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./lib/douban.json"
+            "ext": "./lib/tokenm.json$$$./lib/douban.json"
         },
         {
             "key": "配置中心",
