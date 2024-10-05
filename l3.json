@@ -194,15 +194,15 @@
         },
         {
             "key": "TGYunPanLocal",
-            "name": "🐰TG搜索|频道",
+            "name": "🐰TG搜索Local|网盘",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"
+            "ext": "./lib/tokenm.json$$$http://127.0.0.1:10199$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$noproxy$$$1"
         },
         {
             "key": "TGYunPan",
-            "name": "🦋TG搜索|群组",
+            "name": "🦋TG搜索|网盘",
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
@@ -210,7 +210,7 @@
         },
         {
             "key": "TGYunPan2",
-            "name": "🐞TG搜索|群组2",
+            "name": "🐞TG搜索|网盘2",
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
