@@ -130,7 +130,7 @@
         },
         {
             "key": "115Share",
-            "name": "🐶115云盘分享",
+            "name": "🐸115云盘分享",
             "type": 3,
             "api": "csp_P115Share",
             "searchable": 1,
@@ -146,7 +146,7 @@
         },
         {
             "key": "AliShare",
-            "name": "🐱阿里云盘影视分享",
+            "name": "🐯阿里云盘影视分享",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
@@ -162,7 +162,7 @@
         },
         {
             "key": "QuarkShare",
-            "name": "🐭夸克云盘分享",
+            "name": "🐮夸克云盘分享",
             "type": 3,
             "api": "csp_QuarkShare",
             "searchable": 1,
@@ -194,7 +194,7 @@
         },
         {
             "key": "TGYunPanLocal",
-            "name": "🐰TG搜索Local|网盘",
+            "name": "👒TG搜索Local|网盘",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 60,
@@ -202,7 +202,7 @@
         },
         {
             "key": "TGYunPan",
-            "name": "🦋TG搜索|网盘",
+            "name": "🎩TG搜索|网盘",
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
@@ -217,61 +217,8 @@
             "ext": "./lib/tokenm.json$$$http://127.0.0.1:10199/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,kc0102$$$noproxy$$$1"
         },
         {
-            "key": "Hdhive",
-            "name": "🦊影巢|网盘",
-            "type": 3,
-            "api": "csp_Hdhive",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1"
-        },
-        {
-            "key": "YunPan",
-            "name": "🐻云盘资源|网盘",
-            "type": 3,
-            "api": "csp_YunPan",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
-        },
-        {
-            "key": "PanSearch",
-            "name": "🐨PanSearch|网盘",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$proxy"
-        },
-        {
-            "key": "Funletu",
-            "name": "🐯趣盘搜|网盘",
-            "type": 3,
-            "api": "csp_Funletu",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
-            "key": "YingSo",
-            "name": "🦁影搜|网盘",
-            "type": 3,
-            "api": "csp_YingSo",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json"
-        },
-        {
             "key": "Wogg",
-            "name": "🐵玩偶哥哥|网盘",
+            "name": "🍏玩偶哥哥|网盘",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -282,7 +229,7 @@
         },
         {
             "key": "yydsys",
-            "name": "🙈玩偶老哥|网盘",
+            "name": "🍎玩偶老哥|网盘",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -293,7 +240,7 @@
         },
         {
             "key": "Wobg",
-            "name": "🙉玩偶表哥|网盘",
+            "name": "🍐玩偶表哥|网盘",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -303,19 +250,8 @@
             "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"
         },
         {
-            "key": "蜡笔网盘",
-            "name": "🙊蜡笔|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
-        },
-        {
             "key": "Mogg",
-            "name": "🐒木偶哥哥|网盘",
+            "name": "🍊木偶哥哥|网盘",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -323,6 +259,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+        },
+        {
+            "key": "蜡笔网盘",
+            "name": "✏️蜡笔|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
         },
         {
             "key": "土豆",
@@ -337,7 +284,7 @@
         },
         {
             "key": "小米网盘",
-            "name": "🐔小米|网盘",
+            "name": "🍚小米|网盘",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -347,8 +294,61 @@
             "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
         },
         {
+            "key": "Hdhive",
+            "name": "🍒影巢|网盘",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1"
+        },
+        {
+            "key": "YunPan",
+            "name": "🍍云盘资源|网盘",
+            "type": 3,
+            "api": "csp_YunPan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1"
+        },
+        {
+            "key": "PanSearch",
+            "name": "🍅PanSearch|网盘",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
+        },
+        {
+            "key": "Funletu",
+            "name": "🍇趣盘搜|网盘",
+            "type": 3,
+            "api": "csp_Funletu",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "YingSo",
+            "name": "🥥影搜|网盘",
+            "type": 3,
+            "api": "csp_YingSo",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json"
+        },
+        {
             "key": "混合盘",
-            "name": "🐮混合盘|网盘",
+            "name": "🥝混合盘|网盘",
             "type": 3,
             "api": "csp_HunHePan",
             "timeout": 60,
@@ -360,7 +360,7 @@
         },
         {
             "key": "88Pan",
-            "name": "🐷88网盘|网盘",
+            "name": "🍆88网盘|网盘",
             "type": 3,
             "api": "csp_EightEight",
             "timeout": 60,
@@ -372,7 +372,7 @@
         },
         {
             "key": "秒搜",
-            "name": "🐸秒搜|网盘",
+            "name": "🍈秒搜|网盘",
             "type": 3,
             "api": "csp_MiaoSou",
             "timeout": 60,
@@ -384,7 +384,7 @@
         },
         {
             "key": "Xpanpan",
-            "name": "🐧小盘盘|网盘",
+            "name": "🍓小盘盘|网盘",
             "type": 3,
             "api": "csp_Xpanpan",
             "quickSearch": 1,
@@ -399,7 +399,7 @@
         },
         {
             "key": "盘友圈",
-            "name": "🐦盘友圈|网盘",
+            "name": "🍑盘友圈|网盘",
             "type": 3,
             "api": "csp_Panyq",
             "timeout": 60,
@@ -407,7 +407,7 @@
         },
         {
             "key": "DaPanSo",
-            "name": "🐤大盘搜|网盘",
+            "name": "🥭大盘搜|网盘",
             "type": 3,
             "api": "csp_DaPanSo",
             "quickSearch": 1,
@@ -418,7 +418,7 @@
         },
         {
             "key": "易搜",
-            "name": "🐣易搜|网盘",
+            "name": "🍌易搜|网盘",
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 60,
@@ -430,7 +430,7 @@
         },
         {
             "key": "YunPanOne",
-            "name": "🐥云盘One|网盘",
+            "name": "🍉云盘One|网盘",
             "type": 3,
             "api": "csp_YunPanOne",
             "quickSearch": 1,
@@ -474,7 +474,7 @@
         },
         {
             "key": "Ppxzy",
-            "name": "🐺皮皮虾|网盘",
+            "name": "🦐皮皮虾|网盘",
             "type": 3,
             "api": "csp_Ppxzy",
             "quickSearch": 1,
