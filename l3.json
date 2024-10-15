@@ -197,24 +197,63 @@
             "name": "👒TG搜索Local|网盘",
             "type": 3,
             "api": "csp_TGYunPanLocal",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://127.0.0.1:10199$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$noproxy$$$1"
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+                "proxy": "proxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
         },
         {
             "key": "TGYunPan",
             "name": "🎩TG搜索|网盘",
             "type": 3,
             "api": "csp_TGYunPan",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
         },
         {
-            "key": "TGYunPan2",
+            "key": "TGYunPan",
             "name": "🐞TG搜索|网盘2",
             "type": 3,
             "api": "csp_TGYunPan",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://127.0.0.1:10199/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,kc0102$$$noproxy$$$1"
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,kc0102",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
         },
         {
             "key": "Wogg",
@@ -297,12 +336,12 @@
             "key": "Hdhive",
             "name": "🍒影巢|网盘",
             "type": 3,
-            "api": "csp_Hdhive",
+            "api": "csp_Hdh",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1"
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
         },
         {
             "key": "YunPan",
