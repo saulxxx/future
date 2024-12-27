@@ -252,7 +252,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": "./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
+            "ext": "./lib/tokenm.json$$$https://hdhive.online$$$proxy$$$1$$$./lib/hdhive.txt"
         },
         {
             "key": "Wogg",
@@ -605,14 +605,6 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "肥羊咪咕电视直播",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/1800/null/http://127.0.0.1:35456/migu.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "肥羊TPTV",
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tptv.m3u",
@@ -749,7 +741,7 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "live.ipv6",
+            "name": "fmm.live.ipv6",
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15",
@@ -757,7 +749,7 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "live.ipv6.m3u",
+            "name": "fmm.live.ipv6.m3u",
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15",
