@@ -118,7 +118,7 @@
         },
         {
             "key": "AliShare",
-            "name": "🐯阿里云盘影视分享",
+            "name": "🐠阿里云盘影视分享",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
@@ -193,7 +193,7 @@
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
                 "channellist": "ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-                "proxy": "proxy",
+                "proxy": "noproxy",
                 "danmu": true
             },
             "style": {
@@ -242,6 +242,17 @@
                 "type": "rect",
                 "ratio": 1.77
             }
+        },
+        {
+            "key": "Guanying",
+            "name": "🐬观影|网盘|磁力",
+            "type": 3,
+            "api": "csp_Guanying",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.gyg.la$$$noproxy$$$1$$$./lib/guanying.txt"
         },
         {
             "key": "Hdhive",
@@ -330,6 +341,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+        },
+        {
+            "key": "Huban",
+            "name": "🐯虎斑|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/token.json$$$https://wp.huban.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$U_HUBAN"
         },
         {
             "key": "YunPan",
@@ -597,17 +619,9 @@
     ],
     "lives": [
         {
-            "name": "肥羊国内直播",
+            "name": "最强国内直播",
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "肥羊TPTV",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tptv.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -663,7 +677,7 @@
         {
             "name": "Gather.MyTV",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/MyTV",
+            "url": "http://127.0.0.1:10079/c/60/proxy/https://tv.iill.top/m3u/MyTV",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -741,17 +755,17 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fmm.live.ipv6",
+            "name": "fmm.live.ipv6.m3u",
             "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "http://127.0.0.1:10079/c/3600/proxy/https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "fmm.live.ipv6.m3u",
+            "name": "fmm.live.ipv6",
             "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "http://127.0.0.1:10079/c/3600/proxy/https://fanmingming.cn/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
