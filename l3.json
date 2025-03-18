@@ -24,7 +24,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+                "channellist": "tgsearchers,leoziyuan,ucpanpan,ucwpzy,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,ydypzyfx,ydyp888,xlshare,xunleiyunpan,kuakeclound,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
                 "proxy": "noproxy",
                 "douban": "./lib/douban.json",
                 "danmu": true
@@ -182,7 +182,7 @@
         },
         {
             "key": "TGYunPanLocal",
-            "name": "👒TG频道|网盘",
+            "name": "👒TG|综合",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 120,
@@ -192,7 +192,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "tgsearchers,leoziyuan,XiangxiuNB,clouddriveresources,ucpanpan,ucwpzy,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,ydypzyfx,ydyp888,xlshare,xunleiyunpan,Quark_Movies,NewQuark,kuakeyun,yunpanshare,alyp_Animation,alyp_TV,alyp_1,alyp_JLP,alyp_4K_Movies,NewAliPan,aliyun,zaihuayun,shareAliyun,hao115,vip115hot,oneonefivewpfx,guaguale115,Channel_Shares_115",
+                "channellist": "tgsearchers,leoziyuan,XiangxiuNB,quanziyuanshe,kuakeclound,vip115hot,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -202,10 +202,10 @@
             }
         },
         {
-            "key": "TGYunPan",
-            "name": "🎩TG群组|网盘",
+            "key": "TGYunPanLocalkg",
+            "name": "🎩TG|夸克",
             "type": 3,
-            "api": "csp_TGYunPan",
+            "api": "csp_TGYunPanLocal",
             "timeout": 120,
             "ext": {
                 "token": "./lib/tokenm.json",
@@ -213,7 +213,133 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
+                "channellist": "yunpanshare,Quark_Movies,NewQuark,kuakeyun",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPanLocalali",
+            "name": "🎩TG|阿里",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "NewAliPan,zaihuayun,shareAliyun",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPanLocaluc",
+            "name": "🎩TG|UC",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "ucpanpan,ucwpzy,ucquark",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPanLocal189",
+            "name": "🎩TG|天翼",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPanLocal123",
+            "name": "🎩TG|123",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "pan123pan,zyfb123,zyzhpd123,xx123pan",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPanLocalyd",
+            "name": "🎩TG|移动",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "ydypzyfx,ydyp888",
+                "proxy": "noproxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "TGYunPanLocalxl",
+            "name": "🎩TG|迅雷",
+            "type": 3,
+            "api": "csp_TGYunPanLocal",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://127.0.0.1:10199",
+                "tgsearch_media_url": "http://127.0.0.1:10199",
+                "channellist": "xlshare,xunleiyunpan,MCPH860,MCPH608,MCPH01",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -376,6 +502,28 @@
             "ext": "./lib/tokenm.json$$$https://erxiao.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
         },
         {
+            "key": "pg大玩ou",
+            "name": "🧸大玩ou|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://dawo.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
+        },
+        {
+            "key": "玩偶叔叔",
+            "name": "🕶偶叔|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://woss.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
+        },
+        {
             "key": "校长影视",
             "name": "🧛校长影视|网盘",
             "type": 3,
@@ -406,7 +554,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+            "ext": "./lib/tokenm.json$$$https://libo.banye.tech:7086$$$null"
         },
         {
             "key": "Moli",
@@ -572,7 +720,7 @@
         },
         {
             "key": "Yinfans",
-            "name": "🍳音范丝|磁力",
+            "name": "🎹音范丝|磁力",
             "type": 3,
             "api": "csp_Gaoqing",
             "quickSearch": 1,
@@ -593,7 +741,7 @@
         },
         {
             "key": "新6V",
-            "name": "🪅新6V┃磁力",
+            "name": "🎈新6V┃磁力",
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
