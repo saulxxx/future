@@ -192,70 +192,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "tgsearchers,leoziyuan,XiangxiuNB,quanziyuanshe,kuakeclound,vip115hot,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115",
-                "proxy": "noproxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
-        },
-        {
-            "key": "TGYunPanLocalkg",
-            "name": "🎩TG|夸克",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 120,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://127.0.0.1:10199",
-                "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "yunpanshare,Quark_Movies,NewQuark,kuakeyun",
-                "proxy": "noproxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
-        },
-        {
-            "key": "TGYunPanLocalali",
-            "name": "🎩TG|阿里",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 120,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://127.0.0.1:10199",
-                "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "NewAliPan,zaihuayun,shareAliyun",
-                "proxy": "noproxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
-        },
-        {
-            "key": "TGYunPanLocaluc",
-            "name": "🎩TG|UC",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 120,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://127.0.0.1:10199",
-                "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "ucpanpan,ucwpzy,ucquark",
+                "channellist": "tgsearchers,leoziyuan,XiangxiuNB,vip115hot,ydypzyfx,ydyp888,xlshare,MCPH608,yunpanshare,Quark_Movies,NewQuark,kuakeyun,hao115,guaguale115,Channel_Shares_115",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -307,8 +244,8 @@
             }
         },
         {
-            "key": "TGYunPanLocalyd",
-            "name": "🎩TG|移动",
+            "key": "TGYunPanLocaluc",
+            "name": "🎩TG|UC",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 120,
@@ -318,7 +255,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "ydypzyfx,ydyp888",
+                "channellist": "ucpanpan,ucwpzy,ucquark",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -328,8 +265,8 @@
             }
         },
         {
-            "key": "TGYunPanLocalxl",
-            "name": "🎩TG|迅雷",
+            "key": "TGYunPanLocalali",
+            "name": "🎩TG|阿里",
             "type": 3,
             "api": "csp_TGYunPanLocal",
             "timeout": 120,
@@ -339,7 +276,7 @@
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "http://127.0.0.1:10199",
                 "tgsearch_media_url": "http://127.0.0.1:10199",
-                "channellist": "xlshare,xunleiyunpan,MCPH860,MCPH608,MCPH01",
+                "channellist": "NewAliPan,zaihuayun,shareAliyun",
                 "proxy": "noproxy",
                 "danmu": true
             },
@@ -389,7 +326,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"
+            "ext": "./lib/tokenm.json$$$https://www.4kdy.vip/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"
         },
         {
             "key": "Wogg",
@@ -458,6 +395,50 @@
             "ext": "./lib/tokenm.json$$$https://zhizhen.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN"
         },
         {
+            "key": "xiaoer",
+            "name": "👻二小|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://erxiao.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
+        },
+        {
+            "key": "WOSS",
+            "name": "🕶偶叔|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://woss.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$WOSS"
+        },
+        {
+            "key": "DAWO",
+            "name": "🧸大玩ou|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://dawo.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$DAWO"
+        },
+        {
+            "key": "BAIJIA",
+            "name": "🏮百家|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://baijia.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$BAIJIA"
+        },
+        {
             "key": "Huban",
             "name": "🐯虎斑|网盘",
             "type": 3,
@@ -491,39 +472,6 @@
             "ext": "./lib/tokenm.json$$$https://ouge.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
         },
         {
-            "key": "xiaoer",
-            "name": "👻二小|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://erxiao.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
-        },
-        {
-            "key": "pg大玩ou",
-            "name": "🧸大玩ou|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://dawo.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
-        },
-        {
-            "key": "玩偶叔叔",
-            "name": "🕶偶叔|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://woss.banye.tech:7086$$$noproxy$$$1$$$./lib/wogg.json$$$1"
-        },
-        {
             "key": "校长影视",
             "name": "🧛校长影视|网盘",
             "type": 3,
@@ -535,17 +483,6 @@
             "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
-            "key": "美剧迷",
-            "name": "🦆美剧迷|网盘",
-            "type": 3,
-            "api": "csp_Meijumi",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 120,
-            "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
-        },
-        {
             "key": "Libvio",
             "name": "🍭LIBVIO|网盘",
             "type": 3,
@@ -555,6 +492,17 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://libo.banye.tech:7086$$$null"
+        },
+        {
+            "key": "美剧迷",
+            "name": "🦆美剧迷|网盘",
+            "type": 3,
+            "api": "csp_Meijumi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
         },
         {
             "key": "Moli",
